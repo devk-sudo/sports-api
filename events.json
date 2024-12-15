@@ -14,7 +14,7 @@
                 "links": [
                     "https://thedaddy.to/embed/stream-164.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
                     "m3u8_url": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium164/mono.m3u8?token=none",
                     "m3u8_1": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium164/mono.m3u8?token=none",
@@ -43,7 +43,7 @@
                     "https://thedaddy.to/embed/stream-36.php",
                     "https://thedaddy.to/embed/stream-500.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
                     "m3u8_url": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium36/mono.m3u8?token=none",
                     "m3u8_1": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium500/mono.m3u8?token=none",
@@ -80,7 +80,7 @@
                     "https://thedaddy.to/embed/stream-62.php",
                     "https://thedaddy.to/embed/stream-102.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
                     "m3u8_url": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium62/mono.m3u8?token=none",
                     "m3u8_1": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium102/mono.m3u8?token=none",
@@ -108,7 +108,7 @@
                 "links": [
                     "https://thedaddy.to/embed/stream-62.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
                     "m3u8_url": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium62/mono.m3u8?token=none",
                     "m3u8_1": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium62/mono.m3u8?token=none",
@@ -137,7 +137,7 @@
                     "https://thedaddy.to/embed/stream-62.php",
                     "https://thedaddy.to/embed/stream-291.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
                     "m3u8_url": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium62/mono.m3u8?token=none",
                     "m3u8_1": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium291/mono.m3u8?token=none",
@@ -173,7 +173,7 @@
                 "links": [
                     "https://thedaddy.to/embed/stream-386.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
                     "m3u8_url": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium386/mono.m3u8?token=none",
                     "m3u8_1": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium386/mono.m3u8?token=none",
@@ -201,7 +201,7 @@
                 "links": [
                     "https://thedaddy.to/embed/stream-17.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
                     "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium17/mono.m3u8?token=none",
                     "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium17/mono.m3u8?token=none",
@@ -229,7 +229,7 @@
                 "links": [
                     "https://thedaddy.to/embed/stream-379.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
                     "m3u8_url": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium379/mono.m3u8?token=none",
                     "m3u8_1": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium379/mono.m3u8?token=none",
@@ -258,7 +258,7 @@
                     "https://thedaddy.to/embed/stream-379.php",
                     "https://thedaddy.to/embed/stream-410.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
                     "m3u8_url": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium379/mono.m3u8?token=none",
                     "m3u8_1": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium410/mono.m3u8?token=none",
@@ -287,7 +287,7 @@
                     "https://thedaddy.to/embed/stream-379.php",
                     "https://thedaddy.to/embed/stream-410.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
                     "m3u8_url": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium379/mono.m3u8?token=none",
                     "m3u8_1": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium410/mono.m3u8?token=none",
@@ -477,7 +477,7 @@
                     "https://thedaddy.to/embed/stream-357.php",
                     "https://thedaddy.to/embed/stream-557.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
                     "m3u8_url": "https://ddh1.iosplayer.ru/tshttp/ddh1/premium357/mono.m3u8?token=none",
                     "m3u8_1": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium557/mono.m3u8?token=none",
@@ -506,7 +506,7 @@
                     "https://thedaddy.to/embed/stream-35.php",
                     "https://thedaddy.to/embed/stream-411.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
                     "m3u8_url": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium35/mono.m3u8?token=none",
                     "m3u8_1": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium411/mono.m3u8?token=none",
@@ -877,7 +877,7 @@
                     "https://thedaddy.to/embed/stream-55.php",
                     "https://thedaddy.to/embed/stream-425.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
                     "m3u8_url": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium55/mono.m3u8?token=none",
                     "m3u8_1": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium425/mono.m3u8?token=none",
@@ -906,7 +906,7 @@
                     "https://thedaddy.to/embed/stream-105.php",
                     "https://thedaddy.to/embed/stream-290.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
                     "m3u8_url": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium105/mono.m3u8?token=none",
                     "m3u8_1": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium290/mono.m3u8?token=none",
@@ -934,7 +934,7 @@
                 "links": [
                     "https://thedaddy.to/embed/stream-106.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
                     "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
                     "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
@@ -963,7 +963,7 @@
                     "https://thedaddy.to/embed/stream-55.php",
                     "https://thedaddy.to/embed/stream-425.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
                     "m3u8_url": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium55/mono.m3u8?token=none",
                     "m3u8_1": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium425/mono.m3u8?token=none",
@@ -992,7 +992,7 @@
                     "https://thedaddy.to/embed/stream-55.php",
                     "https://thedaddy.to/embed/stream-425.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
                     "m3u8_url": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium55/mono.m3u8?token=none",
                     "m3u8_1": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium425/mono.m3u8?token=none",
@@ -1029,7 +1029,7 @@
                     "https://thedaddy.to/embed/stream-427.php",
                     "https://thedaddy.to/embed/stream-449.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
                     "m3u8_url": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium427/mono.m3u8?token=none",
                     "m3u8_1": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium449/mono.m3u8?token=none",
@@ -1058,7 +1058,7 @@
                     "https://thedaddy.to/embed/stream-426.php",
                     "https://thedaddy.to/embed/stream-35.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
                     "m3u8_url": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium426/mono.m3u8?token=none",
                     "m3u8_1": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium35/mono.m3u8?token=none",
@@ -1087,7 +1087,7 @@
                     "https://thedaddy.to/embed/stream-426.php",
                     "https://thedaddy.to/embed/stream-449.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
                     "m3u8_url": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium426/mono.m3u8?token=none",
                     "m3u8_1": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium449/mono.m3u8?token=none",
@@ -1124,7 +1124,7 @@
                     "https://thedaddy.to/embed/stream-74.php",
                     "https://thedaddy.to/embed/stream-597.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
                     "m3u8_url": "https://ddh1.iosplayer.ru/tshttp/ddh1/premium74/mono.m3u8?token=none",
                     "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium597/mono.m3u8?token=none",
@@ -1153,7 +1153,7 @@
                     "https://thedaddy.to/embed/stream-49.php",
                     "https://thedaddy.to/embed/stream-597.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
                     "m3u8_url": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium49/mono.m3u8?token=none",
                     "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium597/mono.m3u8?token=none",
@@ -1181,7 +1181,7 @@
                 "links": [
                     "https://thedaddy.to/embed/stream-74.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
                     "m3u8_url": "https://ddh1.iosplayer.ru/tshttp/ddh1/premium74/mono.m3u8?token=none",
                     "m3u8_1": "https://ddh1.iosplayer.ru/tshttp/ddh1/premium74/mono.m3u8?token=none",
