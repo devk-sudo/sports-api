@@ -842,9 +842,9 @@
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium31/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium31/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium31/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
