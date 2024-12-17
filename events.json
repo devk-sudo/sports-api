@@ -1,25 +1,24 @@
 [
     {
-        "id": "4449ccad-a0e2-46dd-8eaa-90b6d603f14a",
-        "competition": "Super Lig",
-        "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/4071a3106032599.5f883b6b76eb8.jpg",
-        "priority": 17,
+        "id": "3d34304a-55ee-4f55-a0f7-48e645daee25",
+        "competition": "UEFA Women's Champions League",
+        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/3109330209ffa35b6730141e3d52fd1d.jpg",
+        "priority": 11,
         "matches": [
             {
-                "id": "ed8eadf1-d6cf-4cc2-b6c4-b5a5f348e5b9",
-                "time": "2024-12-16T16:00:00+00:00",
-                "country": "Super Lig",
-                "league": "Super Lig",
-                "match": "Adana Demirspor vs Be\u015fikta\u015f",
+                "id": "d7c4a5f5-c49b-4243-b4d4-90ad8155e358",
+                "time": "2024-12-17T17:45:00+00:00",
+                "country": "UEFA Women's Champions League",
+                "league": "UEFA Women's Champions League",
+                "match": "Twente vs Celtic FC",
                 "links": [
-                    "https://thedaddy.to/embed/stream-62.php",
-                    "https://thedaddy.to/embed/stream-425.php"
+                    "https://thedaddy.to/embed/stream-456.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium62/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium425/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium62/mono.m3u8?token=none"
+                    "m3u8_url": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium456/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium456/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium456/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -32,153 +31,51 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://footballwhispers.com/wp-content/uploads/2024/01/Adana-Demirspor-vs-Besiktas-predictions-scaled-e1734227742210.jpg"
+                "thumb": "https://ichef.bbci.co.uk/ace/standard/904/cpsprodpb/6a9c/live/018bf550-bbbc-11ef-9dde-6380fe4ea45e.jpg"
             },
             {
-                "id": "17558705-09c2-49ca-984d-59bf3237241a",
-                "time": "2024-12-16T18:00:00+00:00",
-                "country": "Super Lig",
-                "league": "Super Lig",
-                "match": "Galatasaray vs Trabzonspor",
+                "id": "54725284-dbd5-4af2-9c3f-c2e0d6eb32e5",
+                "time": "2024-12-17T17:45:00+00:00",
+                "country": "UEFA Women's Champions League",
+                "league": "UEFA Women's Champions League",
+                "match": "Real Madrid vs Chelsea FC",
                 "links": [
-                    "https://thedaddy.to/embed/stream-62.php",
-                    "https://thedaddy.to/embed/stream-425.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium62/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium425/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium62/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://preview.redd.it/galatasaray-vs-trabzonspor-bingo-card-derby-special-v0-81emp7xxw07e1.png?auto=webp&s=a42b9d42b10596d0199a7fa5be114fbbf2fe3db2"
-            }
-        ]
-    },
-    {
-        "id": "3a871a08-0e70-4570-88cf-87d027c25db5",
-        "competition": "Portugal - Primeira Liga",
-        "thumbnail": "https://www.soccertimes.com/wp-content/uploads/2018/05/primeira-liga-logo.jpg",
-        "priority": 21,
-        "matches": [
-            {
-                "id": "52920881-efe3-4e79-aa28-b96aaf029085",
-                "time": "2024-12-16T18:45:00+00:00",
-                "country": "Portugal - Primeira Liga",
-                "league": "Portugal - Primeira Liga",
-                "match": "Sporting Braga vs Famalic\u00e3o",
-                "links": [
-                    "https://thedaddy.to/embed/stream-74.php",
-                    "https://thedaddy.to/embed/stream-629.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddh1.iosplayer.ru/tshttp/ddh1/premium74/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddh1.iosplayer.ru/tshttp/ddh1/premium629/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddh1.iosplayer.ru/tshttp/ddh1/premium74/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2024-12/Braga%20x%20Famalicao%2012152024.jpg?h=563e9c4e&itok=djaACNFZ"
-            },
-            {
-                "id": "b6e2365f-7561-4faf-b427-efb39f150255",
-                "time": "2024-12-16T20:15:00+00:00",
-                "country": "Portugal - Primeira Liga",
-                "league": "Portugal - Primeira Liga",
-                "match": "Porto vs Estrela",
-                "links": [
-                    "https://thedaddy.to/embed/stream-49.php",
-                    "https://thedaddy.to/embed/stream-597.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium49/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium597/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium49/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://www.imageservera.com/cdn-cgi/image/format=webp/uploadedimages/202412/Dec15/TNCR_Martim-Fernandes-of-FC-Porto-15125191.jpg"
-            },
-            {
-                "id": "a166da10-7381-4f63-90bc-949c2bbfda1c",
-                "time": "2024-12-16T20:45:00+00:00",
-                "country": "Portugal - Primeira Liga",
-                "league": "Portugal - Primeira Liga",
-                "match": "Rio Ave vs Vit\u00f3ria Guimar\u00e3es",
-                "links": [
-                    "https://thedaddy.to/embed/stream-454.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium454/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium454/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium454/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://cdn.dailysports.net/dailysports/20241215/e16ee1c7451d3e9789a592205c834bc57f135a794bafb84d37e56f7a292f3005-560-320.jpg"
-            }
-        ]
-    },
-    {
-        "id": "aff82389-c717-4dbd-9c53-5c4b6b8acee1",
-        "competition": "Italy - Serie A",
-        "thumbnail": "https://www.soccerbible.com/media/93703/fb-serie-a-logo-new.jpg",
-        "priority": 8,
-        "matches": [
-            {
-                "id": "dcca440c-3402-449b-bf38-4cb532d66743",
-                "time": "2024-12-16T19:45:00+00:00",
-                "country": "Italy - Serie A",
-                "league": "Italy - Serie A",
-                "match": "Lazio vs Internazionale",
-                "links": [
-                    "https://thedaddy.to/embed/stream-877.php",
+                    "https://thedaddy.to/embed/stream-445.php",
                     "https://thedaddy.to/embed/stream-426.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium877/mono.m3u8?token=none",
+                    "m3u8_url": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium445/mono.m3u8?token=none",
                     "m3u8_1": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium426/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium445/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://i.ytimg.com/vi/qwwRLBW-mu4/hq720.jpg?v=67603a32&sqp=CMyigrsG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBFvncs0RT_k7DNfuJgkVoBbUMPjA"
+            },
+            {
+                "id": "8facf1a7-4d7c-47aa-8d2c-70da6fbea0c6",
+                "time": "2024-12-17T20:00:00+00:00",
+                "country": "UEFA Women's Champions League",
+                "league": "UEFA Women's Champions League",
+                "match": "Roma vs Galatasaray",
+                "links": [
+                    "https://thedaddy.to/embed/stream-877.php",
+                    "https://thedaddy.to/embed/stream-427.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium877/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium427/mono.m3u8?token=none",
                     "m3u8_2": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium877/mono.m3u8?token=none"
                 },
                 "headers": {
@@ -192,31 +89,23 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://icdn.sempreinter.com/wp-content/uploads/2024/12/parma-v-ss-lazio-serie-a.jpg"
-            }
-        ]
-    },
-    {
-        "id": "2a78b361-49e7-49cd-a0d0-aec3885a7007",
-        "competition": "England - Premier League",
-        "thumbnail": "https://ntvb.tmsimg.com/assets/p3605402_b_h8_ar.jpg?w=960&h=540",
-        "priority": 4,
-        "matches": [
+                "thumb": "https://editorial.uefa.com//resources/0294-1c9542ec2730-2b63354715c8-1000/format/wide1/galatasaray_a.s._v_as_roma_-_uefa_women_s_champions_league_2024_25_group_stage_md2.jpeg"
+            },
             {
-                "id": "c53ae1a3-e715-4ca5-9d21-17857147457d",
-                "time": "2024-12-16T20:00:00+00:00",
-                "country": "England - Premier League",
-                "league": "England - Premier League",
-                "match": "AFC Bournemouth vs West Ham United",
+                "id": "419d26f1-bc18-48fd-9965-09250c503349",
+                "time": "2024-12-17T20:00:00+00:00",
+                "country": "UEFA Women's Champions League",
+                "league": "UEFA Women's Champions League",
+                "match": "Olympique Lyonnais vs Wolfsburg",
                 "links": [
-                    "https://thedaddy.to/embed/stream-4.php",
-                    "https://thedaddy.to/embed/stream-5.php"
+                    "https://thedaddy.to/embed/stream-445.php",
+                    "https://thedaddy.to/embed/stream-426.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium4/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium5/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium4/mono.m3u8?token=none"
+                    "m3u8_url": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium445/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium426/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium445/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -229,7 +118,7 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://i.ytimg.com/vi/UNybVBPDTQ4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBeeFEttap-SMGPAWjS7unhhL7OAQ"
+                "thumb": "https://i.ytimg.com/vi/rWJ3zsTwJy4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBsNAD39nRVmQpO4FrAN6stgYLyqA"
             }
         ]
     }
