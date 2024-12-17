@@ -1,12 +1,432 @@
 [
     {
-        "id": "3d34304a-55ee-4f55-a0f7-48e645daee25",
+        "id": "a4838ab3-3311-445e-8263-7b7ebd05a788",
+        "competition": "Israel U19 Premier Division",
+        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/6b5cb81ca8e0d1d2686e6c63371ca590.jpg",
+        "priority": 100,
+        "matches": [
+            {
+                "id": "82b02021-4e60-4cc3-990d-8997e963ec37",
+                "time": "2024-12-17T08:00:00+00:00",
+                "country": "Israel U19 Premier Division",
+                "league": "Israel U19 Premier Division",
+                "match": "Maccabi Haifa U19 vs Maccabi Tel Aviv U19",
+                "links": [
+                    "https://thedaddy.to/embed/stream-144.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium144/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium144/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium144/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://cdn.oddspedia.bg/media/en/1x1/maccabi-haifa-u19-maccabi-tel-aviv-u19-9058071.png"
+            }
+        ]
+    },
+    {
+        "id": "192df1ba-2e3b-4051-b363-b49718c78a88",
+        "competition": "Malaysia - Super League",
+        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/6b5cb81ca8e0d1d2686e6c63371ca590.jpg",
+        "priority": 100,
+        "matches": [
+            {
+                "id": "c794c0b4-3766-4462-a338-fb55566c2476",
+                "time": "2024-12-17T09:30:00+00:00",
+                "country": "Malaysia - Super League",
+                "league": "Malaysia - Super League",
+                "match": "Kuala Lumpur City vs Negeri Sembilan",
+                "links": [],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://lookaside.fbsbx.com/lookaside/crawler/threads/DDp1vzmMGHP/0/image.jpg"
+            }
+        ]
+    },
+    {
+        "id": "45898df8-38b0-4901-84f5-aca6ccc7b25a",
+        "competition": "Turkiye Turkiye Kupasi",
+        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/6b5cb81ca8e0d1d2686e6c63371ca590.jpg",
+        "priority": 100,
+        "matches": [
+            {
+                "id": "6c35669a-e90f-4113-959d-544f1fe3d67d",
+                "time": "2024-12-17T10:00:00+00:00",
+                "country": "Turkiye Turkiye Kupasi",
+                "league": "Turkiye Turkiye Kupasi",
+                "match": "Eyupspor vs. Etimesgut Belediyespor",
+                "links": [
+                    "https://thedaddy.to/embed/stream-27.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium27/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium27/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium27/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://liontips.com/images/uploads2018/thumbs/800x450/235585.jpg?v=1734360285"
+            },
+            {
+                "id": "4290ad90-1dee-493e-9391-7346357f5db9",
+                "time": "2024-12-17T12:30:00+00:00",
+                "country": "Turkiye Turkiye Kupasi",
+                "league": "Turkiye Turkiye Kupasi",
+                "match": "Konyaspor vs. Karacabey Belediyespor",
+                "links": [
+                    "https://thedaddy.to/embed/stream-27.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium27/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium27/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium27/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://www.imageservera.com/cdn-cgi/image/format=webp/uploadedimages/202412/Dec16/TNCR_Konyaspor-16126169.jpg"
+            },
+            {
+                "id": "f7b22a99-10cb-440c-bd77-5d8c541c6601",
+                "time": "2024-12-17T15:00:00+00:00",
+                "country": "Turkiye Turkiye Kupasi",
+                "league": "Turkiye Turkiye Kupasi",
+                "match": "Caykur Rizespor vs. Van Spor FK",
+                "links": [
+                    "https://thedaddy.to/embed/stream-27.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium27/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium27/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium27/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fv2%2Fen%2Fmatch%2F2558557%2F78%3Fvariable=0&utcOffset=-0800"
+            },
+            {
+                "id": "c7aed49d-887d-482c-8637-13caf20c714e",
+                "time": "2024-12-17T17:30:00+00:00",
+                "country": "Turkiye Turkiye Kupasi",
+                "league": "Turkiye Turkiye Kupasi",
+                "match": "Alanyaspor vs. Amed Sportif Faaliyetler",
+                "links": [
+                    "https://thedaddy.to/embed/stream-27.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium27/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium27/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium27/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://cdn.itibarhaber.com/uploads/images/202412/corendon-alanyaspor-ziraat-turkiye-kupasi-039-nin-5-turunda-yarin-sahasinda-trendyol-1-lig-495145.jpg"
+            }
+        ]
+    },
+    {
+        "id": "bde52db7-f7c9-4a20-ae52-80857cb0c0fd",
+        "competition": "Asia - ASEAN Championship",
+        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/6b5cb81ca8e0d1d2686e6c63371ca590.jpg",
+        "priority": 100,
+        "matches": [
+            {
+                "id": "411ab0f2-c721-4fbe-9e3e-d8f9eae88a34",
+                "time": "2024-12-17T12:30:00+00:00",
+                "country": "Asia - ASEAN Championship",
+                "league": "Asia - ASEAN Championship",
+                "match": "Singapore vs Thailand",
+                "links": [
+                    "https://thedaddy.to/embed/stream-1.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium1/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium1/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium1/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3524284879809103979"
+            }
+        ]
+    },
+    {
+        "id": "dff7c6a7-7eb2-4e81-9987-c2b1ffce89cb",
+        "competition": "Portugal - Liga Revelacao U23 - Serie B",
+        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/6b5cb81ca8e0d1d2686e6c63371ca590.jpg",
+        "priority": 100,
+        "matches": [
+            {
+                "id": "46a769e0-0471-439f-b1fb-3b48aba8581d",
+                "time": "2024-12-17T14:00:00+00:00",
+                "country": "Portugal - Liga Revelacao U23 - Serie B",
+                "league": "Portugal - Liga Revelacao U23 - Serie B",
+                "match": "Santa Clara U23 vs Mafra U23",
+                "links": [],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://livesport-ott-images.ssl.cdn.cra.cz/r900xfq60/d6626ab3-48d3-453f-8992-a06c678f52a0.jpeg"
+            },
+            {
+                "id": "a18b4af4-67cd-4840-a0b1-891c796c3891",
+                "time": "2024-12-17T15:00:00+00:00",
+                "country": "Portugal - Liga Revelacao U23 - Serie B",
+                "league": "Portugal - Liga Revelacao U23 - Serie B",
+                "match": "Estoril Praia U23 vs Farense U23",
+                "links": [],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://livesport-ott-images.ssl.cdn.cra.cz/r900xfq60/79aaa798-bf9c-4c9b-9a7b-5244d187dc95.jpeg"
+            }
+        ]
+    },
+    {
+        "id": "bbcb187d-4634-45db-bb7a-834d59f7b94c",
+        "competition": "India - Super League",
+        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/6b5cb81ca8e0d1d2686e6c63371ca590.jpg",
+        "priority": 100,
+        "matches": [
+            {
+                "id": "4f869a1b-2f50-48cf-86c2-561d7288621d",
+                "time": "2024-12-17T14:00:00+00:00",
+                "country": "India - Super League",
+                "league": "India - Super League",
+                "match": "East Bengal vs Punjab",
+                "links": [],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://media.assettype.com/outlookindia/2024-11-29/x8uvn18n/Gdj0J3lWQAAWsmo.jpg?w=801&auto=format%2Ccompress&fit=max&format=webp&dpr=1.0"
+            }
+        ]
+    },
+    {
+        "id": "9e3abbbb-352f-43d9-8920-bc62bdaec280",
+        "competition": "Jordan League",
+        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/6b5cb81ca8e0d1d2686e6c63371ca590.jpg",
+        "priority": 100,
+        "matches": [
+            {
+                "id": "f68ac0ab-e6ff-4a60-9fc5-92f8033e91e3",
+                "time": "2024-12-17T14:00:00+00:00",
+                "country": "Jordan League",
+                "league": "Jordan League",
+                "match": "Al Salt vs Al Wihdat",
+                "links": [
+                    "https://thedaddy.to/embed/stream-2.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium2/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium2/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium2/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://lookaside.fbsbx.com/lookaside/crawler/threads/DDqEMmut_J9/0/image.jpg"
+            }
+        ]
+    },
+    {
+        "id": "81249c1e-623b-4687-801a-03ad2c587926",
+        "competition": "Portugal - Liga Revela\u00e7\u00e3o",
+        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/6b5cb81ca8e0d1d2686e6c63371ca590.jpg",
+        "priority": 100,
+        "matches": [
+            {
+                "id": "bfa5605d-e0fc-495a-9f64-2317ec371524",
+                "time": "2024-12-17T15:00:00+00:00",
+                "country": "Portugal - Liga Revela\u00e7\u00e3o",
+                "league": "Portugal - Liga Revela\u00e7\u00e3o",
+                "match": "Benfica U23 vs Estrela U23",
+                "links": [
+                    "https://thedaddy.to/embed/stream-540.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium540/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium540/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium540/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://dzjovqk3zamsg.cloudfront.net/biggest-losers-after-market-value-update-five-u23-players-in-top-10.jpg"
+            },
+            {
+                "id": "a8ab14fd-2f23-4920-84c8-1fe2d95f76ff",
+                "time": "2024-12-17T15:00:00+00:00",
+                "country": "Portugal - Liga Revela\u00e7\u00e3o",
+                "league": "Portugal - Liga Revela\u00e7\u00e3o",
+                "match": "Sporting CP U23 vs Portimonense U23",
+                "links": [
+                    "https://thedaddy.to/embed/stream-716.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium716/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium716/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium716/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://livesport-ott-images.ssl.cdn.cra.cz/r900xfq60/d6626ab3-48d3-453f-8992-a06c678f52a0.jpeg"
+            }
+        ]
+    },
+    {
+        "id": "3a0cf039-84a9-476a-b0cc-f8608f04ff4a",
         "competition": "UEFA Women's Champions League",
         "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/3109330209ffa35b6730141e3d52fd1d.jpg",
         "priority": 11,
         "matches": [
             {
-                "id": "d7c4a5f5-c49b-4243-b4d4-90ad8155e358",
+                "id": "34534960-6e73-42de-91d1-b58a0af54916",
                 "time": "2024-12-17T17:45:00+00:00",
                 "country": "UEFA Women's Champions League",
                 "league": "UEFA Women's Champions League",
@@ -34,7 +454,7 @@
                 "thumb": "https://ichef.bbci.co.uk/ace/standard/904/cpsprodpb/6a9c/live/018bf550-bbbc-11ef-9dde-6380fe4ea45e.jpg"
             },
             {
-                "id": "54725284-dbd5-4af2-9c3f-c2e0d6eb32e5",
+                "id": "cb4b39bd-7fa0-46ab-b7ec-157795b283ef",
                 "time": "2024-12-17T17:45:00+00:00",
                 "country": "UEFA Women's Champions League",
                 "league": "UEFA Women's Champions League",
@@ -63,7 +483,7 @@
                 "thumb": "https://i.ytimg.com/vi/qwwRLBW-mu4/hq720.jpg?v=67603a32&sqp=CMyigrsG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBFvncs0RT_k7DNfuJgkVoBbUMPjA"
             },
             {
-                "id": "8facf1a7-4d7c-47aa-8d2c-70da6fbea0c6",
+                "id": "760256c3-7a55-49ce-b37a-498be73275e3",
                 "time": "2024-12-17T20:00:00+00:00",
                 "country": "UEFA Women's Champions League",
                 "league": "UEFA Women's Champions League",
@@ -92,7 +512,7 @@
                 "thumb": "https://editorial.uefa.com//resources/0294-1c9542ec2730-2b63354715c8-1000/format/wide1/galatasaray_a.s._v_as_roma_-_uefa_women_s_champions_league_2024_25_group_stage_md2.jpeg"
             },
             {
-                "id": "419d26f1-bc18-48fd-9965-09250c503349",
+                "id": "7cdf498e-bc74-4093-adf6-6f0e0c4d4614",
                 "time": "2024-12-17T20:00:00+00:00",
                 "country": "UEFA Women's Champions League",
                 "league": "UEFA Women's Champions League",
@@ -119,6 +539,327 @@
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
                 "thumb": "https://i.ytimg.com/vi/rWJ3zsTwJy4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBsNAD39nRVmQpO4FrAN6stgYLyqA"
+            }
+        ]
+    },
+    {
+        "id": "54163960-f8ac-4963-951c-7baa59fa0c88",
+        "competition": "Netherlands - KNVB Beker",
+        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/6b5cb81ca8e0d1d2686e6c63371ca590.jpg",
+        "priority": 100,
+        "matches": [
+            {
+                "id": "750e1ca0-4d0f-4a1b-8735-93485c383266",
+                "time": "2024-12-17T17:45:00+00:00",
+                "country": "Netherlands - KNVB Beker",
+                "league": "Netherlands - KNVB Beker",
+                "match": "PSV Eindhoven vs Koninklijke HFC",
+                "links": [
+                    "https://thedaddy.to/embed/stream-386.php",
+                    "https://thedaddy.to/embed/stream-597.php",
+                    "https://thedaddy.to/embed/stream-571.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium386/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium597/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh1.iosplayer.ru/tshttp/ddh1/premium571/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://images.fubo.tv/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=match.png&mask-bg=77612B&bg=7E6A2D&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMuZnViby50di9wYWdlLW1hbmFnZXIvY29tbW9uL3NsYXRlP3c9MTkyMCZoPTEwODAmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQtYWxpZ249cmlnaHQmYmxlbmQ2ND1hSFIwY0hNNkx5OW5iaTFwYldkNExtWjFZbTh1ZEhZdllYTnpaWFJ6TDNReE9UTXpPRjlzWDJnNVgyRmhMbkJ1Wno5M1BUazJNQ1pvUFRFd09EQW1jR0ZrUFRJeU1DWjBjbWx0UFdOdmJHOXlKbVpwZEQxbWFXeHMmbWFyay1hbGlnbj1taWRkbGUsbGVmdCZtYXJrNjQ9YUhSMGNITTZMeTlwYldkNExtWjFZbTh1ZEhZdmRHVmhiVjlzYjJkdmN5OVFVMVpmUldsdVpHaHZkbVZ1TG5CdVp6OTNQVGsyTUNab1BURXdPREFtY0dGa1BUSXlNQ1owY21sdFBXTnZiRzl5Sm1acGREMW1hV3hz&kg=1&ch=width&auto=format%2Ccompress&fit=clamp&h=268&w=476"
+            },
+            {
+                "id": "cb5baf99-f50d-4ea2-812e-e621fb305f82",
+                "time": "2024-12-17T19:00:00+00:00",
+                "country": "Netherlands - KNVB Beker",
+                "league": "Netherlands - KNVB Beker",
+                "match": "Quick Boys vs Fortuna Sittard",
+                "links": [
+                    "https://thedaddy.to/embed/stream-1.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium1/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium1/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium1/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://liontips.com/images/uploads2018/thumbs/800x450/235695.jpg?v=1734393001"
+            },
+            {
+                "id": "bad7ea7f-0605-45a6-9887-873bce11a91f",
+                "time": "2024-12-17T20:00:00+00:00",
+                "country": "Netherlands - KNVB Beker",
+                "league": "Netherlands - KNVB Beker",
+                "match": "MVV vs Feyenoord",
+                "links": [
+                    "https://thedaddy.to/embed/stream-4.php",
+                    "https://thedaddy.to/embed/stream-571.php",
+                    "https://thedaddy.to/embed/stream-141.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium4/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh1.iosplayer.ru/tshttp/ddh1/premium571/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium141/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://www.imageservera.com/cdn-cgi/image/format=webp/uploadedimages/202412/Dec16/TNCR_Santiago-Gimenez-16123761.jpg"
+            }
+        ]
+    },
+    {
+        "id": "a8ad64c6-f2d0-47a3-a3c3-b185f7c53615",
+        "competition": "Romania - Cupa Romaniei",
+        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/6b5cb81ca8e0d1d2686e6c63371ca590.jpg",
+        "priority": 100,
+        "matches": [
+            {
+                "id": "f7013e7e-b060-45f4-9740-3d4e50cffc80",
+                "time": "2024-12-17T18:00:00+00:00",
+                "country": "Romania - Cupa Romaniei",
+                "league": "Romania - Cupa Romaniei",
+                "match": "O\u0163elul vs Sepsi",
+                "links": [
+                    "https://thedaddy.to/embed/stream-400.php",
+                    "https://thedaddy.to/embed/stream-583.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://top2.iosplayer.ru/tshttp/top2/premium400/mono.m3u8?token=none",
+                    "m3u8_1": "https://top2.iosplayer.ru/tshttp/top2/premium583/mono.m3u8?token=none",
+                    "m3u8_2": "https://top2.iosplayer.ru/tshttp/top2/premium400/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://tips.gg/match/fc-otelul-galati-vs-sepsi-osk-sfantul-gheorghe-18-12-2024-12-00/poster/"
+            },
+            {
+                "id": "88ef9719-ae85-464b-a89d-bf16657d0190",
+                "time": "2024-12-17T18:00:00+00:00",
+                "country": "Romania - Cupa Romaniei",
+                "league": "Romania - Cupa Romaniei",
+                "match": "AFCM Re\u015fi\u0163a vs Csikszereda",
+                "links": [
+                    "https://thedaddy.to/embed/stream-401.php",
+                    "https://thedaddy.to/embed/stream-584.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://top2.iosplayer.ru/tshttp/top2/premium401/mono.m3u8?token=none",
+                    "m3u8_1": "https://top2.iosplayer.ru/tshttp/top2/premium584/mono.m3u8?token=none",
+                    "m3u8_2": "https://top2.iosplayer.ru/tshttp/top2/premium401/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://m.forebet.com/images/match-covers/cover-2171012.jpg"
+            }
+        ]
+    },
+    {
+        "id": "c395ee53-6f85-424f-832d-67d9c72d3143",
+        "competition": "Spain - Segunda Division",
+        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/6b5cb81ca8e0d1d2686e6c63371ca590.jpg",
+        "priority": 100,
+        "matches": [
+            {
+                "id": "4d36ea21-8598-46c7-bcae-77d0211af5ec",
+                "time": "2024-12-17T18:00:00+00:00",
+                "country": "Spain - Segunda Division",
+                "league": "Spain - Segunda Division",
+                "match": "Albacete vs Levante",
+                "links": [
+                    "https://thedaddy.to/embed/stream-539.php",
+                    "https://thedaddy.to/embed/stream-457.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh1.iosplayer.ru/tshttp/ddh1/premium539/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium457/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh1.iosplayer.ru/tshttp/ddh1/premium539/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://pbs.twimg.com/media/Ge8E4cdW0AENjn4?format=jpg&name=large"
+            },
+            {
+                "id": "4b7b9231-b407-4adc-a08d-07b614a4990c",
+                "time": "2024-12-17T18:00:00+00:00",
+                "country": "Spain - Segunda Division",
+                "league": "Spain - Segunda Division",
+                "match": "Granada vs Cartagena",
+                "links": [
+                    "https://thedaddy.to/embed/stream-3.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium3/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium3/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium3/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://cdn.ratingbet.com/ratingbet/20241215/1a1107869448bc31235127b1653fc069d09cc8ee2b0d9af65e4976245803cfca-550-345.jpg"
+            },
+            {
+                "id": "f5a0b5d3-d941-4580-b8a9-2bb564c48c98",
+                "time": "2024-12-17T20:15:00+00:00",
+                "country": "Spain - Segunda Division",
+                "league": "Spain - Segunda Division",
+                "match": "C\u00f3rdoba vs Eibar",
+                "links": [
+                    "https://thedaddy.to/embed/stream-3.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium3/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium3/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium3/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://m.forebet.com/images/match-covers/cover-2103316.jpg"
+            },
+            {
+                "id": "5421d2ed-b770-4ee0-931d-bbdbeaead6b3",
+                "time": "2024-12-17T20:15:00+00:00",
+                "country": "Spain - Segunda Division",
+                "league": "Spain - Segunda Division",
+                "match": "Real Zaragoza vs Real Oviedo",
+                "links": [
+                    "https://thedaddy.to/embed/stream-539.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh1.iosplayer.ru/tshttp/ddh1/premium539/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh1.iosplayer.ru/tshttp/ddh1/premium539/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh1.iosplayer.ru/tshttp/ddh1/premium539/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://getfootballnewsspain.com/wp-content/uploads/2024/12/real-madrid-cf-v-paris-fc-group-d-uefa-womens-champions-league-2023-24-2.jpg"
+            }
+        ]
+    },
+    {
+        "id": "110741e9-a0fb-4e95-82c8-97b057b10589",
+        "competition": "Italy - Coppa Italia",
+        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/6b5cb81ca8e0d1d2686e6c63371ca590.jpg",
+        "priority": 100,
+        "matches": [
+            {
+                "id": "74962b08-a5d4-428f-a28b-ff76c6b6ef0f",
+                "time": "2024-12-17T20:00:00+00:00",
+                "country": "Italy - Coppa Italia",
+                "league": "Italy - Coppa Italia",
+                "match": "Juventus vs Cagliari",
+                "links": [
+                    "https://thedaddy.to/embed/stream-2.php",
+                    "https://thedaddy.to/embed/stream-451.php",
+                    "https://thedaddy.to/embed/stream-49.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium2/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium451/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium49/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://cdn.vox-cdn.com/thumbor/C03yR2mqgxX1bAdjasHF5I6swzw=/0x0:4080x2720/1200x800/filters:focal(1884x539:2536x1191)/cdn.vox-cdn.com/uploads/chorus_image/image/73791504/2176959868.0.jpg"
             }
         ]
     }
