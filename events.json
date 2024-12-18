@@ -2,8 +2,8 @@
     {
         "id": "07528ffe-806b-412f-98df-a6baa0eddc3b",
         "competition": "FIFA Intercontinental Cup",
-        "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2024/12/GettyImages-2188892205-1734441913.jpg?resize=770%2C513&quality=80",
-        "priority": 100,
+        "thumbnail": "https://duckduckgo.com/i/e9e57b4c383e3371.png",
+        "priority": 1,
         "matches": [
             {
                 "id": "7dfba92c-f4c3-4f93-8801-28a726f8a4f5",
@@ -39,15 +39,45 @@
     },
     {
         "id": "42180b7a-a424-4636-8ec6-7ef43f171bdd",
-        "competition": "Coppa Italia",
-        "thumbnail": "https://i.ytimg.com/vi/Z40e7EydRgw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDR12KIUwHspoYO0QVZut97sFy8VQ",
+        "competition": "Italy - Coppa Italia",
+        "thumbnail": "https://duckduckgo.com/i/2589a11354a16c7c.png",
         "priority": 100,
         "matches": [
             {
+                "id": "1e577d8c-15e8-4082-abd2-9a3a16dc398d",
+                "time": "2024-12-18T20:00:00+00:00",
+                "country": "Italy - Coppa Italia",
+                "league": "Italy - Coppa Italia",
+                "match": "Roma vs Sampdoria",
+                "links": [
+                    "https://thedaddy.to/embed/stream-4.php",
+                    "https://thedaddy.to/embed/stream-451.php",
+                    "https://thedaddy.to/embed/stream-645.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium4/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium451/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh1.iosplayer.ru/tshttp/ddh1/premium645/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://external-preview.redd.it/roma-vs-sampdoria-live-streaming-coppa-italia-v0-dk7vnmyC0Ju_KYXyO2AhhHyeD19eAtf_FZnPOWd5Qpw.jpg?width=640&crop=smart&auto=webp&s=6e8ed193f70802672767eeb8e592adff8406eb5e"
+            },
+            {
                 "id": "15346c9e-2b89-4880-845a-9f4aaee998ab",
                 "time": "2024-12-18T17:30:00+00:00",
-                "country": "Coppa Italia",
-                "league": "Coppa Italia",
+                "country": "Italy - Coppa Italia",
+                "league": "Italy - Coppa Italia",
                 "match": "Atalanta vs Cesena",
                 "links": [
                     "https://thedaddy.to/embed/stream-4.php",
@@ -78,7 +108,7 @@
     {
         "id": "f94ccda1-644b-484d-848d-3c86efb8f621",
         "competition": "Netherlands - KNVB Beker",
-        "thumbnail": "https://media.gettyimages.com/id/2189893746/photo/psv-v-koninklijke-hfc-dutch-knvb-beker.jpg?s=1024x1024&w=gi&k=20&c=-rJ5stKnpyB7-KrP-rM0km1CnoNZI2lgtDvJ83zDdwI=",
+        "thumbnail": "https://duckduckgo.com/i/df633296.png",
         "priority": 100,
         "matches": [
             {
@@ -399,44 +429,6 @@
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
                 "thumb": "https://images2.minutemediacdn.com/image/upload/c_crop,w_7189,h_4043,x_0,y_51/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/229/01jfa59083grsqd0rc88.jpg"
-            }
-        ]
-    },
-    {
-        "id": "df50590c-b3de-4a70-abbc-3e122f28f462",
-        "competition": "Italy - Coppa Italia",
-        "thumbnail": "https://media.zenfs.com/en/football_italia_articles_132/e647ae12e866758e6da95047866f66d2",
-        "priority": 100,
-        "matches": [
-            {
-                "id": "1e577d8c-15e8-4082-abd2-9a3a16dc398d",
-                "time": "2024-12-18T20:00:00+00:00",
-                "country": "Italy - Coppa Italia",
-                "league": "Italy - Coppa Italia",
-                "match": "Roma vs Sampdoria",
-                "links": [
-                    "https://thedaddy.to/embed/stream-4.php",
-                    "https://thedaddy.to/embed/stream-451.php",
-                    "https://thedaddy.to/embed/stream-645.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium4/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium451/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddh1.iosplayer.ru/tshttp/ddh1/premium645/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://external-preview.redd.it/roma-vs-sampdoria-live-streaming-coppa-italia-v0-dk7vnmyC0Ju_KYXyO2AhhHyeD19eAtf_FZnPOWd5Qpw.jpg?width=640&crop=smart&auto=webp&s=6e8ed193f70802672767eeb8e592adff8406eb5e"
             }
         ]
     },
