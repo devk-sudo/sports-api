@@ -1,26 +1,26 @@
 [
     {
-        "id": "07528ffe-806b-412f-98df-a6baa0eddc3b",
-        "competition": "FIFA Intercontinental Cup",
-        "thumbnail": "https://duckduckgo.com/i/e9e57b4c383e3371.png",
-        "priority": 1,
+        "id": "3730d79f-ec61-4184-b532-7c4861ef8608",
+        "competition": "Portugal - Primeira Liga",
+        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/09e634516b77d5354f4cfdd292416acd.jpg",
+        "priority": 21,
         "matches": [
             {
-                "id": "7dfba92c-f4c3-4f93-8801-28a726f8a4f5",
-                "time": "2024-12-18T17:00:00+00:00",
-                "country": "FIFA Intercontinental Cup",
-                "league": "FIFA Intercontinental Cup",
-                "match": "Real Madrid vs CF Pachuca",
+                "id": "3eda83c7-2533-48f5-8b47-4907433f5c7c",
+                "time": "2024-12-19T17:00:00+00:00",
+                "country": "Portugal - Primeira Liga",
+                "league": "Portugal - Primeira Liga",
+                "match": "Nacional vs Benfica",
                 "links": [
-                    "https://thedaddy.to/embed/stream-532.php",
-                    "https://thedaddy.to/embed/stream-426.php",
-                    "https://thedaddy.to/embed/stream-425.php"
+                    "https://thedaddy.to/embed/stream-49.php",
+                    "https://thedaddy.to/embed/stream-597.php",
+                    "https://thedaddy.to/embed/stream-571.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://ddh1.iosplayer.ru/tshttp/ddh1/premium532/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium426/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium425/mono.m3u8?token=none"
+                    "m3u8_url": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium49/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium597/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh1.iosplayer.ru/tshttp/ddh1/premium571/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -33,98 +33,30 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://www.aljazeera.com/wp-content/uploads/2024/12/GettyImages-2188892205-1734441913.jpg?resize=770%2C513&quality=80"
+                "thumb": "https://img.vavel.com/liga-portugal-16-1734583207989.png"
             }
         ]
     },
     {
-        "id": "42180b7a-a424-4636-8ec6-7ef43f171bdd",
-        "competition": "Italy - Coppa Italia",
-        "thumbnail": "https://duckduckgo.com/i/2589a11354a16c7c.png",
-        "priority": 100,
-        "matches": [
-            {
-                "id": "1e577d8c-15e8-4082-abd2-9a3a16dc398d",
-                "time": "2024-12-18T20:00:00+00:00",
-                "country": "Italy - Coppa Italia",
-                "league": "Italy - Coppa Italia",
-                "match": "Roma vs Sampdoria",
-                "links": [
-                    "https://thedaddy.to/embed/stream-4.php",
-                    "https://thedaddy.to/embed/stream-451.php",
-                    "https://thedaddy.to/embed/stream-645.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium4/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium451/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddh1.iosplayer.ru/tshttp/ddh1/premium645/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://external-preview.redd.it/roma-vs-sampdoria-live-streaming-coppa-italia-v0-dk7vnmyC0Ju_KYXyO2AhhHyeD19eAtf_FZnPOWd5Qpw.jpg?width=640&crop=smart&auto=webp&s=6e8ed193f70802672767eeb8e592adff8406eb5e"
-            },
-            {
-                "id": "15346c9e-2b89-4880-845a-9f4aaee998ab",
-                "time": "2024-12-18T17:30:00+00:00",
-                "country": "Italy - Coppa Italia",
-                "league": "Italy - Coppa Italia",
-                "match": "Atalanta vs Cesena",
-                "links": [
-                    "https://thedaddy.to/embed/stream-4.php",
-                    "https://thedaddy.to/embed/stream-451.php",
-                    "https://thedaddy.to/embed/stream-74.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium4/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium451/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddh1.iosplayer.ru/tshttp/ddh1/premium74/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://assets.goal.com/images/v3/getty-2182117879/crop/MM5DIMJVGI5DEMZTGY5G433XMU5DAORQ/GettyImages-2182117879.jpg?auto=webp&format=pjpg&width=3840&quality=60"
-            }
-        ]
-    },
-    {
-        "id": "f94ccda1-644b-484d-848d-3c86efb8f621",
+        "id": "a95c49ad-c5dc-415d-a5c0-e7392553a260",
         "competition": "Netherlands - KNVB Beker",
-        "thumbnail": "https://duckduckgo.com/i/df633296.png",
+        "thumbnail": "https://media.gettyimages.com/id/2189888218/photo/eindhoven-netherlands-richard-ledezma-of-psv-during-the-dutch-knvb-beker-match-between-psv-v.jpg?s=612x612&w=gi&k=20&c=_4qy4Q9mVVy2-Zsq4zLh13i9SUrO31xb9TiZ9AGgrBw=",
         "priority": 100,
         "matches": [
             {
-                "id": "c7913330-f036-4593-817a-65f376f018e8",
-                "time": "2024-12-18T17:45:00+00:00",
+                "id": "025e32c9-c85d-4448-97e8-e6134d765bc7",
+                "time": "2024-12-19T17:45:00+00:00",
                 "country": "Netherlands - KNVB Beker",
                 "league": "Netherlands - KNVB Beker",
-                "match": "Katwijk vs Twente",
+                "match": "Noordwijk vs Willem II",
                 "links": [
                     "https://thedaddy.to/embed/stream-386.php",
-                    "https://thedaddy.to/embed/stream-471.php"
+                    "https://thedaddy.to/embed/stream-104.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
                     "m3u8_url": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium386/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium471/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium104/mono.m3u8?token=none",
                     "m3u8_2": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium386/mono.m3u8?token=none"
                 },
                 "headers": {
@@ -138,22 +70,22 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://www.imageservera.com/cdn-cgi/image/format=webp/uploadedimages/202412/Dec17/TNCR_Twente-17127413.jpg"
+                "thumb": "https://img.next1.space/uploads/posts/img/13078222.jpg"
             },
             {
-                "id": "bf68823f-d22b-400d-afa7-7198868293df",
-                "time": "2024-12-18T19:00:00+00:00",
+                "id": "252b2f6b-4f21-4387-bbb0-4d07df27fe91",
+                "time": "2024-12-19T19:00:00+00:00",
                 "country": "Netherlands - KNVB Beker",
                 "league": "Netherlands - KNVB Beker",
-                "match": "Sparta Rotterdam vs Go Ahead Eagles",
+                "match": "Rijnsburgse Boys vs Volendam",
                 "links": [
-                    "https://thedaddy.to/embed/stream-8.php"
+                    "https://thedaddy.to/embed/stream-3.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium8/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium8/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium8/mono.m3u8?token=none"
+                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium3/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium3/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium3/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -166,23 +98,23 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://external-preview.redd.it/go-ahead-eagles-krijgt-gelijk-in-zeist-rode-kaar-llansana-v0-mwikJZFkGPAWcS_3GvO75iLoUFoxRf8hh_HJhA2wxf0.jpg?auto=webp&s=d06020a8408b55cb3663f83df3779d3fad717a29"
+                "thumb": "https://www.bettingsuretips.com/images/post-images/rijnsburgse-boys-fc-volendam-predictions-1734582601.png"
             },
             {
-                "id": "57bea323-fd18-4a1e-b4e9-2bcc9c8c7552",
-                "time": "2024-12-18T20:00:00+00:00",
+                "id": "a927dde4-4e81-4106-a9c4-35980cebaf37",
+                "time": "2024-12-19T20:00:00+00:00",
                 "country": "Netherlands - KNVB Beker",
                 "league": "Netherlands - KNVB Beker",
-                "match": "AZ vs Groningen",
+                "match": "Ajax vs Telstar",
                 "links": [
-                    "https://thedaddy.to/embed/stream-2.php",
-                    "https://thedaddy.to/embed/stream-471.php",
+                    "https://thedaddy.to/embed/stream-155.php",
+                    "https://thedaddy.to/embed/stream-597.php",
                     "https://thedaddy.to/embed/stream-103.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium2/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium471/mono.m3u8?token=none",
+                    "m3u8_url": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium155/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium597/mono.m3u8?token=none",
                     "m3u8_2": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium103/mono.m3u8?token=none"
                 },
                 "headers": {
@@ -196,188 +128,32 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://sportcdns.live/news-2/8a98e98b42e00a0e375ddd32c4331e349cf617e7d7ab7c83f0737688cd620845.png"
+                "thumb": "https://img.vavel.com/serie-a-1734527849609.png"
             }
         ]
     },
     {
-        "id": "3c73de8f-173b-4022-a313-ffe1c0257a40",
-        "competition": "UEFA Women's Champions League",
-        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/3109330209ffa35b6730141e3d52fd1d.jpg",
-        "priority": 11,
-        "matches": [
-            {
-                "id": "2a39c3c9-b353-4cbc-8e5a-839fd012434e",
-                "time": "2024-12-18T17:45:00+00:00",
-                "country": "UEFA Women's Champions League",
-                "league": "UEFA Women's Champions League",
-                "match": "Barcelona vs Manchester City",
-                "links": [
-                    "https://thedaddy.to/embed/stream-445.php",
-                    "https://thedaddy.to/embed/stream-456.php",
-                    "https://thedaddy.to/embed/stream-50.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium445/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium456/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium50/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi2-prod.manchestereveningnews.co.uk%2Fincoming%2Farticle20295454.ece%2FALTERNATES%2Fs1200%2F2_MCIBAR.jpg&f=1&nofb=1&ipt=bde72b4aaaf4a0593c0d5eafac7983f343c2e95e8607c117057f5434371e5e19&ipo=images"
-            },
-            {
-                "id": "a7f8ee1d-2da7-4308-abfe-97bb84d45766",
-                "time": "2024-12-18T17:45:00+00:00",
-                "country": "UEFA Women's Champions League",
-                "league": "UEFA Women's Champions League",
-                "match": "St. P\u00f6lten vs Hammarby",
-                "links": [
-                    "https://thedaddy.to/embed/stream-7.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium7/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium7/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium7/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.SVjFCnRx2WgElApRveIhwwHaEK%26pid%3DApi&f=1&ipt=576c57da5b926eb6bcfeac11fb3460694c0b001d3d2bcab66cb371e0cf915324&ipo=images"
-            },
-            {
-                "id": "062c1440-aebb-4421-b314-b71f85fc592f",
-                "time": "2024-12-18T20:00:00+00:00",
-                "country": "UEFA Women's Champions League",
-                "league": "UEFA Women's Champions League",
-                "match": "Arsenal vs Bayern M\u00fcnchen",
-                "links": [
-                    "https://thedaddy.to/embed/stream-31.php",
-                    "https://thedaddy.to/embed/stream-446.php",
-                    "https://thedaddy.to/embed/stream-426.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium31/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium446/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium426/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://i.ytimg.com/vi/wGZmdpuMY1c/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCpyBjh6sE3Dqml8x9LckDTBWH8qA"
-            }
-        ]
-    },
-    {
-        "id": "62184eac-bcbf-4fb2-83f7-23377a1efe1e",
+        "id": "47941ce1-1e12-4959-8d66-0c1773ebd13c",
         "competition": "England - League Cup",
         "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/712c292ab7fcdbc07f9a203ecbfe3ecd.jpg",
         "priority": 3,
         "matches": [
             {
-                "id": "1da30181-de50-4338-9b02-5a5d49fcc6c6",
-                "time": "2024-12-18T19:45:00+00:00",
+                "id": "a3e1a0be-42e6-47e9-8003-de733d79c42e",
+                "time": "2024-12-19T20:00:00+00:00",
                 "country": "England - League Cup",
                 "league": "England - League Cup",
-                "match": "Newcastle United vs Brentford",
+                "match": "Tottenham Hotspur vs Manchester United",
                 "links": [
-                    "https://thedaddy.to/embed/stream-308.php",
-                    "https://thedaddy.to/embed/stream-36.php",
-                    "https://thedaddy.to/embed/stream-290.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium308/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium36/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium290/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://media.assettype.com/outlookindia/2024-12-17/5i3rba8d/English_Premier_League_soccer_Newcastle_United_Vs_West_Ham_football_gallery3.jpg?w=801&auto=format%2Ccompress&fit=max&format=webp&dpr=1.0"
-            },
-            {
-                "id": "107fd028-12ce-4bac-a122-b625a065b51c",
-                "time": "2024-12-18T19:30:00+00:00",
-                "country": "England - League Cup",
-                "league": "England - League Cup",
-                "match": "Arsenal vs Crystal Palace",
-                "links": [
-                    "https://thedaddy.to/embed/stream-152.php",
-                    "https://thedaddy.to/embed/stream-38.php",
-                    "https://thedaddy.to/embed/stream-454.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium152/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium38/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium454/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://www.thestatszone.com/imager/105296/1734432186_b0464c6958.jpg"
-            },
-            {
-                "id": "9e82ea1d-f103-469b-bdd2-a715b34fcfb5",
-                "time": "2024-12-18T20:00:00+00:00",
-                "country": "England - League Cup",
-                "league": "England - League Cup",
-                "match": "Southampton vs Liverpool",
-                "links": [
-                    "https://thedaddy.to/embed/stream-151.php",
                     "https://thedaddy.to/embed/stream-35.php",
-                    "https://thedaddy.to/embed/stream-74.php"
+                    "https://thedaddy.to/embed/stream-38.php",
+                    "https://thedaddy.to/embed/stream-49.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium151/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium35/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddh1.iosplayer.ru/tshttp/ddh1/premium74/mono.m3u8?token=none"
+                    "m3u8_url": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium35/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium38/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium49/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -390,32 +166,32 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://www.thestatszone.com/imager/105312/1734448432_b0464c6958.jpg"
+                "thumb": "https://st1.latestly.com/wp-content/uploads/2024/12/Manchester-United-players-1-380x214.jpg"
             }
         ]
     },
     {
-        "id": "29bead7e-1906-4e9d-bf11-3705ce3d58a5",
-        "competition": "France - Ligue 1",
-        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/8725b8ac7f3c28e5cb15a95d8446b86e.jpg",
-        "priority": 7,
+        "id": "3158c0a1-be8d-427f-a47e-6a2d70927cea",
+        "competition": "UEFA Conference League",
+        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/c4783fa3b2c83fa4909ac8d9394f911a.jpg",
+        "priority": 3,
         "matches": [
             {
-                "id": "3bf7fb9f-7623-45bc-9491-df340252e26d",
-                "time": "2024-12-18T20:00:00+00:00",
-                "country": "France - Ligue 1",
-                "league": "France - Ligue 1",
-                "match": "Monaco vs PSG",
+                "id": "7b8f999c-a66a-44df-ba6c-a986a3f4f8a9",
+                "time": "2024-12-19T20:00:00+00:00",
+                "country": "UEFA Conference League",
+                "league": "UEFA Conference League",
+                "match": "Simulcast",
                 "links": [
-                    "https://thedaddy.to/embed/stream-116.php",
-                    "https://thedaddy.to/embed/stream-425.php",
-                    "https://thedaddy.to/embed/stream-372.php"
+                    "https://thedaddy.to/embed/stream-559.php",
+                    "https://thedaddy.to/embed/stream-161.php",
+                    "https://thedaddy.to/embed/stream-464.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium116/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium425/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium372/mono.m3u8?token=none"
+                    "m3u8_url": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium559/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium161/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium464/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -428,62 +204,24 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://images2.minutemediacdn.com/image/upload/c_crop,w_7189,h_4043,x_0,y_51/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/229/01jfa59083grsqd0rc88.jpg"
-            }
-        ]
-    },
-    {
-        "id": "b5342df7-fba3-4d01-9436-7e6aa4f14723",
-        "competition": "Spain - La Liga",
-        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/c25779614560b527f15f7fc64f42d33f.jpg",
-        "priority": 5,
-        "matches": [
-            {
-                "id": "5a5ec77e-f3b0-4798-be6d-c1ff3f7698b8",
-                "time": "2024-12-18T20:30:00+00:00",
-                "country": "Spain - La Liga",
-                "league": "Spain - La Liga",
-                "match": "Villarreal vs Rayo Vallecano",
-                "links": [
-                    "https://thedaddy.to/embed/stream-3.php",
-                    "https://thedaddy.to/embed/stream-455.php",
-                    "https://thedaddy.to/embed/stream-71.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium3/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium455/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium71/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://www.imageservera.com/cdn-cgi/image/format=webp/uploadedimages/202412/Dec17/TNCR_Villarreal-vs-Rayo-Vallecano-17124160.jpg"
+                "thumb": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3526187884153952726"
             },
             {
-                "id": "085e5917-81e6-41cd-9541-937dd11fb5ab",
-                "time": "2024-12-18T20:30:00+00:00",
-                "country": "Spain - La Liga",
-                "league": "Spain - La Liga",
-                "match": "Espanyol vs Valencia",
+                "id": "fe60c72a-8f54-425d-b4a4-4b573d471ba2",
+                "time": "2024-12-19T20:00:00+00:00",
+                "country": "UEFA Conference League",
+                "league": "UEFA Conference League",
+                "match": "Larne vs Gent",
                 "links": [
-                    "https://thedaddy.to/embed/stream-538.php",
-                    "https://thedaddy.to/embed/stream-276.php",
-                    "https://thedaddy.to/embed/stream-550.php"
+                    "https://thedaddy.to/embed/stream-34.php",
+                    "https://thedaddy.to/embed/stream-7.php",
+                    "https://thedaddy.to/embed/stream-55.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://ddh1.iosplayer.ru/tshttp/ddh1/premium538/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium276/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium550/mono.m3u8?token=none"
+                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium34/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium7/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium55/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -496,7 +234,554 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://i.ytimg.com/vi/L9CljASWddE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCPVv8lF1ZiWjrLPhRNxFm8Hcz99Q"
+                "thumb": "https://www.sportscasting.com/uk/wp-content/uploads/sites/3/2024/12/larnegent-1.jpg"
+            },
+            {
+                "id": "388db093-8f95-4c1b-87d1-80fa6a38ef66",
+                "time": "2024-12-19T20:00:00+00:00",
+                "country": "UEFA Conference League",
+                "league": "UEFA Conference League",
+                "match": "Hearts vs Petrocub",
+                "links": [
+                    "https://thedaddy.to/embed/stream-32.php",
+                    "https://thedaddy.to/embed/stream-59.php",
+                    "https://thedaddy.to/embed/stream-90.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium32/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium59/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium90/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://assets.goal.com/images/v3/getty-2169358520/crop/MM5DKMBQGQ5DEOBRGU5G433XMU5DAORSGYYQ====/GettyImages-2169358520.jpg?auto=webp&format=pjpg&width=3840&quality=60"
+            },
+            {
+                "id": "a28117eb-fefc-4487-945d-0429d8831c26",
+                "time": "2024-12-19T20:00:00+00:00",
+                "country": "UEFA Conference League",
+                "league": "UEFA Conference League",
+                "match": "LASK Linz vs V\u00edkingur Reykjav\u00edk",
+                "links": [
+                    "https://thedaddy.to/embed/stream-8.php",
+                    "https://thedaddy.to/embed/stream-68.php",
+                    "https://thedaddy.to/embed/stream-260.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium8/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium68/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium260/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://www.imago-images.com/bild/sp/1055640441/s.jpg"
+            },
+            {
+                "id": "225406f9-e227-4b2b-808c-b0d02c52815c",
+                "time": "2024-12-19T20:00:00+00:00",
+                "country": "UEFA Conference League",
+                "league": "UEFA Conference League",
+                "match": "Molde vs Mlad\u00e1 Boleslav",
+                "links": [
+                    "https://thedaddy.to/embed/stream-175.php",
+                    "https://thedaddy.to/embed/stream-69.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium175/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium69/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium175/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://assets.goal.com/images/v3/getty-2187406059/crop/MM5DKMBQHE5DEOBRHA5G433XMU5DAORSGU4A====/GettyImages-2187406059.jpg?auto=webp&format=pjpg&width=3840&quality=60"
+            },
+            {
+                "id": "09aaee3d-eec9-4994-b433-874f688f2aad",
+                "time": "2024-12-19T20:00:00+00:00",
+                "country": "UEFA Conference League",
+                "league": "UEFA Conference League",
+                "match": "Celje vs The New Saints",
+                "links": [
+                    "https://thedaddy.to/embed/stream-33.php",
+                    "https://thedaddy.to/embed/stream-76.php",
+                    "https://thedaddy.to/embed/stream-383.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium33/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium76/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium383/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c198/live/8b4267e0-bd90-11ef-bb26-71865c22880f.jpg"
+            },
+            {
+                "id": "d3c7e508-5388-4273-8d3f-b7711bf5d266",
+                "time": "2024-12-19T20:00:00+00:00",
+                "country": "UEFA Conference League",
+                "league": "UEFA Conference League",
+                "match": "Panathinaikos vs Dinamo Minsk",
+                "links": [
+                    "https://thedaddy.to/embed/stream-623.php",
+                    "https://thedaddy.to/embed/stream-457.php",
+                    "https://thedaddy.to/embed/stream-77.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh1.iosplayer.ru/tshttp/ddh1/premium623/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium457/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium77/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://assets.goal.com/images/v3/getty-2187406059/crop/MM5DKMBQHE5DEOBRHA5G433XMU5DAORSGU4A====/GettyImages-2187406059.jpg?auto=webp&format=pjpg&width=3840&quality=60"
+            },
+            {
+                "id": "d0fa42fd-826f-4f4d-8dc3-336b2204f85a",
+                "time": "2024-12-19T20:00:00+00:00",
+                "country": "UEFA Conference League",
+                "league": "UEFA Conference League",
+                "match": "Real Betis vs HJK",
+                "links": [
+                    "https://thedaddy.to/embed/stream-9.php",
+                    "https://thedaddy.to/embed/stream-435.php",
+                    "https://thedaddy.to/embed/stream-308.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium9/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium435/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium308/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://i.ytimg.com/vi/AgBohQKfIa4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDkBreEQMlKqwtYjNp2ToAJXTPrhw"
+            },
+            {
+                "id": "4051be65-1e68-44a9-9271-3484a225adf3",
+                "time": "2024-12-19T20:00:00+00:00",
+                "country": "UEFA Conference League",
+                "league": "UEFA Conference League",
+                "match": "Rapid Wien vs K\u00f8benhavn",
+                "links": [
+                    "https://thedaddy.to/embed/stream-12.php",
+                    "https://thedaddy.to/embed/stream-13.php",
+                    "https://thedaddy.to/embed/stream-14.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium12/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium13/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium14/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://i.ytimg.com/vi/Ip4o5xA_WDw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBILzYGDMqOyUKXKpaWeXr3Cw4Nqg"
+            },
+            {
+                "id": "83e86458-6d68-4e10-8b4e-202960a7bbce",
+                "time": "2024-12-19T20:00:00+00:00",
+                "country": "UEFA Conference League",
+                "league": "UEFA Conference League",
+                "match": "Vit\u00f3ria Guimar\u00e3es vs Fiorentina",
+                "links": [
+                    "https://thedaddy.to/embed/stream-15.php",
+                    "https://thedaddy.to/embed/stream-16.php",
+                    "https://thedaddy.to/embed/stream-461.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium15/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium16/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium461/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://assets.goal.com/images/v3/getty-2188913882/crop/MM5DGMBQGA5DCNRYHA5G433XMU5DAORRGU4A====/GettyImages-2188913882.jpg?auto=webp&format=pjpg&width=3840&quality=60"
+            },
+            {
+                "id": "df0043ea-c008-474b-88b1-4feb4fc0c71e",
+                "time": "2024-12-19T20:00:00+00:00",
+                "country": "UEFA Conference League",
+                "league": "UEFA Conference League",
+                "match": "Jagiellonia Bia\u0142ystok vs Olimpija",
+                "links": [
+                    "https://thedaddy.to/embed/stream-18.php",
+                    "https://thedaddy.to/embed/stream-50.php",
+                    "https://thedaddy.to/embed/stream-19.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium18/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium50/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium18/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://i.ytimg.com/vi/ndcDDDZ-Ev8/hq720.jpg?v=67636981&sqp=CKD8jbsG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDyge_COMynBuWRQ_yNs93n3loBOg"
+            },
+            {
+                "id": "0baed7b4-df0a-48f9-b840-6a913cea9b17",
+                "time": "2024-12-19T20:00:00+00:00",
+                "country": "UEFA Conference League",
+                "league": "UEFA Conference League",
+                "match": "Ba\u010dka Topola vs Noah",
+                "links": [
+                    "https://thedaddy.to/embed/stream-458.php",
+                    "https://thedaddy.to/embed/stream-107.php",
+                    "https://thedaddy.to/embed/stream-134.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium458/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium107/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium134/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://sport.news.am/static/news/b/2024/12/155125.jpg"
+            },
+            {
+                "id": "1404775a-eccc-4fa4-96cf-1896fdcb4c53",
+                "time": "2024-12-19T20:00:00+00:00",
+                "country": "UEFA Conference League",
+                "league": "UEFA Conference League",
+                "match": "Borac Banja Luka vs Omonia Nicosia",
+                "links": [
+                    "https://thedaddy.to/embed/stream-432.php",
+                    "https://thedaddy.to/embed/stream-173.php",
+                    "https://thedaddy.to/embed/stream-108.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium432/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium173/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium108/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c198/live/8b4267e0-bd90-11ef-bb26-71865c22880f.jpg"
+            },
+            {
+                "id": "0062d3b4-d475-4937-92c9-ffd05585d49c",
+                "time": "2024-12-19T20:00:00+00:00",
+                "country": "UEFA Conference League",
+                "league": "UEFA Conference League",
+                "match": "Lugano vs Paphos",
+                "links": [
+                    "https://thedaddy.to/embed/stream-174.php",
+                    "https://thedaddy.to/embed/stream-628.php",
+                    "https://thedaddy.to/embed/stream-181.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium174/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh1.iosplayer.ru/tshttp/ddh1/premium628/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium181/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1672791729934033"
+            },
+            {
+                "id": "5f572e9d-f621-4683-8c16-6a9632543d3b",
+                "time": "2024-12-19T20:00:00+00:00",
+                "country": "UEFA Conference League",
+                "league": "UEFA Conference League",
+                "match": "Djurg\u00e5rden vs Legia Warszawa",
+                "links": [
+                    "https://thedaddy.to/embed/stream-21.php",
+                    "https://thedaddy.to/embed/stream-47.php",
+                    "https://thedaddy.to/embed/stream-165.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium21/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium47/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium165/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://statico.sportskeeda.com/editor/2024/12/8a674-17345502842121-1920.jpg?w=640"
+            },
+            {
+                "id": "b8f58dd6-8d34-4a7f-9acc-3fd98e3c4352",
+                "time": "2024-12-19T20:00:00+00:00",
+                "country": "UEFA Conference League",
+                "league": "UEFA Conference League",
+                "match": "Chelsea vs Shamrock Rovers",
+                "links": [
+                    "https://thedaddy.to/embed/stream-31.php",
+                    "https://thedaddy.to/embed/stream-24.php",
+                    "https://thedaddy.to/embed/stream-455.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium31/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium24/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium455/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://images2.minutemediacdn.com/image/upload/c_crop,w_7166,h_4030,x_934,y_56/c_fill,w_912,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01jfe1gsmrev0558he7w.jpg"
+            },
+            {
+                "id": "1a82449a-477d-4e6d-96dc-eff8d49a1be9",
+                "time": "2024-12-19T20:00:00+00:00",
+                "country": "UEFA Conference League",
+                "league": "UEFA Conference League",
+                "match": "Cercle Brugge vs \u0130stanbul Ba\u015fak\u015fehir",
+                "links": [
+                    "https://thedaddy.to/embed/stream-26.php",
+                    "https://thedaddy.to/embed/stream-177.php",
+                    "https://thedaddy.to/embed/stream-27.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium26/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium177/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium27/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://media.gettyimages.com/id/2189962876/photo/fbl-bel-eur-conference-cercle-presser.jpg?s=612x612&w=0&k=20&c=-WgdFK_ZTG_XiNacXHzWZTUxTeQbuRaWu2vQgOZdSeQ="
+            },
+            {
+                "id": "0ee752ed-34b6-46f4-a128-1832934b3ed8",
+                "time": "2024-12-19T20:00:00+00:00",
+                "country": "UEFA Conference League",
+                "league": "UEFA Conference League",
+                "match": "APOEL vs Astana",
+                "links": [
+                    "https://thedaddy.to/embed/stream-153.php",
+                    "https://thedaddy.to/embed/stream-178.php",
+                    "https://thedaddy.to/embed/stream-626.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh1.iosplayer.ru/tshttp/ddh1/premium153/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium178/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh1.iosplayer.ru/tshttp/ddh1/premium626/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=608096331755159"
+            },
+            {
+                "id": "855cf91a-39b0-4612-948b-c334a253fb8e",
+                "time": "2024-12-19T20:00:00+00:00",
+                "country": "UEFA Conference League",
+                "league": "UEFA Conference League",
+                "match": "Heidenheim vs St. Gallen",
+                "links": [
+                    "https://thedaddy.to/embed/stream-28.php",
+                    "https://thedaddy.to/embed/stream-179.php",
+                    "https://thedaddy.to/embed/stream-29.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium28/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium179/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium29/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://i.ytimg.com/vi/LkYqfabe01o/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC_9Reav-h7DRpJ4xTV-ROk1dWDEg"
+            }
+        ]
+    },
+    {
+        "id": "18e6608c-25fd-43f1-b431-6b3c492f0430",
+        "competition": "Italy - Coppa Italia",
+        "thumbnail": "https://media.gettyimages.com/id/2190563821/photo/solbiate-arno-italy-samuele-longo-of-milan-futuro-in-action-during-the-coppa-italia-serie-c.jpg?s=612x612&w=gi&k=20&c=oiNaE7Itqn2yeCTQLVPPt5iwrmrIdgfDerbgiDdE38s=",
+        "priority": 100,
+        "matches": [
+            {
+                "id": "1667b14a-f864-4ebf-9c47-500637d8cb43",
+                "time": "2024-12-19T20:00:00+00:00",
+                "country": "Italy - Coppa Italia",
+                "league": "Italy - Coppa Italia",
+                "match": "Internazionale vs Udinese",
+                "links": [
+                    "https://thedaddy.to/embed/stream-30.php",
+                    "https://thedaddy.to/embed/stream-451.php",
+                    "https://thedaddy.to/embed/stream-445.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium30/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium451/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium445/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://s.yimg.com/ny/api/res/1.2/jj5llKxthS9xTgecR7bu4w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQzMQ--/https://media.zenfs.com/en/sempreinter_com_articles_209/045308e2e38c1cbb4540259146162ff9"
             }
         ]
     }
