@@ -1,229 +1,40 @@
 [
-    {
-        "id": "ae3795f4-c5ed-4acd-9d5f-bc9c8d3d4a49",
-        "competition": "Turkey - Super Lig",
-        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/a72fbfe06370a6e44ae5e048d0920b7e.jpg",
-        "priority": 17,
-        "matches": [
-            {
-                "id": "fa1ee102-006c-41cd-bf1a-da38eec45a13",
-                "time": "2024-12-23T17:00:00+00:00",
-                "country": "Turkey - Super Lig",
-                "league": "Turkey - Super Lig",
-                "match": "Hatayspor vs Adana Demirspor",
-                "links": [
-                    "https://thedaddy.to/embed/stream-63.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium63/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium63/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium63/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://i.ytimg.com/vi/a5dm-L-OwIg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA5A1G-QJK-JEe7Et5M7XZcwvLkcw"
-            },
-            {
-                "id": "7314e630-d39c-47fa-8027-c70a3f8e1aa5",
-                "time": "2024-12-23T17:00:00+00:00",
-                "country": "Turkey - Super Lig",
-                "league": "Turkey - Super Lig",
-                "match": "\u0130stanbul Ba\u015fak\u015fehir vs Kas\u0131mpa\u015fa",
-                "links": [
-                    "https://thedaddy.to/embed/stream-62.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium62/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium62/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium62/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://www.imageservera.com/cdn-cgi/image/format=webp/uploadedimages/202412/Dec22/TNCR_Istanbul-Basaksehir-22124730.jpg"
-            }
-        ]
-    },
-    {
-        "id": "4519648a-7dd8-4642-84bd-5d4c53122e41",
-        "competition": "Italy - Serie A",
-        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/de91df625c075b3e0b8e0a0d16d1b5c5.jpg",
-        "priority": 8,
-        "matches": [
-            {
-                "id": "04df9e9f-422e-43cd-b41a-6345fef02ed6",
-                "time": "2024-12-23T17:30:00+00:00",
-                "country": "Italy - Serie A",
-                "league": "Italy - Serie A",
-                "match": "Fiorentina vs Udinese",
-                "links": [
-                    "https://thedaddy.to/embed/stream-877.php",
-                    "https://thedaddy.to/embed/stream-426.php",
-                    "https://thedaddy.to/embed/stream-49.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium877/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium426/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium49/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://www.elfutbolero.us/_next/image?url=https%3A%2F%2Fwww.elfutbolero.us%2Fimage%2Felfutbolerous%2Fphoto-atacffiorentina-1734894000-hq.webp&w=3840&q=75"
-            },
-            {
-                "id": "dc0492c0-40c4-487b-ac92-6df741ae342b",
-                "time": "2024-12-23T19:45:00+00:00",
-                "country": "Italy - Serie A",
-                "league": "Italy - Serie A",
-                "match": "Internazionale vs Como",
-                "links": [
-                    "https://thedaddy.to/embed/stream-4.php",
-                    "https://thedaddy.to/embed/stream-870.php",
-                    "https://thedaddy.to/embed/stream-31.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium4/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium870/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium31/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://www.elfutbolero.us/_next/image?url=https%3A%2F%2Fwww.elfutbolero.us%2Fimage%2Felfutbolerous%2Fphoto-atinter-1734886800-hq.webp&w=3840&q=75"
-            }
-        ]
-    },
-    {
-        "id": "304f37c2-6a70-4272-85c5-ff84144bcef3",
-        "competition": "Portugal - Primeira Liga",
-        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/09e634516b77d5354f4cfdd292416acd.jpg",
-        "priority": 21,
-        "matches": [
-            {
-                "id": "6ea11e25-6116-4d06-959f-4055c7ff42a3",
-                "time": "2024-12-23T18:45:00+00:00",
-                "country": "Portugal - Primeira Liga",
-                "league": "Portugal - Primeira Liga",
-                "match": "Benfica vs Estoril",
-                "links": [
-                    "https://thedaddy.to/embed/stream-380.php",
-                    "https://thedaddy.to/embed/stream-597.php",
-                    "https://thedaddy.to/embed/stream-571.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddh1.iosplayer.ru/tshttp/ddh1/premium380/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium597/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddh1.iosplayer.ru/tshttp/ddh1/premium571/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://www.imageservera.com/cdn-cgi/image/format=webp/uploadedimages/202412/Dec22/TNCR_Tom%C3%A1s-Ara%C3%BAjo-of-SL-Benfica-22124846.jpg"
-            },
-            {
-                "id": "d54ef1ff-43c4-4be0-b859-56860ee21d7d",
-                "time": "2024-12-23T18:45:00+00:00",
-                "country": "Portugal - Primeira Liga",
-                "league": "Portugal - Primeira Liga",
-                "match": "Vit\u00f3ria Guimar\u00e3es vs Nacional",
-                "links": [
-                    "https://thedaddy.to/embed/stream-74.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddh1.iosplayer.ru/tshttp/ddh1/premium74/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddh1.iosplayer.ru/tshttp/ddh1/premium74/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddh1.iosplayer.ru/tshttp/ddh1/premium74/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://betting.bc.game/wp-content/uploads/2024/12/vitoria-de-guimaraes-vs-nacional-prediction.webp"
-            },
-            {
-                "id": "fc1a6423-a654-4d8d-9feb-a40bb3d18dba",
-                "time": "2024-12-23T20:45:00+00:00",
-                "country": "Portugal - Primeira Liga",
-                "league": "Portugal - Primeira Liga",
-                "match": "Estrela vs Rio Ave",
-                "links": [
-                    "https://thedaddy.to/embed/stream-49.php",
-                    "https://thedaddy.to/embed/stream-101.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium49/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium101/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium49/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://i.ytimg.com/vi/kxUcmNIy1FQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB9iU7svLuNzHA_olOaAOLTDDp8Kg"
-            }
-        ]
-    }
+  {
+    "id": "4519648a-7dd8-4642-84bd-5d4c53122e41",
+    "competition": "Live Sports",
+    "thumbnail": "https://play-lh.googleusercontent.com/tN3AiNv732iv_0pi7c92-gXz3kokOmhH1-HNDOXBM6EiXnQ3plZgW0_pmAbxV4jCKA",
+    "priority": 800,
+    "matches": [
+      {
+        "id": "dc0492c0-40c4-487b-ac92-6df741ae342b",
+        "time": "2024-12-23T19:45:00+00:00",
+        "country": "Live Sports",
+        "league": "Live Sports",
+        "match": "Live Football TV",
+        "links": [
+          "https://thedaddy.to/embed/stream-4.php",
+          "https://thedaddy.to/embed/stream-870.php",
+          "https://thedaddy.to/embed/stream-31.php"
+        ],
+        "top": true,
+        "m3u8_urls": {
+          "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium4/mono.m3u8?token\u003dnone",
+          "m3u8_1": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium870/mono.m3u8?token\u003dnone",
+          "m3u8_2": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium31/mono.m3u8?token\u003dnone"
+        },
+        "headers": {
+          "referer": "https://cookiewebplay.xyz/",
+          "origin": "https://cookiewebplay.xyz",
+          "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+          "referer2": "https://cookiewebplay.xyz/",
+          "origin2": "https://cookiewebplay.xyz",
+          "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+          "referer3": "https://cookiewebplay.xyz/",
+          "origin3": "https://cookiewebplay.xyz",
+          "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+        },
+        "thumb": "https://play-lh.googleusercontent.com/XOswyhvmh29HZxefWkryz9Unw47O4hEwEEQsVHwpTDA3n_WZEL9rxlH93fF3QeINAw"
+      }
+    ]
+  }
 ]
