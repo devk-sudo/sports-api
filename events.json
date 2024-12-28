@@ -1,24 +1,26 @@
 [
     {
-        "id": "f61d445e-8718-4ad9-b805-fce6631ce657",
-        "competition": "England - Premier League",
-        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/74acf694395a7d85e015e41d9239fc72.jpg",
-        "priority": 4,
+        "id": "8b2bb67e-a9c3-462e-8275-bcdd46eaba42",
+        "competition": "Italy - Serie A",
+        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/de91df625c075b3e0b8e0a0d16d1b5c5.jpg",
+        "priority": 8,
         "matches": [
             {
-                "id": "ac398321-b2fc-420a-a628-846f5351b009",
-                "time": "2024-12-27T19:30:00+00:00",
-                "country": "England - Premier League",
-                "league": "England - Premier League",
-                "match": "Simulcast",
+                "id": "4bb957e5-49ad-49b0-9004-d52b08f238a1",
+                "time": "2024-12-28T14:00:00+00:00",
+                "country": "Italy - Serie A",
+                "league": "Italy - Serie A",
+                "match": "Empoli vs Genoa",
                 "links": [
-                    "https://thedaddy.to/embed/stream-595.php"
+                    "https://thedaddy.to/embed/stream-877.php",
+                    "https://thedaddy.to/embed/stream-910.php",
+                    "https://thedaddy.to/embed/stream-426.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://nix1-dc4.iosplayer.ru/tshttp/nix1-dc4/premium595/mono.m3u8?token=none",
-                    "m3u8_1": "https://nix1-dc4.iosplayer.ru/tshttp/nix1-dc4/premium595/mono.m3u8?token=none",
-                    "m3u8_2": "https://nix1-dc4.iosplayer.ru/tshttp/nix1-dc4/premium595/mono.m3u8?token=none"
+                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium877/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium910/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium426/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -31,24 +33,24 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1wwjBQ.img?w=768&h=432&m=6&x=633&y=82&s=409&d=106"
+                "thumb": "https://i.ytimg.com/vi/gnYNiYrO6fk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCf6-OlrTcKNRTdDk3rNkRGCi6CJw"
             },
             {
-                "id": "c7132731-03a8-4d78-8b95-a1459e5fc9f9",
-                "time": "2024-12-27T19:30:00+00:00",
-                "country": "England - Premier League",
-                "league": "England - Premier League",
-                "match": "Brighton &amp; Hove Albion vs Brentford",
+                "id": "af15912d-17e9-47a8-a7e9-4a7182b56bb4",
+                "time": "2024-12-28T14:00:00+00:00",
+                "country": "Italy - Serie A",
+                "league": "Italy - Serie A",
+                "match": "Parma vs Monza",
                 "links": [
-                    "https://thedaddy.to/embed/stream-4.php",
-                    "https://thedaddy.to/embed/stream-1.php",
-                    "https://thedaddy.to/embed/stream-591.php"
+                    "https://thedaddy.to/embed/stream-55.php",
+                    "https://thedaddy.to/embed/stream-308.php",
+                    "https://thedaddy.to/embed/stream-454.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium4/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium1/mono.m3u8?token=none",
-                    "m3u8_2": "https://nix1-dc4.iosplayer.ru/tshttp/nix1-dc4/premium591/mono.m3u8?token=none"
+                    "m3u8_url": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium55/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium308/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium454/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -61,24 +63,24 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://img-cdn.thepublive.com/fit-in/640x430/filters:format(webp)/sky247-nigeria/media/media_files/2024/12/26/WBIa8WZWhWBSN10350ie.webp"
+                "thumb": "https://i.ytimg.com/vi/QFgNysPn9HM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCwOq00U13xDvtaPRCIjTe_fb2BPQ"
             },
             {
-                "id": "34a33b12-26f6-40b1-a77e-a485cdcb64de",
-                "time": "2024-12-27T20:15:00+00:00",
-                "country": "England - Premier League",
-                "league": "England - Premier League",
-                "match": "Arsenal vs Ipswich Town",
+                "id": "b15cadb2-2f7a-49ed-bed7-05fe82af67f5",
+                "time": "2024-12-28T17:00:00+00:00",
+                "country": "Italy - Serie A",
+                "league": "Italy - Serie A",
+                "match": "Cagliari vs Internazionale",
                 "links": [
-                    "https://thedaddy.to/embed/stream-5.php",
-                    "https://thedaddy.to/embed/stream-3.php",
-                    "https://thedaddy.to/embed/stream-343.php"
+                    "https://thedaddy.to/embed/stream-32.php",
+                    "https://thedaddy.to/embed/stream-877.php",
+                    "https://thedaddy.to/embed/stream-910.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium5/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium3/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium343/mono.m3u8?token=none"
+                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium32/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium877/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium910/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -91,30 +93,59 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://i.ytimg.com/vi/HBB-XRsqNyI/hq720.jpg?v=676d8383&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6XY8jH2Jb1BZ95qwjyKhefiFCAQ"
+                "thumb": "https://icdn.sempreinter.com/wp-content/uploads/2024/12/Federico-Dimarco-Inter-Milan-Italy-Training-Session.jpg"
+            },
+            {
+                "id": "5476182d-c91e-4f85-9f94-30ec620cb65c",
+                "time": "2024-12-28T19:45:00+00:00",
+                "country": "Italy - Serie A",
+                "league": "Italy - Serie A",
+                "match": "Lazio vs Atalanta",
+                "links": [
+                    "https://thedaddy.to/embed/stream-2.php",
+                    "https://thedaddy.to/embed/stream-461.php",
+                    "https://thedaddy.to/embed/stream-870.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium2/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium461/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium870/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://i.ytimg.com/vi/qKqjS0M3zlE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCeA111RBWoerAdSnTB4b_Yl1BOJg"
             }
         ]
     },
     {
-        "id": "e506f859-a829-4584-9966-0902a42bce6a",
+        "id": "dd811e0c-f96d-46cb-aec1-8fbecff2f2b4",
         "competition": "Portugal - Primeira Liga",
         "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/09e634516b77d5354f4cfdd292416acd.jpg",
         "priority": 21,
         "matches": [
             {
-                "id": "17b0d727-8134-4209-b819-a89d08129fe2",
-                "time": "2024-12-27T20:15:00+00:00",
+                "id": "4c0bd9ba-3d97-444a-b787-03412f32ed64",
+                "time": "2024-12-28T15:30:00+00:00",
                 "country": "Portugal - Primeira Liga",
                 "league": "Portugal - Primeira Liga",
-                "match": "Arouca vs Gil Vicente",
+                "match": "AVS vs Estrela",
                 "links": [
-                    "https://thedaddy.to/embed/stream-49.php",
-                    "https://thedaddy.to/embed/stream-623.php"
+                    "https://thedaddy.to/embed/stream-49.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
                     "m3u8_url": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium49/mono.m3u8?token=none",
-                    "m3u8_1": "https://nix1-dc4.iosplayer.ru/tshttp/nix1-dc4/premium623/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium49/mono.m3u8?token=none",
                     "m3u8_2": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium49/mono.m3u8?token=none"
                 },
                 "headers": {
@@ -128,7 +159,67 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://www.elfutbolero.us/_next/image?url=https%3A%2F%2Fwww.elfutbolero.us%2Fimage%2Felfutbolerous%2Fphoto-atoficialfcarouca-1735231723-hq.webp&w=3840&q=75"
+                "thumb": "https://lookaside.fbsbx.com/lookaside/crawler/threads/DEG0ONOoi5c/0/image.jpg"
+            },
+            {
+                "id": "79f0a9af-4090-47ec-8a8e-2713fdbab594",
+                "time": "2024-12-28T18:00:00+00:00",
+                "country": "Portugal - Primeira Liga",
+                "league": "Portugal - Primeira Liga",
+                "match": "Estoril vs Moreirense",
+                "links": [
+                    "https://thedaddy.to/embed/stream-74.php",
+                    "https://thedaddy.to/embed/stream-597.php",
+                    "https://thedaddy.to/embed/stream-571.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://nix1-dc4.iosplayer.ru/tshttp/nix1-dc4/premium74/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium597/mono.m3u8?token=none",
+                    "m3u8_2": "https://nix1-dc4.iosplayer.ru/tshttp/nix1-dc4/premium571/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://i.ytimg.com/vi/syVMM08mSVM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLByw0ImooQJr-LTdjeqV4WOGkH5ig"
+            },
+            {
+                "id": "80224529-7519-441f-a858-e79ecfdd8cc1",
+                "time": "2024-12-28T20:30:00+00:00",
+                "country": "Portugal - Primeira Liga",
+                "league": "Portugal - Primeira Liga",
+                "match": "Porto vs Boavista",
+                "links": [
+                    "https://thedaddy.to/embed/stream-49.php",
+                    "https://thedaddy.to/embed/stream-597.php",
+                    "https://thedaddy.to/embed/stream-571.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium49/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium597/mono.m3u8?token=none",
+                    "m3u8_2": "https://nix1-dc4.iosplayer.ru/tshttp/nix1-dc4/premium571/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://img.vavel.com/liga-portugal-20-1735361004302.png"
             }
         ]
     }
