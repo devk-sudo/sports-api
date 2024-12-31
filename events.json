@@ -1,24 +1,24 @@
 [
     {
-        "id": "6a74443f-d54c-4c8b-8de8-dd4878e0073f",
-        "competition": "Italy - Serie A",
-        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/de91df625c075b3e0b8e0a0d16d1b5c5.jpg",
-        "priority": 8,
+        "id": "27fc8385-10ab-4dc6-bf92-cadb648b10f9",
+        "competition": "Australia - A-League",
+        "thumbnail": "https://logos-world.net/wp-content/uploads/2022/05/A-League-Logo-2017.png",
+        "priority": 100,
         "matches": [
             {
-                "id": "f57044aa-912a-4cb2-8d5b-fd3084f6ce11",
-                "time": "2024-12-30T17:30:00+00:00",
-                "country": "Italy - Serie A",
-                "league": "Italy - Serie A",
-                "match": "Como vs Lecce",
+                "id": "12e6fdf6-7e8c-44c7-8b45-43bd96f0002f",
+                "time": "2024-12-31T08:00:00+00:00",
+                "country": "Australia - A-League",
+                "league": "Australia - A-League",
+                "match": "Central Coast Mariners vs Melbourne City",
                 "links": [
-                    "https://thedaddy.to/embed/stream-877.php"
+                    "https://thedaddy.to/embed/stream-31.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium877/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium877/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium877/mono.m3u8?token=none"
+                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium31/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium31/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium31/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -31,22 +31,22 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://i.ytimg.com/vi/v6gOzuFxdts/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAAIZyGzK4fURmWQPyleTuQcVm4mg"
+                "thumb": "https://www.thestatszone.com/imager/89910/1730371795_b0464c6958.jpg"
             },
             {
-                "id": "b84f14cc-3fc0-465c-bc81-bfe0a3e04357",
-                "time": "2024-12-30T19:45:00+00:00",
-                "country": "Italy - Serie A",
-                "league": "Italy - Serie A",
-                "match": "Bologna vs Hellas Verona",
+                "id": "5ff86f89-ed90-4303-89c6-adae1c782458",
+                "time": "2024-12-31T04:00:00+00:00",
+                "country": "Australia - A-League",
+                "league": "Australia - A-League",
+                "match": "Auckland vs Melbourne Victory",
                 "links": [
-                    "https://thedaddy.to/embed/stream-8.php"
+                    "https://thedaddy.to/embed/stream-31.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium8/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium8/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium8/mono.m3u8?token=none"
+                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium31/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium31/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium31/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -59,163 +59,7 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://wwwimage-us.pplusstatic.com/thumbnails/photos/w370-q80/channel/SERIE_A_ITALIAN_MATCH_THUMB_02_Bologna-v-Hellas-Verona_l0tzx_12.jpg"
-            }
-        ]
-    },
-    {
-        "id": "f924ca92-2dfb-4b8a-be3c-871a88c5ce64",
-        "competition": "England - Premier League",
-        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/74acf694395a7d85e015e41d9239fc72.jpg",
-        "priority": 4,
-        "matches": [
-            {
-                "id": "e1d9b552-0dfe-4432-bc79-3bbcf1fab2d8",
-                "time": "2024-12-30T19:45:00+00:00",
-                "country": "England - Premier League",
-                "league": "England - Premier League",
-                "match": "Simulcast",
-                "links": [
-                    "https://thedaddy.to/embed/stream-4.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium4/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium4/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium4/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://c.ndtvimg.com/2024-12/hjmh6qp8_liverpool-team-afp_625x300_30_December_24.jpg?im=FeatureCrop,algorithm=dnn,width=400,height=300&output-quality=80"
-            },
-            {
-                "id": "b4948304-62ca-41b3-bba7-5eab42b8865a",
-                "time": "2024-12-30T19:45:00+00:00",
-                "country": "England - Premier League",
-                "league": "England - Premier League",
-                "match": "Aston Villa vs Brighton &amp; Hove Albion",
-                "links": [
-                    "https://thedaddy.to/embed/stream-5.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium5/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium5/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium5/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://cdn.dataskrive.com/api/asset/gpaAOOi.jpg"
-            },
-            {
-                "id": "0f3e404f-a557-4306-b72f-dfa616a5aee2",
-                "time": "2024-12-30T19:45:00+00:00",
-                "country": "England - Premier League",
-                "league": "England - Premier League",
-                "match": "Ipswich Town vs Chelsea",
-                "links": [
-                    "https://thedaddy.to/embed/stream-6.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium6/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium6/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium6/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://cdn.vox-cdn.com/thumbor/ZKgzpLTTo1fEVBjuqRiNqQCpjt4=/0x0:1888x2833/1200x800/filters:focal(732x548:1034x850)/cdn.vox-cdn.com/uploads/chorus_image/image/73816419/2190840143.0.jpg"
-            },
-            {
-                "id": "6518a44d-3f7c-4dcb-82ce-58d43f8ef7b0",
-                "time": "2024-12-30T20:00:00+00:00",
-                "country": "England - Premier League",
-                "league": "England - Premier League",
-                "match": "Manchester United vs Newcastle United",
-                "links": [
-                    "https://thedaddy.to/embed/stream-7.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium7/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium7/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium7/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://i.ytimg.com/vi/Bh_QAxQFVaE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD1VhX7k5sAn8W2xy4XRVpUhV2tvg"
-            }
-        ]
-    },
-    {
-        "id": "6b0caa58-fc64-45c4-bdff-5b4ae2aaf679",
-        "competition": "Portugal - Primeira Liga",
-        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/09e634516b77d5354f4cfdd292416acd.jpg",
-        "priority": 21,
-        "matches": [
-            {
-                "id": "fe275d4b-b793-4e27-8e4f-8853b363d1cf",
-                "time": "2024-12-30T20:15:00+00:00",
-                "country": "Portugal - Primeira Liga",
-                "league": "Portugal - Primeira Liga",
-                "match": "Famalic\u00e3o vs Santa Clara",
-                "links": [
-                    "https://thedaddy.to/embed/stream-49.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium49/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium49/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium49/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://www.imageservera.com/cdn-cgi/image/format=webp/uploadedimages/202412/Dec30/TNCR_Famalicao-30127242.jpg"
+                "thumb": "https://www.thestatszone.com/imager/89934/1730371821_b0464c6958.jpg"
             }
         ]
     }
