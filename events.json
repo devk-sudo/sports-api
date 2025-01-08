@@ -1,205 +1,39 @@
 [
     {
-        "id": "129c2f5a-038d-4f68-991b-fc90ea7fc0a6",
-        "competition": "Club Friendly Games",
-        "thumbnail": "https://github.com/rotich-brian/LiveSports/blob/1b2f2cdd33c6ea0228c215eb8b14d64bb626aa54/images/friendly.jpg?raw=true",
-        "priority": 15,
-        "matches": [
-            {
-                "id": "68a14352-0a7d-4dfa-9cc0-744f9f30a9e6",
-                "time": "2025-01-07T14:00:00+00:00",
-                "country": "Club Friendly Games",
-                "league": "Club Friendly Games",
-                "match": "Karlsruher vs St.Gallen",
-                "links": [],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fv2%2Fen%2Fmatch%2F2567762%2F140%3Fvariable=0&utcOffset=-0600"
-            },
-            {
-                "id": "7298b1ad-1d1a-4faa-9831-486dfe621a67",
-                "time": "2025-01-07T14:00:00+00:00",
-                "country": "Club Friendly Games",
-                "league": "Club Friendly Games",
-                "match": "Servette vs NAC Breda",
-                "links": [],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fv2%2Fen%2Fmatch%2F2567597%2F140%3Fvariable=0&utcOffset=-0600"
-            }
-        ]
-    },
-    {
-        "id": "9e047284-01bc-4830-b115-fbbd34bcffec",
-        "competition": "Saudi Arabia - King Cup",
-        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/f7bd8135cc94de4601cd290c872718bf.jpg",
-        "priority": 12,
-        "matches": [
-            {
-                "id": "1e7d631e-5900-4e12-8c97-26aafac7cee0",
-                "time": "2025-01-07T15:00:00+00:00",
-                "country": "Saudi Arabia - King Cup",
-                "league": "Saudi Arabia - King Cup",
-                "match": "Al Taawon vs Al Quadisiya",
-                "links": [
-                    "https://thedaddy.to/embed/stream-758.php",
-                    "https://thedaddy.to/embed/stream-1.php",
-                    "https://thedaddy.to/embed/stream-426.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium758/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium1/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium426/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://res.cloudinary.com/dq4uxsxpv/image/upload/v1736123995/prediction-assets/prediction-al-taawon-vs-al-quadisiya-kings-cup-en.webp"
-            },
-            {
-                "id": "3f80e3f4-8665-4172-aae0-8f1b5fc0cb1a",
-                "time": "2025-01-07T17:30:00+00:00",
-                "country": "Saudi Arabia - King Cup",
-                "league": "Saudi Arabia - King Cup",
-                "match": "Al Hilal vs Al Ittihad",
-                "links": [
-                    "https://thedaddy.to/embed/stream-758.php",
-                    "https://thedaddy.to/embed/stream-2.php",
-                    "https://thedaddy.to/embed/stream-426.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium758/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium2/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium426/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://www.leaders-mena.com/leaders/uploads/2025/01/Al-Hilal-780x470.jpg"
-            }
-        ]
-    },
-    {
-        "id": "e2ccb610-7923-4802-b50e-5276804eebab",
+        "id": "4af7b7f7-245b-441c-97cc-879d15284368",
         "competition": "England - League Cup",
-        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/712c292ab7fcdbc07f9a203ecbfe3ecd.jpg",
-        "priority": 3,
+        "thumbnail": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/a/3a/a3ab9390-0ba6-5aed-b5fc-09fcbf076e85/677d42ba24fb0.image.jpg?resize=400%2C267",
+        "priority": 100,
         "matches": [
             {
-                "id": "b749d931-8de2-4dbe-989a-5db5fda86a04",
-                "time": "2025-01-07T20:00:00+00:00",
+                "id": "6ddbfdc2-a890-491b-8e4c-73718fcc425a",
+                "time": "2025-01-08T20:00:00+00:00",
                 "country": "England - League Cup",
                 "league": "England - League Cup",
-                "match": "Arsenal vs Newcastle United",
+                "match": "Tottenham Hotspur vs Liverpool",
                 "links": [
-                    "https://thedaddy.to/embed/stream-350.php",
                     "https://thedaddy.to/embed/stream-35.php",
-                    "https://thedaddy.to/embed/stream-260.php"
+                    "https://thedaddy.to/embed/stream-260.php",
+                    "https://thedaddy.to/embed/stream-38.php"
                 ],
-                "top": true,
+                "top": false,
                 "m3u8_urls": {
-                    "m3u8_url": "https://nix1-dc4.iosplayer.ru/tshttp/nix1-dc4/premium350/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium35/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium260/mono.m3u8?token=none"
+                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
                     "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "user_agent": null,
                     "referer2": "https://cookiewebplay.xyz/",
                     "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "user_agent2": null,
                     "referer3": "https://cookiewebplay.xyz/",
                     "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                    "user_agent3": null
                 },
-                "thumb": "https://media.assettype.com/outlookindia/2024-12-19/h0v2x00p/English-League-Cup-quarterfinal-soccer-match-between-Arsenal-and-Crystal-Palace-football-pics2.jpg?rect=1,0,999,667&w=801&auto=format%2Ccompress&fit=max&format=webp&dpr=1.0"
-            }
-        ]
-    },
-    {
-        "id": "2ba6d898-f8e2-45a7-91c1-a2f197caa7b5",
-        "competition": "Spain - Copa del Rey",
-        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/a6e133bb50775565390f15d7b5fd5e35.jpg",
-        "priority": 4,
-        "matches": [
-            {
-                "id": "340b58a2-98f4-4bfa-a70d-0183f801b29a",
-                "time": "2025-01-07T20:00:00+00:00",
-                "country": "Spain - Copa del Rey",
-                "league": "Spain - Copa del Rey",
-                "match": "Eldense vs Valencia",
-                "links": [
-                    "https://thedaddy.to/embed/stream-2.php",
-                    "https://thedaddy.to/embed/stream-454.php",
-                    "https://thedaddy.to/embed/stream-128.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddh2.iosplayer.ru/tshttp/ddh2/premium2/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddy6.iosplayer.ru/tshttp/ddy6/premium454/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium128/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://sportcdns.live/news-2/b69a225f4d41d7f2b2d13cf21580138405b975d6671c20990c5fc7d96e0744f1.jpeg"
+                "thumb": "https://theanalyst.com/wp-content/uploads/2025/01/tottenham-v-liverpool-preview-league-cup.jpg"
             }
         ]
     }
