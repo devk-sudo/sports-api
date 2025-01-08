@@ -1,12 +1,12 @@
 [
     {
-        "id": "4af7b7f7-245b-441c-97cc-879d15284368",
+        "id": "818f38c8-0a5c-4155-95a5-e065d515c88e",
         "competition": "England - League Cup",
-        "thumbnail": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/a/3a/a3ab9390-0ba6-5aed-b5fc-09fcbf076e85/677d42ba24fb0.image.jpg?resize=400%2C267",
-        "priority": 100,
+        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/712c292ab7fcdbc07f9a203ecbfe3ecd.jpg",
+        "priority": 3,
         "matches": [
             {
-                "id": "6ddbfdc2-a890-491b-8e4c-73718fcc425a",
+                "id": "eb249a59-994a-42de-84f8-e7b9b32a6dab",
                 "time": "2025-01-08T20:00:00+00:00",
                 "country": "England - League Cup",
                 "league": "England - League Cup",
@@ -16,24 +16,24 @@
                     "https://thedaddy.to/embed/stream-260.php",
                     "https://thedaddy.to/embed/stream-38.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium35/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddv1.iosplayer.ru/tshttp/ddv1/premium260/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddv2.iosplayer.ru/tshttp/ddv2/premium38/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
                     "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
                     "referer2": "https://cookiewebplay.xyz/",
                     "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
                     "referer3": "https://cookiewebplay.xyz/",
                     "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://theanalyst.com/wp-content/uploads/2025/01/tottenham-v-liverpool-preview-league-cup.jpg"
+                "thumb": "https://st1.latestly.com/wp-content/uploads/2025/01/Mohammad-Salah-380x214.jpg"
             }
         ]
     }
