@@ -1,60 +1,24 @@
 [
     {
-        "id": "6a9e2604-448c-4a39-9a75-debe06b6464f",
-        "competition": "England - Championship",
-        "thumbnail": "https://i2-prod.chroniclelive.co.uk/incoming/article11450315.ece/ALTERNATES/s615/EFL.jpg",
-        "priority": 10,
-        "matches": [
-            {
-                "id": "0c6a5976-feb5-4f4d-b6bb-ac5d41cec5ad",
-                "time": "2025-01-15T19:45:00+00:00",
-                "country": "England - Championship",
-                "league": "England - Championship",
-                "match": "Blackburn Rovers vs Portsmouth",
-                "links": [
-                    "https://thedaddy.to/embed/stream-169.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://ng-sportingnews.com/s3/files/styles/crop_style_16_9_desktop/s3/2025-01/nba-canada--60db9511-392b-4c4d-9016-16852b22f306.png?h=920929c4&itok=Czhu7pOr"
-            }
-        ]
-    },
-    {
-        "id": "8cd2eeb5-d2a9-497a-8423-4a562e2d71a0",
+        "id": "7372010c-b8fe-4133-9d47-6734be99b23c",
         "competition": "Club Friendly",
-        "thumbnail": "https://www.ticketsmaster.com/insider/wp-content/uploads/2023/05/Blog-Graphics-4.jpg",
-        "priority": 15,
+        "thumbnail": "https://cdn.footystats.org/img/competitions/international-club-friendlies-1.png",
+        "priority": 16,
         "matches": [
             {
-                "id": "ecaae288-138b-4524-816f-bba4e2c58c82",
-                "time": "2025-01-15T07:30:00+00:00",
+                "id": "a23b3f3e-01cd-4655-9498-201fc20ce43f",
+                "time": "2025-01-16T13:00:00+00:00",
                 "country": "Club Friendly",
                 "league": "Club Friendly",
-                "match": "Ludogorets vs Sanfrecce Hiroshima",
+                "match": "Al Gharafa vs Slovan Bratislava",
                 "links": [
-                    "https://thedaddy.to/embed/stream-465.php"
+                    "https://thedaddy.to/embed/stream-18.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://ddv1new.iosplayer.ru/ddv1/premium465/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddv1new.iosplayer.ru/ddv1/premium465/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddv1new.iosplayer.ru/ddv1/premium465/mono.m3u8?token=none"
+                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium18/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2new.iosplayer.ru/ddh2/premium18/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh2new.iosplayer.ru/ddh2/premium18/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -67,22 +31,22 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://tips.gg/match/cska-sofia-vs-shakhtar-donetsk-15-01-2025-10-00/poster/"
+                "thumb": "https://tips.gg/match/al-gharafa-vs-slovan-bratislava-16-01-2025-03-00/poster/"
             },
             {
-                "id": "f5417555-740a-4cdf-9ec8-56379eb677ae",
-                "time": "2025-01-15T13:00:00+00:00",
+                "id": "775b8aa0-c937-4a4b-a78e-26d34c18e827",
+                "time": "2025-01-16T13:00:00+00:00",
                 "country": "Club Friendly",
                 "league": "Club Friendly",
-                "match": "Partizan vs Debrecen",
+                "match": "Lech Pozna\u0144 vs \u010cukari\u010dki",
                 "links": [
                     "https://thedaddy.to/embed/stream-134.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://ddv1new.iosplayer.ru/ddv1/premium134/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddv1new.iosplayer.ru/ddv1/premium134/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddv1new.iosplayer.ru/ddv1/premium134/mono.m3u8?token=none"
+                    "m3u8_url": "https://windnew.iosplayer.ru/wind/premium134/mono.m3u8?token=none",
+                    "m3u8_1": "https://windnew.iosplayer.ru/wind/premium134/mono.m3u8?token=none",
+                    "m3u8_2": "https://windnew.iosplayer.ru/wind/premium134/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -95,22 +59,22 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://i.ytimg.com/vi/_j2SRF85GmM/hq720.jpg?v=67864f89&sqp=CMj8mbwG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAVcaExxA7WGkMMMGtP231_DBtk8g"
+                "thumb": "https://img.sofascore.com/api/v1/event/13342167/share-image/16x9"
             },
             {
-                "id": "ee6aa224-a2a7-4add-9466-293c38ef7e34",
-                "time": "2025-01-15T14:00:00+00:00",
+                "id": "1822afb4-03ff-478c-aee0-3f848e18edc7",
+                "time": "2025-01-16T20:45:00+00:00",
                 "country": "Club Friendly",
                 "league": "Club Friendly",
-                "match": "Ludogorets vs Shakhtar Donetsk",
+                "match": "Defensa y Justicia vs Torque",
                 "links": [
-                    "https://thedaddy.to/embed/stream-465.php"
+                    "https://thedaddy.to/embed/stream-387.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://ddv1new.iosplayer.ru/ddv1/premium465/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddv1new.iosplayer.ru/ddv1/premium465/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddv1new.iosplayer.ru/ddv1/premium465/mono.m3u8?token=none"
+                    "m3u8_url": "https://windnew.iosplayer.ru/wind/premium387/mono.m3u8?token=none",
+                    "m3u8_1": "https://windnew.iosplayer.ru/wind/premium387/mono.m3u8?token=none",
+                    "m3u8_2": "https://windnew.iosplayer.ru/wind/premium387/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -123,22 +87,22 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://pbs.twimg.com/media/GhPUD9VXAAA4-at?format=jpg&name=large"
+                "thumb": "https://cdn.betimate.com/1200x0/left/top/smart/https://betimate.com/uploads/images/news/en-torque-vs-defensa-y-justicia-prediction-1736982153.jpg"
             },
             {
-                "id": "0645e8a0-d16c-4ea1-8ae0-6ab22edcff23",
-                "time": "2025-01-15T14:00:00+00:00",
+                "id": "1db150fe-74a0-4a11-8d7d-5b2f5c06aa4f",
+                "time": "2025-01-16T23:00:00+00:00",
                 "country": "Club Friendly",
                 "league": "Club Friendly",
-                "match": "Levski Sofia vs Crvena Zvezda",
+                "match": "Wanderers vs Belgrano",
                 "links": [
-                    "https://thedaddy.to/embed/stream-134.php"
+                    "https://thedaddy.to/embed/stream-387.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://ddv1new.iosplayer.ru/ddv1/premium134/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddv1new.iosplayer.ru/ddv1/premium134/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddv1new.iosplayer.ru/ddv1/premium134/mono.m3u8?token=none"
+                    "m3u8_url": "https://windnew.iosplayer.ru/wind/premium387/mono.m3u8?token=none",
+                    "m3u8_1": "https://windnew.iosplayer.ru/wind/premium387/mono.m3u8?token=none",
+                    "m3u8_2": "https://windnew.iosplayer.ru/wind/premium387/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -151,22 +115,23 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://sporticos.com/images/en-gb/match/red-star-belgrade-vs-levski-sofia"
+                "thumb": "https://cdn.betimate.com/800x0/left/top/smart/https://betimate.com/uploads/images/news/en-montevideo-wanderers-vs-belgrano-prediction-1736982160.jpg"
             },
             {
-                "id": "46b82c82-9b04-4cfc-a8c4-9bfde3292c31",
-                "time": "2025-01-15T15:00:00+00:00",
+                "id": "20f9715f-e4bb-4378-800c-42ab458a0d39",
+                "time": "2025-01-16T00:00:00+00:00",
                 "country": "Club Friendly",
                 "league": "Club Friendly",
-                "match": "Hajduk Split vs Elfsborg",
+                "match": "Mexico vs Internacional",
                 "links": [
-                    "https://thedaddy.to/embed/stream-779.php"
+                    "https://thedaddy.to/embed/stream-643.php",
+                    "https://thedaddy.to/embed/stream-66.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://windnew.iosplayer.ru/wind/premium779/mono.m3u8?token=none",
-                    "m3u8_1": "https://windnew.iosplayer.ru/wind/premium779/mono.m3u8?token=none",
-                    "m3u8_2": "https://windnew.iosplayer.ru/wind/premium779/mono.m3u8?token=none"
+                    "m3u8_url": "https://ddv1new.iosplayer.ru/ddv1/premium643/mono.m3u8?token=none",
+                    "m3u8_1": "https://windnew.iosplayer.ru/wind/premium66/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddv1new.iosplayer.ru/ddv1/premium643/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -179,42 +144,14 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://sporticos.com/images/en-gb/match/hajduk-split-vs-elfsborg"
+                "thumb": "https://www.reuters.com/resizer/v2/7BNOALYMLVKS3AHIDQU67AKWCE.jpg?auth=e57006b8fd03956285cd7d8b3ffbe9c0df3d51209873dd3d7cf97c507c271f3e&width=1080&quality=80"
             },
             {
-                "id": "e58722e1-9c27-4258-b1be-2410ffc1e971",
-                "time": "2025-01-15T16:00:00+00:00",
+                "id": "70f2a748-40f1-4299-b5b4-55af8224617b",
+                "time": "2025-01-16T01:00:00+00:00",
                 "country": "Club Friendly",
                 "league": "Club Friendly",
-                "match": "Jagiellonia Bia\u0142ystok vs Dinamo Zagreb",
-                "links": [
-                    "https://thedaddy.to/embed/stream-779.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://windnew.iosplayer.ru/wind/premium779/mono.m3u8?token=none",
-                    "m3u8_1": "https://windnew.iosplayer.ru/wind/premium779/mono.m3u8?token=none",
-                    "m3u8_2": "https://windnew.iosplayer.ru/wind/premium779/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://sporticos.com/images/en-gb/match/dinamo-zagreb-vs-jagiellonia-bialystok"
-            },
-            {
-                "id": "cd5c5fee-8b69-4cc3-8f36-81086eacb8fc",
-                "time": "2025-01-15T21:00:00+00:00",
-                "country": "Club Friendly",
-                "league": "Club Friendly",
-                "match": "Argentinos Juniors vs Juventud",
+                "match": "Pe\u00f1arol vs San Lorenzo",
                 "links": [
                     "https://thedaddy.to/embed/stream-597.php",
                     "https://thedaddy.to/embed/stream-387.php"
@@ -222,7 +159,7 @@
                 "top": true,
                 "m3u8_urls": {
                     "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium597/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddv1new.iosplayer.ru/ddv1/premium387/mono.m3u8?token=none",
+                    "m3u8_1": "https://windnew.iosplayer.ru/wind/premium387/mono.m3u8?token=none",
                     "m3u8_2": "https://ddh2new.iosplayer.ru/ddh2/premium597/mono.m3u8?token=none"
                 },
                 "headers": {
@@ -236,109 +173,22 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://www.elfutbolero.us/_next/image?url=https%3A%2F%2Fwww.elfutbolero.us%2Fimage%2Felfutbolerous%2Fargentinos-juniors-match-photo-ataaajoficial-1736888606-hq.webp&w=3840&q=75"
-            },
-            {
-                "id": "a3c87aa9-32d7-4028-941e-92c7c56d6c6a",
-                "time": "2025-01-15T23:00:00+00:00",
-                "country": "Club Friendly",
-                "league": "Club Friendly",
-                "match": "Colo-Colo vs Hurac\u00e1n",
-                "links": [
-                    "https://thedaddy.to/embed/stream-597.php",
-                    "https://thedaddy.to/embed/stream-387.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium597/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddv1new.iosplayer.ru/ddv1/premium387/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddh2new.iosplayer.ru/ddh2/premium597/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://cdn.ussoccerplayers.com/images/2025/01/tyler-adams-bournemouth-at-cheslea-january-14-2025-credit-gareth-evans-news-images-via-zuma-press-isiphotos.jpg"
-            },
-            {
-                "id": "a7ce1c56-5dec-4dfd-885e-6ea9149f0e0c",
-                "time": "2025-01-15T00:30:00+00:00",
-                "country": "Club Friendly",
-                "league": "Club Friendly",
-                "match": "Cruzeiro vs S\u00e3o Paulo",
-                "links": [
-                    "https://thedaddy.to/embed/stream-78.php",
-                    "https://thedaddy.to/embed/stream-88.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddy6new.iosplayer.ru/ddy6/premium78/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddv1new.iosplayer.ru/ddv1/premium88/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddy6new.iosplayer.ru/ddy6/premium78/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/FE3HN2J27BH3PGW6KBNODLUD4I.jpg"
-            },
-            {
-                "id": "3715ecb7-222b-4b79-a5c5-d4c59f48b932",
-                "time": "2025-01-15T01:00:00+00:00",
-                "country": "Club Friendly",
-                "league": "Club Friendly",
-                "match": "Defensor Sporting vs Gimnasia La Plata",
-                "links": [
-                    "https://thedaddy.to/embed/stream-597.php",
-                    "https://thedaddy.to/embed/stream-387.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium597/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddv1new.iosplayer.ru/ddv1/premium387/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddh2new.iosplayer.ru/ddh2/premium597/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://cdn.ussoccerplayers.com/images/2025/01/tyler-adams-bournemouth-at-cheslea-january-14-2025-credit-gareth-evans-news-images-via-zuma-press-isiphotos.jpg"
+                "thumb": "https://statmilk.bleacherreport.com/api/image/mashup/logo?team1=ca-penarol&team2=san-lorenzo-de-almagro"
             }
         ]
     },
     {
-        "id": "6ccd8739-0277-4590-8b2b-b21c36835913",
+        "id": "9dd975ad-8c7f-4993-8766-09b2590fb636",
         "competition": "Saudi Arabia - Pro League",
-        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/cad65d67ff7465daeec811641704d016.jpg",
+        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/9f666aad4665ccc5a1c5b007ccae9f90.jpg",
         "priority": 11,
         "matches": [
             {
-                "id": "13bdea4b-dc4a-44a0-9fe9-637f08a9aab5",
-                "time": "2025-01-15T15:05:00+00:00",
+                "id": "19bfb1d5-9e7c-439c-88aa-f504ed10c7e6",
+                "time": "2025-01-16T13:55:00+00:00",
                 "country": "Saudi Arabia - Pro League",
                 "league": "Saudi Arabia - Pro League",
-                "match": "Al Shabab vs Al Riyadh",
+                "match": "Al Akhdoud vs Al Feiha",
                 "links": [
                     "https://thedaddy.to/embed/stream-1.php"
                 ],
@@ -359,22 +209,24 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://betting.bc.game/wp-content/uploads/2025/01/Al-Shabab-vs-Al-Riyadh-600x400.png"
+                "thumb": "https://pictures.tribuna.com/image/87855be8-d664-4390-a4aa-d88ea8b049a3?width=1920&quality=70"
             },
             {
-                "id": "9ec306b0-2c23-4d64-82bf-286e6c06ff93",
-                "time": "2025-01-15T15:30:00+00:00",
+                "id": "e855c113-5b6f-40e2-a07d-883b46ff5f72",
+                "time": "2025-01-16T15:05:00+00:00",
                 "country": "Saudi Arabia - Pro League",
                 "league": "Saudi Arabia - Pro League",
-                "match": "Damac vs Al Ittifaq",
+                "match": "Al Hilal vs Al Fateh",
                 "links": [
-                    "https://thedaddy.to/embed/stream-2.php"
+                    "https://thedaddy.to/embed/stream-3.php",
+                    "https://thedaddy.to/embed/stream-758.php",
+                    "https://thedaddy.to/embed/stream-571.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium2/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddh2new.iosplayer.ru/ddh2/premium2/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddh2new.iosplayer.ru/ddh2/premium2/mono.m3u8?token=none"
+                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium3/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddv2new.iosplayer.ru/ddv2/premium758/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddv1new.iosplayer.ru/ddv1/premium571/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -387,22 +239,24 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://i.ytimg.com/vi/E4Hbbypb9AI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAfrP1ayfULRc8PeG65vyKnr136YA"
+                "thumb": "https://i.ytimg.com/vi/5nE-ajA71Yg/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AG2CIACgA-KAgwIABABGDogZSgWMA8=&rs=AOn4CLBsCbQJmWUnWtjzf0qqkFcJc2A2pA"
             },
             {
-                "id": "3a120aa4-349c-4540-a8b6-aa7395ba9d99",
-                "time": "2025-01-15T17:00:00+00:00",
+                "id": "0ad37852-54cf-4cce-9596-3d336769b4fd",
+                "time": "2025-01-16T17:00:00+00:00",
                 "country": "Saudi Arabia - Pro League",
                 "league": "Saudi Arabia - Pro League",
-                "match": "Al Kholood vs Al Ahli",
+                "match": "Al Ittihad vs Al Raed",
                 "links": [
-                    "https://thedaddy.to/embed/stream-3.php"
+                    "https://thedaddy.to/embed/stream-4.php",
+                    "https://thedaddy.to/embed/stream-758.php",
+                    "https://thedaddy.to/embed/stream-426.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium4/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddv2new.iosplayer.ru/ddv2/premium758/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddy6new.iosplayer.ru/ddy6/premium426/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -415,272 +269,60 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://i.ytimg.com/vi/bmM6Wh_UGio/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDERJheu5JFD31NbOEUIDU9pbsE-Q"
+                "thumb": "https://houdinipredictions.b-cdn.net/images/DinamicArticles/AL-Ittihad-VS-AL-Raed-odds-betting-tips-2025-01-16_98418.webp"
             }
         ]
     },
     {
-        "id": "f3181a35-c1ed-4a55-96c8-344ba70ecafd",
-        "competition": "Bundesliga",
-        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/6b5cb81ca8e0d1d2686e6c63371ca590.jpg",
-        "priority": 6,
-        "matches": [
-            {
-                "id": "0caa09d2-f4e3-41a7-891e-636e1fa43e1b",
-                "time": "2025-01-15T17:30:00+00:00",
-                "country": "Bundesliga",
-                "league": "Bundesliga",
-                "match": "Bochum vs St. Pauli",
-                "links": [
-                    "https://thedaddy.to/embed/stream-558.php",
-                    "https://thedaddy.to/embed/stream-35.php",
-                    "https://thedaddy.to/embed/stream-36.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddy6new.iosplayer.ru/ddy6/premium558/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddv2new.iosplayer.ru/ddv2/premium35/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddv2new.iosplayer.ru/ddv2/premium36/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://bulinews.com/i/640/7182.jpg"
-            },
-            {
-                "id": "2d83f096-7472-4586-9fc1-131a3ac511b8",
-                "time": "2025-01-15T19:30:00+00:00",
-                "country": "Bundesliga",
-                "league": "Bundesliga",
-                "match": "Simulcast",
-                "links": [
-                    "https://thedaddy.to/embed/stream-558.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddy6new.iosplayer.ru/ddy6/premium558/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddy6new.iosplayer.ru/ddy6/premium558/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddy6new.iosplayer.ru/ddy6/premium558/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://www.sportspro.com/wp-content/uploads/2025/01/Marcel-Dessailly-BeIN-Sports-Ligue-1.jpg"
-            },
-            {
-                "id": "88756475-b067-469e-b917-2a04c3422b47",
-                "time": "2025-01-15T19:30:00+00:00",
-                "country": "Bundesliga",
-                "league": "Bundesliga",
-                "match": "Stuttgart vs RB Leipzig",
-                "links": [
-                    "https://thedaddy.to/embed/stream-12.php",
-                    "https://thedaddy.to/embed/stream-13.php",
-                    "https://thedaddy.to/embed/stream-487.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium12/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddh2new.iosplayer.ru/ddh2/premium13/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddy6new.iosplayer.ru/ddy6/premium487/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://cdn.dataskrive.com/api/asset/BkDXdP7.jpg"
-            },
-            {
-                "id": "82f9c4f5-b832-447a-99cb-c2bfa50f453e",
-                "time": "2025-01-15T19:30:00+00:00",
-                "country": "Bundesliga",
-                "league": "Bundesliga",
-                "match": "Union Berlin vs Augsburg",
-                "links": [
-                    "https://thedaddy.to/embed/stream-14.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium14/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddh2new.iosplayer.ru/ddh2/premium14/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddh2new.iosplayer.ru/ddh2/premium14/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://cdn.dataskrive.com/api/asset/fmQz3ul.jpg"
-            },
-            {
-                "id": "291784cc-e4f9-4203-81d8-583018caff42",
-                "time": "2025-01-15T19:30:00+00:00",
-                "country": "Bundesliga",
-                "league": "Bundesliga",
-                "match": "Werder Bremen vs Heidenheim",
-                "links": [
-                    "https://thedaddy.to/embed/stream-15.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium15/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddh2new.iosplayer.ru/ddh2/premium15/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddh2new.iosplayer.ru/ddh2/premium15/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://cdn.dataskrive.com/api/asset/vwTZ2jp.jpg"
-            },
-            {
-                "id": "f4625cf0-c091-49dc-8a97-d3a622d0275f",
-                "time": "2025-01-15T19:30:00+00:00",
-                "country": "Bundesliga",
-                "league": "Bundesliga",
-                "match": "Bayern M\u00fcnchen vs Hoffenheim",
-                "links": [
-                    "https://thedaddy.to/embed/stream-16.php",
-                    "https://thedaddy.to/embed/stream-729.php",
-                    "https://thedaddy.to/embed/stream-36.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium16/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddy6new.iosplayer.ru/ddy6/premium729/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddv2new.iosplayer.ru/ddv2/premium36/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://cdn.vox-cdn.com/thumbor/IFwtdCOErf7ne1WJ3Of1ad8spTM=/0x0:4907x3271/1200x800/filters:focal(2312x933:3096x1717)/cdn.vox-cdn.com/uploads/chorus_image/image/73845814/2192822712.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": "cbbcac69-274b-48e6-9cb5-a397774c4f27",
+        "id": "c0e42dc3-ae32-49c2-a621-46d6f339b4ef",
         "competition": "Netherlands - KNVB Beker",
-        "thumbnail": "https://media.gettyimages.com/id/2193392390/photo/psv-eindhoven-v-excelsior-dutch-knvb-beker.jpg?s=1024x1024&w=gi&k=20&c=o1mEIdklYnS3IzgdgbNZ_kIah-HOgMWLuICtFxeLjvg=",
-        "priority": 100,
+        "thumbnail": "https://www.footballticketnet.com/theme/images/tournaments/Buy-Dutch-KNVB-Beker-Football-Tickets-FootballTicketNet.png",
+        "priority": 13,
         "matches": [
             {
-                "id": "35bbc69f-5feb-4732-a118-e6ecdd97cf47",
-                "time": "2025-01-15T17:45:00+00:00",
+                "id": "8a630bca-a505-49d4-81d3-5ebfbbe48d0a",
+                "time": "2025-01-16T17:45:00+00:00",
                 "country": "Netherlands - KNVB Beker",
                 "league": "Netherlands - KNVB Beker",
-                "match": "Go Ahead Eagles vs Twente",
+                "match": "De Graafschap vs Heracles",
                 "links": [
-                    "https://thedaddy.to/embed/stream-386.php",
+                    "https://thedaddy.to/embed/stream-386.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddv2new.iosplayer.ru/ddv2/premium386/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddv2new.iosplayer.ru/ddv2/premium386/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddv2new.iosplayer.ru/ddv2/premium386/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://www.imageservera.com/cdn-cgi/image/format=webp/uploadedimages/202501/Jan15/TNCR_De-Graafschap-15014185.jpg"
+            },
+            {
+                "id": "7c72dfaf-f6a3-4ead-9462-b01363f7a242",
+                "time": "2025-01-16T20:00:00+00:00",
+                "country": "Netherlands - KNVB Beker",
+                "league": "Netherlands - KNVB Beker",
+                "match": "Quick Boys vs Heerenveen",
+                "links": [
+                    "https://thedaddy.to/embed/stream-379.php",
                     "https://thedaddy.to/embed/stream-471.php",
                     "https://thedaddy.to/embed/stream-453.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://ddv2new.iosplayer.ru/ddv2/premium386/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddv1new.iosplayer.ru/ddv1/premium471/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddv1new.iosplayer.ru/ddv1/premium453/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://media.gettyimages.com/id/2193347576/photo/alkmaar-netherlands-troy-parrott-of-az-alkmaar-during-the-dutch-knvb-beker-match-between-az.jpg?s=612x612&w=gi&k=20&c=9RXpH-UlktsRIL-76NyE0WhDNl0Dw0kb4M4RIMCYfS4="
-            },
-            {
-                "id": "6d62073a-4933-45de-8e89-b6f9fd3d867c",
-                "time": "2025-01-15T19:00:00+00:00",
-                "country": "Netherlands - KNVB Beker",
-                "league": "Netherlands - KNVB Beker",
-                "match": "RKC Waalwijk vs Utrecht",
-                "links": [
-                    "https://thedaddy.to/embed/stream-888.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddv1new.iosplayer.ru/ddv1/premium888/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddv1new.iosplayer.ru/ddv1/premium888/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddv1new.iosplayer.ru/ddv1/premium888/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://external-preview.redd.it/match-thread-az-ajax-v0-MMy6GOk_lwaRD6GO9UCR6ibN7yzMnGR4v4HNKHv6lkk.jpg?auto=webp&s=c644808034dfc65c3c5750eb9e0f03f7fe182f3d"
-            },
-            {
-                "id": "780c6198-cc65-4667-849b-77e4f0b248fb",
-                "time": "2025-01-15T20:00:00+00:00",
-                "country": "Netherlands - KNVB Beker",
-                "league": "Netherlands - KNVB Beker",
-                "match": "Rijnsburgse Boys vs Feyenoord",
-                "links": [
-                    "https://thedaddy.to/embed/stream-379.php",
-                    "https://thedaddy.to/embed/stream-129.php",
-                    "https://thedaddy.to/embed/stream-104.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
                     "m3u8_url": "https://ddv2new.iosplayer.ru/ddv2/premium379/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddv1new.iosplayer.ru/ddv1/premium129/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddv1new.iosplayer.ru/ddv1/premium104/mono.m3u8?token=none"
+                    "m3u8_1": "https://windnew.iosplayer.ru/wind/premium471/mono.m3u8?token=none",
+                    "m3u8_2": "https://windnew.iosplayer.ru/wind/premium453/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -693,32 +335,129 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://tips.gg/match/rijnsburgse-boys-vs-feyenoord-15-01-2025-08-00/poster/"
+                "thumb": "https://lookaside.fbsbx.com/lookaside/crawler/threads/DE3UDbRN0V5/0/image.jpg"
             }
         ]
     },
     {
-        "id": "2f79068c-f4f4-4cc1-a995-ae6fe99c6bcc",
+        "id": "b0073e9a-e43f-4b11-ad51-c67ec59c184b",
+        "competition": "Spain - Copa del Rey",
+        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/a6e133bb50775565390f15d7b5fd5e35.jpg",
+        "priority": 4,
+        "matches": [
+            {
+                "id": "2d73b6df-5d6b-4f5d-83f3-a0ef04358ccb",
+                "time": "2025-01-16T18:30:00+00:00",
+                "country": "Spain - Copa del Rey",
+                "league": "Spain - Copa del Rey",
+                "match": "Real Sociedad vs Rayo Vallecano",
+                "links": [
+                    "https://thedaddy.to/embed/stream-84.php",
+                    "https://thedaddy.to/embed/stream-454.php",
+                    "https://thedaddy.to/embed/stream-137.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://windnew.iosplayer.ru/wind/premium84/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddy6new.iosplayer.ru/ddy6/premium454/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddy6new.iosplayer.ru/ddy6/premium137/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://en.atleticodemadrid.com/system/file3s/91594/large/FRcJzkkbae_RESUMEN_WEB_ENG.jpg?1736984748"
+            },
+            {
+                "id": "0b122233-8289-47c5-8cdc-a4cf9080540f",
+                "time": "2025-01-16T18:30:00+00:00",
+                "country": "Spain - Copa del Rey",
+                "league": "Spain - Copa del Rey",
+                "match": "Athletic Club vs Osasuna",
+                "links": [
+                    "https://thedaddy.to/embed/stream-28.php",
+                    "https://thedaddy.to/embed/stream-49.php",
+                    "https://thedaddy.to/embed/stream-138.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium28/mono.m3u8?token=none",
+                    "m3u8_1": "https://windnew.iosplayer.ru/wind/premium49/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddy6new.iosplayer.ru/ddy6/premium138/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://phantom-marca.unidadeditorial.es/e95456c64c1b92840e38b5419037a75e/resize/828/f/jpg/assets/multimedia/imagenes/2025/01/15/17369787975988.jpg"
+            },
+            {
+                "id": "1b82584e-93fb-4377-993b-8874b5f5bafb",
+                "time": "2025-01-16T20:30:00+00:00",
+                "country": "Spain - Copa del Rey",
+                "league": "Spain - Copa del Rey",
+                "match": "Real Madrid vs Celta de Vigo",
+                "links": [
+                    "https://thedaddy.to/embed/stream-533.php",
+                    "https://thedaddy.to/embed/stream-571.php",
+                    "https://thedaddy.to/embed/stream-49.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddv1new.iosplayer.ru/ddv1/premium533/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddv1new.iosplayer.ru/ddv1/premium571/mono.m3u8?token=none",
+                    "m3u8_2": "https://windnew.iosplayer.ru/wind/premium49/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://cdn.vox-cdn.com/thumbor/PyltcHba1JCqnhukOLtJCiMknwg=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/73849607/2193161821.0.jpg"
+            }
+        ]
+    },
+    {
+        "id": "6fec7e41-c02f-4277-bd56-52416dcdaa17",
         "competition": "England - Premier League",
         "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/74acf694395a7d85e015e41d9239fc72.jpg",
         "priority": 4,
         "matches": [
             {
-                "id": "6d76dd9f-7a84-4446-a79c-cda06b662e7f",
-                "time": "2025-01-15T19:30:00+00:00",
+                "id": "9dc547ed-8ca9-49a5-978b-300b4c4c202d",
+                "time": "2025-01-16T19:30:00+00:00",
                 "country": "England - Premier League",
                 "league": "England - Premier League",
                 "match": "Simulcast",
                 "links": [
-                    "https://thedaddy.to/embed/stream-5.php",
-                    "https://thedaddy.to/embed/stream-595.php",
-                    "https://thedaddy.to/embed/stream-134.php"
+                    "https://thedaddy.to/embed/stream-29.php",
+                    "https://thedaddy.to/embed/stream-595.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium5/mono.m3u8?token=none",
-                    "m3u8_1": "https://windnew.iosplayer.ru/wind/premium595/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddv1new.iosplayer.ru/ddv1/premium134/mono.m3u8?token=none"
+                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium29/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddv1new.iosplayer.ru/ddv1/premium595/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh2new.iosplayer.ru/ddh2/premium29/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -731,23 +470,53 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://c.ndtvimg.com/2025-01/uo04hfoo_team-liverpool-afp_625x300_15_January_25.jpg?im=FitAndFill,algorithm=dnn,width=400,height=300&output-quality=80"
+                "thumb": "https://static.ffx.io/images/$zoom_0.2257%2C$multiply_0.5855%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/36344bb27c699af7a378cdb28d64c263107bccd8"
             },
             {
-                "id": "da4e235e-513b-4942-924c-9bece99f5c29",
-                "time": "2025-01-15T19:30:00+00:00",
+                "id": "91287615-8256-45c0-aac4-a3117270d002",
+                "time": "2025-01-16T19:30:00+00:00",
                 "country": "England - Premier League",
                 "league": "England - Premier League",
-                "match": "Everton vs Aston Villa",
+                "match": "Ipswich Town vs Brighton &amp; Hove Albion",
                 "links": [
-                    "https://thedaddy.to/embed/stream-6.php",
+                    "https://thedaddy.to/embed/stream-1.php",
                     "https://thedaddy.to/embed/stream-32.php",
+                    "https://thedaddy.to/embed/stream-592.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium1/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2new.iosplayer.ru/ddh2/premium32/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddv1new.iosplayer.ru/ddv1/premium592/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://www.bjsports.live/wp-content/uploads/2025/01/English-Premier-League-Ipswich-Town-vs-Brighton-Hove-Albion-Who-will-win-todays-Football-Match-.webp"
+            },
+            {
+                "id": "1ce5c611-ddb1-4ed9-aa6b-ac987fd12f37",
+                "time": "2025-01-16T20:00:00+00:00",
+                "country": "England - Premier League",
+                "league": "England - Premier League",
+                "match": "Manchester United vs Southampton",
+                "links": [
+                    "https://thedaddy.to/embed/stream-3.php",
+                    "https://thedaddy.to/embed/stream-31.php",
                     "https://thedaddy.to/embed/stream-343.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium6/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddh2new.iosplayer.ru/ddh2/premium32/mono.m3u8?token=none",
+                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium3/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2new.iosplayer.ru/ddh2/premium31/mono.m3u8?token=none",
                     "m3u8_2": "https://ddh2new.iosplayer.ru/ddh2/premium343/mono.m3u8?token=none"
                 },
                 "headers": {
@@ -761,173 +530,7 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://news.22bet.com/wp-content/uploads/2025/01/Everton-vs-Aston-Villa.jpg"
-            },
-            {
-                "id": "ed2c52ed-92cd-4913-a20a-270333d20fae",
-                "time": "2025-01-15T19:30:00+00:00",
-                "country": "England - Premier League",
-                "league": "England - Premier League",
-                "match": "Leicester City vs Crystal Palace",
-                "links": [
-                    "https://thedaddy.to/embed/stream-7.php",
-                    "https://thedaddy.to/embed/stream-34.php",
-                    "https://thedaddy.to/embed/stream-590.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium7/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddh2new.iosplayer.ru/ddh2/premium34/mono.m3u8?token=none",
-                    "m3u8_2": "https://windnew.iosplayer.ru/wind/premium590/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://www.bjsports.live/wp-content/uploads/2025/01/Football-Prediction-_-Leicester-City-vs-Crystal-Palace-_-English-Premier-League-_-Jan-16--Can-Leicester-City-End-Their-Five-Match-Losing-Streak_-1.webp"
-            },
-            {
-                "id": "0f2ac724-fa7a-4cae-ac36-52828f8bba28",
-                "time": "2025-01-15T19:30:00+00:00",
-                "country": "England - Premier League",
-                "league": "England - Premier League",
-                "match": "Newcastle United vs Wolverhampton Wanderers",
-                "links": [
-                    "https://thedaddy.to/embed/stream-8.php",
-                    "https://thedaddy.to/embed/stream-33.php",
-                    "https://thedaddy.to/embed/stream-447.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium8/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddh2new.iosplayer.ru/ddh2/premium33/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddv2new.iosplayer.ru/ddv2/premium447/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://www.bjsports.live/wp-content/uploads/2025/01/Football-Prediction-Newcastle-United-vs-Wolverhampton-Wanderers-English-Premier-League-January-16--Can-Newcastle-Extend-Their-Winning-Streak-to-Six.webp"
-            },
-            {
-                "id": "d3dde688-82fa-4129-bfd4-2e93e95f147c",
-                "time": "2025-01-15T20:00:00+00:00",
-                "country": "England - Premier League",
-                "league": "England - Premier League",
-                "match": "Arsenal vs Tottenham Hotspur",
-                "links": [
-                    "https://thedaddy.to/embed/stream-9.php",
-                    "https://thedaddy.to/embed/stream-31.php",
-                    "https://thedaddy.to/embed/stream-588.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium9/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddh2new.iosplayer.ru/ddh2/premium31/mono.m3u8?token=none",
-                    "m3u8_2": "https://windnew.iosplayer.ru/wind/premium588/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://www.bjsports.live/wp-content/uploads/2025/01/Football-Prediction-_-Arsenal-vs-Tottenham-Hotspur-_-English-Premier-League-_-Jan-16--Is-the-North-London-Derby-Arsenals-to-Win_-1.webp"
-            }
-        ]
-    },
-    {
-        "id": "575bf51c-84f2-42a7-85cd-4505ce840e21",
-        "competition": "Italy - Serie A",
-        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/de91df625c075b3e0b8e0a0d16d1b5c5.jpg",
-        "priority": 8,
-        "matches": [
-            {
-                "id": "d7a92ec0-bdc8-4a4e-8af3-55d60354664e",
-                "time": "2025-01-15T19:45:00+00:00",
-                "country": "Italy - Serie A",
-                "league": "Italy - Serie A",
-                "match": "Internazionale vs Bologna",
-                "links": [
-                    "https://thedaddy.to/embed/stream-877.php",
-                    "https://thedaddy.to/embed/stream-426.php",
-                    "https://thedaddy.to/embed/stream-74.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium877/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddy6new.iosplayer.ru/ddy6/premium426/mono.m3u8?token=none",
-                    "m3u8_2": "https://windnew.iosplayer.ru/wind/premium74/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://icdn.cultofcalcio.com/wp-content/uploads/2025/01/Inter_Bologna_Preview-1.jpg"
-            }
-        ]
-    },
-    {
-        "id": "1979640f-144e-462c-9ab0-6116691d98fd",
-        "competition": "Scottish Premiership",
-        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/c552/live/91fa4d10-d0db-11ef-94cb-5f844ceb9e30.jpg",
-        "priority": 100,
-        "matches": [
-            {
-                "id": "e32192ff-e0f2-479e-acab-067d10caa05f",
-                "time": "2025-01-15T20:00:00+00:00",
-                "country": "Scottish Premiership",
-                "league": "Scottish Premiership",
-                "match": "Rangers vs Aberdeen",
-                "links": [
-                    "https://thedaddy.to/embed/stream-35.php",
-                    "https://thedaddy.to/embed/stream-38.php",
-                    "https://thedaddy.to/embed/stream-290.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddv2new.iosplayer.ru/ddv2/premium35/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddv2new.iosplayer.ru/ddv2/premium38/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddy6new.iosplayer.ru/ddy6/premium290/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://ng-sportingnews.com/s3/files/styles/crop_style_16_9_desktop/s3/2025-01/nba-canada--1be15c6b-5a5d-46e2-a611-1ac87c57bbf4.png?h=920929c4&itok=xeG3kuOn"
+                "thumb": "https://i.ytimg.com/vi/XR-sZVINHWs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC91pZHUtFE2D83Ov1Cvuitfn3lBQ"
             }
         ]
     }
