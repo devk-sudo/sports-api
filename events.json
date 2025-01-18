@@ -1,13 +1,13 @@
 [
     {
-        "id": "66adc737-568c-4bc5-a33d-9ca28e95a003",
+        "id": "f031869e-cb3d-40d6-9a44-66d90f598b50",
         "competition": "England - Championship",
         "thumbnail": "https://i2-prod.chroniclelive.co.uk/incoming/article11450315.ece/ALTERNATES/s615/EFL.jpg",
         "priority": 10,
         "matches": [
             {
-                "id": "a6d7e726-c6cb-408c-9020-1dc1afc5edda",
-                "time": "12:30",
+                "id": "3b303e69-2373-4537-9fa3-e545b2726ed2",
+                "time": "2025-01-18T12:30:00+00:00",
                 "country": "England - Championship",
                 "league": "England - Championship",
                 "match": "Millwall vs Hull City",
@@ -34,8 +34,8 @@
                 "thumb": "https://img.vavel.com/live-en-es-1737154408326.png"
             },
             {
-                "id": "83f45aff-e76b-4832-85c0-d3a22b130aab",
-                "time": "12:30",
+                "id": "08b23637-4d5c-44cb-baa8-399a5a70bd24",
+                "time": "2025-01-18T12:30:00+00:00",
                 "country": "England - Championship",
                 "league": "England - Championship",
                 "match": "Plymouth Argyle vs Queens Park Rangers",
@@ -63,8 +63,8 @@
                 "thumb": "https://img.vavel.com/plyqpr1-1737173032658.png"
             },
             {
-                "id": "7702fbb6-fd25-418e-a99e-86acca6ad30a",
-                "time": "15:00",
+                "id": "7acfb51f-31df-42c2-b953-f28c5ea07b44",
+                "time": "2025-01-18T15:00:00+00:00",
                 "country": "England - Championship",
                 "league": "England - Championship",
                 "match": "Coventry City vs Bristol City",
@@ -91,8 +91,8 @@
                 "thumb": "https://img.vavel.com/live-en-es-1737156039198.png"
             },
             {
-                "id": "9b11e6a0-6690-47b0-8cd4-cacb52727fc4",
-                "time": "15:00",
+                "id": "64029102-4c1e-40b3-bda7-8065c084b892",
+                "time": "2025-01-18T15:00:00+00:00",
                 "country": "England - Championship",
                 "league": "England - Championship",
                 "match": "Derby County vs Watford",
@@ -119,8 +119,8 @@
                 "thumb": "https://img.vavel.com/lives-vavel-zip-11-1737150646448.PNG"
             },
             {
-                "id": "e06fda88-fd28-4fac-8e9f-de7880f5d528",
-                "time": "15:00",
+                "id": "56dd3749-b5da-42cb-ba9a-c2562e44e4b6",
+                "time": "2025-01-18T15:00:00+00:00",
                 "country": "England - Championship",
                 "league": "England - Championship",
                 "match": "Luton Town vs Preston North End",
@@ -147,8 +147,8 @@
                 "thumb": "https://img.vavel.com/ing-1737133265181.png"
             },
             {
-                "id": "ae2ff72a-fc10-447f-82ea-a9b8278383fa",
-                "time": "15:00",
+                "id": "992a2440-f63f-4142-baa7-ba5461f47e5b",
+                "time": "2025-01-18T15:00:00+00:00",
                 "country": "England - Championship",
                 "league": "England - Championship",
                 "match": "Oxford United vs Blackburn Rovers",
@@ -175,8 +175,8 @@
                 "thumb": "https://img.vavel.com/oxfbla1-1737173503319.png"
             },
             {
-                "id": "cce4240f-6254-45d1-8b80-8df2f4c0d6ed",
-                "time": "15:00",
+                "id": "c126bf96-d708-4b5c-be4d-59120d334d19",
+                "time": "2025-01-18T15:00:00+00:00",
                 "country": "England - Championship",
                 "league": "England - Championship",
                 "match": "Portsmouth vs Middlesbrough",
@@ -205,8 +205,8 @@
                 "thumb": "https://img.vavel.com/port-vs-mid-live-1737156591016.jpg"
             },
             {
-                "id": "527a5fc6-9ce7-4739-9512-ea994bc3f08b",
-                "time": "15:00",
+                "id": "f2f9a5e7-c3d8-44bf-9cd7-c818ded1639e",
+                "time": "2025-01-18T15:00:00+00:00",
                 "country": "England - Championship",
                 "league": "England - Championship",
                 "match": "Sheffield United vs Norwich City",
@@ -234,8 +234,8 @@
                 "thumb": "https://img.vavel.com/sheffield-u-ingles-1737156197621.jpg"
             },
             {
-                "id": "0ac726a1-87bd-4038-8a99-4f7574073ddf",
-                "time": "15:00",
+                "id": "c895d6bf-f4a2-40d4-9ad3-019a3f5baa1e",
+                "time": "2025-01-18T15:00:00+00:00",
                 "country": "England - Championship",
                 "league": "England - Championship",
                 "match": "West Bromwich Albion vs Stoke City",
@@ -262,8 +262,8 @@
                 "thumb": "https://www.westbromnews.co.uk/static/uploads/5/2025/01/West-Brom-badge-Stoke-City-Met-Office.png"
             },
             {
-                "id": "a9736405-d1c0-4116-bcd5-3097e799630a",
-                "time": "12:30",
+                "id": "b8af08d7-688f-493d-bd93-4ce452dd8bf3",
+                "time": "2025-01-18T12:30:00+00:00",
                 "country": "England - Championship",
                 "league": "England - Championship",
                 "match": "Cardiff City vs Swansea City",
@@ -294,14 +294,14 @@
         ]
     },
     {
-        "id": "f05220ea-1e6f-4cd8-a4df-2cb173e645fc",
+        "id": "0027fb22-561e-4d63-8cbd-9680a70d0aed",
         "competition": "World - Club Friendly",
         "thumbnail": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3547765747511419746",
         "priority": 100,
         "matches": [
             {
-                "id": "b98a3f85-e140-4872-a7a3-3f086912e31e",
-                "time": "08:00",
+                "id": "15f9b1a2-d7d6-4b2a-bf94-363c1a803ce3",
+                "time": "2025-01-18T08:00:00+00:00",
                 "country": "World - Club Friendly",
                 "league": "World - Club Friendly",
                 "match": "Ban\u00edk Ostrava vs OFK Beograd",
@@ -328,8 +328,8 @@
                 "thumb": "https://tips.gg/match/ostrava-vs-ofk-beograd-18-01-2025-08-00/poster/"
             },
             {
-                "id": "0bc298ab-d25e-425d-9767-7dba48906320",
-                "time": "13:00",
+                "id": "3f196132-f8ef-4d06-bc11-7263c24cb79c",
+                "time": "2025-01-18T13:00:00+00:00",
                 "country": "World - Club Friendly",
                 "league": "World - Club Friendly",
                 "match": "Osijek vs Celje",
@@ -356,8 +356,8 @@
                 "thumb": "https://tips.gg/match/osijek-vs-celje-18-01-2025-10-00/poster/"
             },
             {
-                "id": "e3790fbf-ce2f-4d31-a62c-28f3e12258b7",
-                "time": "14:00",
+                "id": "0f7bfcd9-1861-44a4-808b-0fee6faa39ad",
+                "time": "2025-01-18T14:00:00+00:00",
                 "country": "World - Club Friendly",
                 "league": "World - Club Friendly",
                 "match": "Ban\u00edk Ostrava vs Levski Sofia",
@@ -384,8 +384,8 @@
                 "thumb": "https://iffhs.com/storage/img/posts/Veljkovic_AWARDS%202024%20MEN%20BEST%20CLUB%20Real%20Madrid.png"
             },
             {
-                "id": "7b0b08b0-280e-4a20-ad1b-945f67613b77",
-                "time": "20:00",
+                "id": "b177c80e-232d-41bb-9af0-7d33b25a15a1",
+                "time": "2025-01-18T20:00:00+00:00",
                 "country": "World - Club Friendly",
                 "league": "World - Club Friendly",
                 "match": "Atl\u00e9tico Mineiro vs Cruzeiro",
@@ -413,8 +413,8 @@
                 "thumb": "https://iffhs.com/storage/img/posts/Veljkovic_AWARDS%202024%20MEN%20BEST%20CLUB%20Real%20Madrid.png"
             },
             {
-                "id": "69cab7db-901b-47df-9d78-800aaa7fd186",
-                "time": "23:00",
+                "id": "f489f382-82d3-4d84-859e-6f44fb67838b",
+                "time": "2025-01-18T23:00:00+00:00",
                 "country": "World - Club Friendly",
                 "league": "World - Club Friendly",
                 "match": "Cerro Largo vs Gimnasia La Plata",
@@ -444,14 +444,14 @@
         ]
     },
     {
-        "id": "0799a187-2f57-4af1-b41e-417e9bf0f3e8",
+        "id": "a22cbcd2-80a3-4205-a28b-e7cb306da398",
         "competition": "Super Lig",
         "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/0a9e8451b00c6d118ffac308b831a86a.jpg",
         "priority": 17,
         "matches": [
             {
-                "id": "c3571fcb-dd37-4c08-a6dc-314b0fac7de5",
-                "time": "10:30",
+                "id": "020c1938-de4f-499e-8552-90f363f70679",
+                "time": "2025-01-18T10:30:00+00:00",
                 "country": "Super Lig",
                 "league": "Super Lig",
                 "match": "\u0130stanbul Ba\u015fak\u015fehir vs Rizespor",
@@ -478,8 +478,8 @@
                 "thumb": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3548083280549030846"
             },
             {
-                "id": "e70f12fa-cd9f-480c-8627-6634a135b6d2",
-                "time": "13:00",
+                "id": "5700dd9a-e46c-4124-8c4d-41c645ce98df",
+                "time": "2025-01-18T13:00:00+00:00",
                 "country": "Super Lig",
                 "league": "Super Lig",
                 "match": "Gaziantep FK vs Bodrumspor",
@@ -506,8 +506,8 @@
                 "thumb": "https://i.ytimg.com/vi/QJp4SEzrCdA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBwCt9VKCspZFnAR0fYFsHoaYQ8WQ"
             },
             {
-                "id": "ecb2de70-b302-4fd8-b2d1-d9bcd11bb5af",
-                "time": "16:00",
+                "id": "39c948f2-ef02-4062-8bcd-2cd2c1688d4c",
+                "time": "2025-01-18T16:00:00+00:00",
                 "country": "Super Lig",
                 "league": "Super Lig",
                 "match": "Be\u015fikta\u015f vs Samsunspor",
@@ -538,14 +538,14 @@
         ]
     },
     {
-        "id": "47461150-0226-4134-bff0-a271328d88f6",
+        "id": "944c4528-2f8e-40a6-853f-5e8b8822015a",
         "competition": "England - Premier League",
         "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/74acf694395a7d85e015e41d9239fc72.jpg",
         "priority": 4,
         "matches": [
             {
-                "id": "f6f8b91e-b9b1-4fc2-a41b-f35166d81e10",
-                "time": "12:30",
+                "id": "10329c45-2989-4680-bb83-98cf67e5afba",
+                "time": "2025-01-18T12:30:00+00:00",
                 "country": "England - Premier League",
                 "league": "England - Premier League",
                 "match": "Newcastle United vs AFC Bournemouth",
@@ -574,8 +574,8 @@
                 "thumb": "https://www.masslive.com/resizer/v2/QMJYVK3FFRERZLHUAXTIYHISNU.jpg?auth=40e4268cc98efd9c520835763b66d6697954775d96c03070563f2116187d9b6c&width=500&quality=90"
             },
             {
-                "id": "2f34e2b6-f870-41ce-b3db-1b0581279cb6",
-                "time": "15:00",
+                "id": "62cd1909-0ceb-49c7-8bcd-7a89cce2adc8",
+                "time": "2025-01-18T15:00:00+00:00",
                 "country": "England - Premier League",
                 "league": "England - Premier League",
                 "match": "Simulcast",
@@ -604,8 +604,8 @@
                 "thumb": "https://i.ytimg.com/vi/bIADaSMU2KU/hq720.jpg?v=678a7436&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDYmOjl5T4PxM6G4-DKvcGsdR0pKA"
             },
             {
-                "id": "afd49457-16fb-426b-bf95-6d9728b83dd5",
-                "time": "15:00",
+                "id": "972e08d3-4aa7-414d-9684-28a6a7dad519",
+                "time": "2025-01-18T15:00:00+00:00",
                 "country": "England - Premier League",
                 "league": "England - Premier League",
                 "match": "Brentford vs Liverpool",
@@ -634,8 +634,8 @@
                 "thumb": "https://www.aljazeera.com/wp-content/uploads/2025/01/GettyImages-2193390611-1737130254.jpg?resize=770%2C513&quality=80"
             },
             {
-                "id": "fb1b4a55-12ba-4118-a805-2d1d041af7fd",
-                "time": "15:00",
+                "id": "67b7bc3a-d181-4ec9-af01-1ad20dc3c947",
+                "time": "2025-01-18T15:00:00+00:00",
                 "country": "England - Premier League",
                 "league": "England - Premier League",
                 "match": "Leicester City vs Fulham",
@@ -664,8 +664,8 @@
                 "thumb": "https://www.bjsports.live/wp-content/uploads/2025/01/Football-Prediction-Leicester-City-vs-Fulham-English-Premier-League-January-18--Will-Leicester-Finally-Secure-a-Win-or-Will-Fulham-Add-to-Their-Woes.webp"
             },
             {
-                "id": "a33a7152-ddb6-4650-9a55-6e67b5c6837f",
-                "time": "15:00",
+                "id": "0a6fbb7d-95e6-4b48-ba33-3668f7e3401b",
+                "time": "2025-01-18T15:00:00+00:00",
                 "country": "England - Premier League",
                 "league": "England - Premier League",
                 "match": "West Ham United vs Crystal Palace",
@@ -694,8 +694,8 @@
                 "thumb": "https://www.bjsports.live/wp-content/uploads/2025/01/Football-Prediction-West-Ham-United-vs-Crystal-Palace-English-Premier-League-January-18--Which-London-Club-Will-Take-the-Three-Points-in-This-Mid-Table-Battle.webp"
             },
             {
-                "id": "072cd30f-2441-4dee-8b87-3e4a52ceeb85",
-                "time": "17:30",
+                "id": "2a20c9f0-32a8-4604-8f3e-a4ba7894752d",
+                "time": "2025-01-18T17:30:00+00:00",
                 "country": "England - Premier League",
                 "league": "England - Premier League",
                 "match": "Arsenal vs Aston Villa",
@@ -726,14 +726,14 @@
         ]
     },
     {
-        "id": "6caf1c20-0017-4943-b0d8-625329c65943",
+        "id": "08ae0274-492c-40fa-8c26-ab5e00e1c6c1",
         "competition": "Spain - La Liga",
         "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/c25779614560b527f15f7fc64f42d33f.jpg",
         "priority": 5,
         "matches": [
             {
-                "id": "e22febf8-249c-44ce-a5a9-b3bb6a6c1140",
-                "time": "13:00",
+                "id": "d26b9983-cf59-4513-ab97-c3f8e68233a2",
+                "time": "2025-01-18T13:00:00+00:00",
                 "country": "Spain - La Liga",
                 "league": "Spain - La Liga",
                 "match": "Girona vs Sevilla",
@@ -762,8 +762,8 @@
                 "thumb": "https://i.ytimg.com/vi/fu6R01UWZ0c/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBqTyUh0AOyoQqkeWKfCz4FwgzLbg"
             },
             {
-                "id": "94a130a9-3ff2-485d-a21d-c0109d5348cf",
-                "time": "15:15",
+                "id": "527bb0d5-8aac-44c5-b727-7619f06d83fc",
+                "time": "2025-01-18T15:15:00+00:00",
                 "country": "Spain - La Liga",
                 "league": "Spain - La Liga",
                 "match": "Legan\u00e9s vs Atl\u00e9tico Madrid",
@@ -792,8 +792,8 @@
                 "thumb": "https://i.ytimg.com/vi/E-DP3GcRzko/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDADoSs9d2T5gYyMpgx9ZZzP4I7VA"
             },
             {
-                "id": "a784d51d-4c4e-4736-905e-2e51823af53e",
-                "time": "17:30",
+                "id": "9c50f908-e6f4-4c90-81d5-25016720561f",
+                "time": "2025-01-18T17:30:00+00:00",
                 "country": "Spain - La Liga",
                 "league": "Spain - La Liga",
                 "match": "Real Betis vs Deportivo Alav\u00e9s",
@@ -822,8 +822,8 @@
                 "thumb": "https://i.ytimg.com/vi/bI3hfPBwQXc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBHqwnBPaqPezjjeUACMtbQ5jMj-Q"
             },
             {
-                "id": "41606e60-8db2-42c3-920b-e40879b4bf59",
-                "time": "20:00",
+                "id": "19c7c6d1-94f8-46d8-825c-3c9e3d0008b3",
+                "time": "2025-01-18T20:00:00+00:00",
                 "country": "Spain - La Liga",
                 "league": "Spain - La Liga",
                 "match": "Getafe vs Barcelona",
@@ -854,14 +854,14 @@
         ]
     },
     {
-        "id": "559093dc-281d-4507-aed8-374108bf3765",
+        "id": "33d13e19-c810-4c19-82ba-ff1735e83d7e",
         "competition": "Club Friendly Games",
         "thumbnail": "https://github.com/rotich-brian/LiveSports/blob/1b2f2cdd33c6ea0228c215eb8b14d64bb626aa54/images/friendly.jpg?raw=true",
         "priority": 15,
         "matches": [
             {
-                "id": "f6851a69-79a9-45f0-b527-5f062cb4fe30",
-                "time": "13:30",
+                "id": "4ccc1f60-1e67-4513-add9-b797dbcd06bd",
+                "time": "2025-01-18T13:30:00+00:00",
                 "country": "Club Friendly Games",
                 "league": "Club Friendly Games",
                 "match": "Grazer AK vs. HNK Rijeka",
@@ -890,14 +890,14 @@
         ]
     },
     {
-        "id": "f97038f3-65b1-4e4c-bff4-75f3e5ffa24f",
+        "id": "fbcc1e4d-fa85-4b8f-b6c2-f55f4eb8be1f",
         "competition": "Italy - Serie A",
         "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/de91df625c075b3e0b8e0a0d16d1b5c5.jpg",
         "priority": 8,
         "matches": [
             {
-                "id": "8a2029e0-9ef8-4bc4-81ef-e6dfcadbd0ab",
-                "time": "14:00",
+                "id": "848b6be8-7948-4609-8f8d-2cd07f65c0ef",
+                "time": "2025-01-18T14:00:00+00:00",
                 "country": "Italy - Serie A",
                 "league": "Italy - Serie A",
                 "match": "Bologna vs Monza",
@@ -926,8 +926,8 @@
                 "thumb": "https://i.ytimg.com/vi/M5EvT4ZVeqc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDgJ9Itmfw-V2iSIfcfyu9-5BHQ6Q"
             },
             {
-                "id": "9dfbc991-1526-400e-a7b0-c6bac28848c4",
-                "time": "17:00",
+                "id": "112d9763-fb08-453a-8d56-5177650b708b",
+                "time": "2025-01-18T17:00:00+00:00",
                 "country": "Italy - Serie A",
                 "league": "Italy - Serie A",
                 "match": "Juventus vs Milan",
@@ -956,8 +956,8 @@
                 "thumb": "https://cdn.vox-cdn.com/thumbor/alRE4Utcg1G6QPkPxKmA_-Cp6ss=/0x0:4196x2874/1200x800/filters:focal(1805x543:2475x1213)/cdn.vox-cdn.com/uploads/chorus_image/image/73854084/2192304442.0.jpg"
             },
             {
-                "id": "0c07abe3-2681-4643-9e98-b9c3d62549e5",
-                "time": "19:45",
+                "id": "e66ed97f-4aa8-4a15-92bf-82e55f6cf9d7",
+                "time": "2025-01-18T19:45:00+00:00",
                 "country": "Italy - Serie A",
                 "league": "Italy - Serie A",
                 "match": "Atalanta vs Napoli",
@@ -988,14 +988,14 @@
         ]
     },
     {
-        "id": "e54e8476-3c1f-41b2-9c9e-2632f3d69818",
+        "id": "5d7dd106-3063-4e75-ae7b-7f09bfcd79fa",
         "competition": "Bundesliga",
         "thumbnail": "https://d11p0alxbet5ud.cloudfront.net/Pictures/2000x2000fit/9/8/9/1316989_bundesligaimage_330319.jpg",
         "priority": 6,
         "matches": [
             {
-                "id": "1dcc601a-7000-41e6-816c-ef09d79859fe",
-                "time": "14:30",
+                "id": "db738024-430c-4ff1-8f96-c4488fa08d81",
+                "time": "2025-01-18T14:30:00+00:00",
                 "country": "Bundesliga",
                 "league": "Bundesliga",
                 "match": "Simulcast",
@@ -1023,8 +1023,8 @@
                 "thumb": "https://espnpressroom.com/us/files/2025/01/01_17_25-LALIGA_Capture.png"
             },
             {
-                "id": "14f5746d-928e-449a-8505-b1910e6fdff6",
-                "time": "14:30",
+                "id": "e39828d7-c6d0-40f6-866c-279538290e12",
+                "time": "2025-01-18T14:30:00+00:00",
                 "country": "Bundesliga",
                 "league": "Bundesliga",
                 "match": "Stuttgart vs Freiburg",
@@ -1053,8 +1053,8 @@
                 "thumb": "https://cdn.dataskrive.com/api/asset/z6V5MsW.jpg"
             },
             {
-                "id": "20493f61-9ed0-48ec-b857-0433399e2e89",
-                "time": "14:30",
+                "id": "b5b4e0f4-1b76-462e-a744-05f8b50e2350",
+                "time": "2025-01-18T14:30:00+00:00",
                 "country": "Bundesliga",
                 "league": "Bundesliga",
                 "match": "Bayern M\u00fcnchen vs Wolfsburg",
@@ -1083,8 +1083,8 @@
                 "thumb": "https://cdn.vox-cdn.com/thumbor/I2KC809MuIO6zdA2ag7txceF7wE=/0x0:5866x3911/1200x800/filters:focal(1520x378:2458x1316)/cdn.vox-cdn.com/uploads/chorus_image/image/73853021/2193553332.0.jpg"
             },
             {
-                "id": "af11d8c3-13d9-44d3-85ac-2293744af20e",
-                "time": "14:30",
+                "id": "7c587025-b9dd-4dbe-8dc2-616a4338bf52",
+                "time": "2025-01-18T14:30:00+00:00",
                 "country": "Bundesliga",
                 "league": "Bundesliga",
                 "match": "Heidenheim vs St. Pauli",
@@ -1112,8 +1112,8 @@
                 "thumb": "https://i.ytimg.com/vi/EmQz562PkiI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCwUflXvlu63fHWrJ2Owm-QJ0bKyg"
             },
             {
-                "id": "7696e681-4ddd-4568-b65b-43fd93110c51",
-                "time": "14:30",
+                "id": "0bf4788f-2cef-454e-8c4b-520afd16b7ef",
+                "time": "2025-01-18T14:30:00+00:00",
                 "country": "Bundesliga",
                 "league": "Bundesliga",
                 "match": "Bochum vs RB Leipzig",
@@ -1142,8 +1142,8 @@
                 "thumb": "https://i.ytimg.com/vi/7UGmXQkidZo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA6nY-nPmTrCskvZsnicfoKbdl2mQ"
             },
             {
-                "id": "5be152f1-28e8-442b-95e4-73c09d2809ca",
-                "time": "14:30",
+                "id": "06de8819-b58a-48cb-a090-8ab5be06220c",
+                "time": "2025-01-18T14:30:00+00:00",
                 "country": "Bundesliga",
                 "league": "Bundesliga",
                 "match": "Holstein Kiel vs Hoffenheim",
@@ -1170,8 +1170,8 @@
                 "thumb": "https://i.ytimg.com/vi/WC2PVOcNY2U/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBNE2SBr_qQ_OpUUfeOouFvm_lf9A"
             },
             {
-                "id": "c093bb43-10e0-4859-b986-dc69a110ec6c",
-                "time": "17:30",
+                "id": "8389a4c0-6769-49de-a260-fc0272050955",
+                "time": "2025-01-18T17:30:00+00:00",
                 "country": "Bundesliga",
                 "league": "Bundesliga",
                 "match": "Bayer Leverkusen vs Borussia M'gladbach",
@@ -1202,14 +1202,14 @@
         ]
     },
     {
-        "id": "355f3e26-beec-4502-9ea9-8b4b826fbc37",
+        "id": "7d8671d4-5895-4775-90ad-df9a3431f628",
         "competition": "Portugal - Primeira Liga",
         "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/09e634516b77d5354f4cfdd292416acd.jpg",
         "priority": 21,
         "matches": [
             {
-                "id": "f427efb1-a179-4521-bb69-cc0f2d10bed7",
-                "time": "15:30",
+                "id": "fc4a5cb2-934c-4501-beb7-aab0847e1b1f",
+                "time": "2025-01-18T15:30:00+00:00",
                 "country": "Portugal - Primeira Liga",
                 "league": "Portugal - Primeira Liga",
                 "match": "Santa Clara vs Estoril",
@@ -1237,8 +1237,8 @@
                 "thumb": "https://i.ytimg.com/vi/Xzg5EBB2_aA/hq720.jpg?v=678adc4d&sqp=CJi9q7wG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBQlc2T4I_AAT7uwTusjqNI8ubpAw"
             },
             {
-                "id": "229142ab-dceb-4557-95cf-f6a4f546876e",
-                "time": "18:00",
+                "id": "f3dfac74-9ba8-41ed-be4d-8f808f9d211c",
+                "time": "2025-01-18T18:00:00+00:00",
                 "country": "Portugal - Primeira Liga",
                 "league": "Portugal - Primeira Liga",
                 "match": "Rio Ave vs Sporting CP",
@@ -1267,8 +1267,8 @@
                 "thumb": "https://i.ytimg.com/vi/FNYUTyEGGno/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDKT794S89fovzUva5044_ZabkDTg"
             },
             {
-                "id": "1a7afabd-0db0-4c4d-8ecd-141917444687",
-                "time": "20:30",
+                "id": "88471662-1e61-445f-8506-f95dbfe61262",
+                "time": "2025-01-18T20:30:00+00:00",
                 "country": "Portugal - Primeira Liga",
                 "league": "Portugal - Primeira Liga",
                 "match": "Vit\u00f3ria Guimar\u00e3es vs Arouca",
@@ -1299,14 +1299,14 @@
         ]
     },
     {
-        "id": "16183083-bdda-4aba-ac39-21ceb50be3fd",
+        "id": "5e48916e-8c20-4da7-b392-e670ab5d891d",
         "competition": "Netherlands - Eredivisie",
         "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/8add846e89499cacd03ebd6fed96f67c.jpg",
         "priority": 13,
         "matches": [
             {
-                "id": "c21d42eb-a3b9-47bb-bc80-29607a3ef835",
-                "time": "15:30",
+                "id": "8940537f-4f41-4aaf-8c5e-3b75f5225238",
+                "time": "2025-01-18T15:30:00+00:00",
                 "country": "Netherlands - Eredivisie",
                 "league": "Netherlands - Eredivisie",
                 "match": "PEC Zwolle vs PSV",
@@ -1335,8 +1335,8 @@
                 "thumb": "https://mena-img-cdn-lb.aws.playco.com/474w/dutchleague/18012025DLPECZWOLLEVSPSVEINDHOVENLIVEY2025M/18012025DLPECZWOLLEVSPSVEINDHOVENLIVEY2025M-474x677-PST.jpg"
             },
             {
-                "id": "42f96fec-c609-4045-a5d5-7675b446aa9f",
-                "time": "17:45",
+                "id": "3cbaab55-25e8-4d48-a6f1-bd8115efab99",
+                "time": "2025-01-18T17:45:00+00:00",
                 "country": "Netherlands - Eredivisie",
                 "league": "Netherlands - Eredivisie",
                 "match": "Utrecht vs AZ",
@@ -1365,8 +1365,8 @@
                 "thumb": "https://mena-img-cdn-lb.aws.playco.com/474w/dutchleague/18012025DLFCUTRECHTVSAZALKMAARLIVEY2025M/18012025DLFCUTRECHTVSAZALKMAARLIVEY2025M-474x677-PST.jpg"
             },
             {
-                "id": "6ad489a9-66b1-4108-908a-29bcb59c6bd7",
-                "time": "19:00",
+                "id": "c01b7dd6-0dc2-4c3b-9485-965bee75a75b",
+                "time": "2025-01-18T19:00:00+00:00",
                 "country": "Netherlands - Eredivisie",
                 "league": "Netherlands - Eredivisie",
                 "match": "Willem II vs Feyenoord",
@@ -1395,8 +1395,8 @@
                 "thumb": "https://footballwhispers.com/app/uploads/2024/08/Willem-II-vs-Feyenoord-prediction.jpg"
             },
             {
-                "id": "d4f19027-7d15-4f5e-bf28-879511e74701",
-                "time": "20:00",
+                "id": "aecd3b64-ceec-4631-861f-7aeb1da4ef85",
+                "time": "2025-01-18T20:00:00+00:00",
                 "country": "Netherlands - Eredivisie",
                 "league": "Netherlands - Eredivisie",
                 "match": "Go Ahead Eagles vs Groningen",
@@ -1425,14 +1425,14 @@
         ]
     },
     {
-        "id": "a166cd5f-ddef-45cb-b038-60f763c872da",
+        "id": "532c300f-a1c0-44f9-b894-93bbfc3656ba",
         "competition": "France - Ligue 1",
         "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/8725b8ac7f3c28e5cb15a95d8446b86e.jpg",
         "priority": 7,
         "matches": [
             {
-                "id": "ac971b98-a8c1-476f-a2bd-a023b6a0aed1",
-                "time": "16:00",
+                "id": "5c71d4ed-91ff-48ab-abfe-820a4daec61a",
+                "time": "2025-01-18T16:00:00+00:00",
                 "country": "France - Ligue 1",
                 "league": "France - Ligue 1",
                 "match": "Lens vs PSG",
@@ -1461,8 +1461,8 @@
                 "thumb": "https://www.cnet.com/a/img/resize/7727adecaa54778b261b4706ba22860b75ba93ef/hub/2025/01/17/50a917b1-d98f-410e-a667-c4aecf4d0beb/gettyimages-2186616413.jpg?auto=webp&width=1200"
             },
             {
-                "id": "379a3b67-bcab-4992-86dc-670fa295ad98",
-                "time": "18:00",
+                "id": "97b5c94e-caea-4013-8d4d-9a894f5b648e",
+                "time": "2025-01-18T18:00:00+00:00",
                 "country": "France - Ligue 1",
                 "league": "France - Ligue 1",
                 "match": "Rennes vs Brest",
@@ -1491,8 +1491,8 @@
                 "thumb": "https://sportcdns.live/news-2/899936a31cd847847829ef1dbd2a5c3c40e74ecc5f80e91a6cb1ff28c9311ab9.png"
             },
             {
-                "id": "c1621085-d30c-4ff6-a8c4-e730f5ab27a5",
-                "time": "20:05",
+                "id": "08fb6205-f6bc-49c3-9514-0107ba39b6fb",
+                "time": "2025-01-18T20:05:00+00:00",
                 "country": "France - Ligue 1",
                 "league": "France - Ligue 1",
                 "match": "Olympique Lyonnais vs Toulouse",
@@ -1523,14 +1523,14 @@
         ]
     },
     {
-        "id": "88edd531-4718-4755-9467-1b22139d5d09",
+        "id": "0aa3e7e0-0d72-4394-a706-82ae9aaf01bd",
         "competition": "Club Friendly",
         "thumbnail": "https://cdn.footystats.org/img/competitions/international-club-friendlies-1.png",
         "priority": 16,
         "matches": [
             {
-                "id": "59cec5df-809d-40f3-81ca-f0d1c61dc508",
-                "time": "20:30",
+                "id": "420f04c3-5e6b-41a3-8ef7-beb48839040c",
+                "time": "2025-01-18T20:30:00+00:00",
                 "country": "Club Friendly",
                 "league": "Club Friendly",
                 "match": "Sport Boys vs Junior",
