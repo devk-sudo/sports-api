@@ -1,24 +1,26 @@
 [
     {
-        "id": "998e2539-8afb-4843-a7ce-186a1459625a",
-        "competition": "England - Championship",
-        "thumbnail": "https://i2-prod.chroniclelive.co.uk/incoming/article11450315.ece/ALTERNATES/s615/EFL.jpg",
-        "priority": 10,
+        "id": "f84e6c25-68a0-4137-a074-46cc5106b945",
+        "competition": "UEFA Champions League",
+        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/2bebb389e6e3eec1aff94832b6626df5.jpg",
+        "priority": 1,
         "matches": [
             {
-                "id": "2b2dfe60-42b5-4997-8fac-9cdbf939ac42",
-                "time": "2025-01-28T19:45:00+00:00",
-                "country": "England - Championship",
-                "league": "England - Championship",
-                "match": "Portsmouth vs Millwall",
+                "id": "57587950-2c19-43ef-9168-2a60dcba7226",
+                "time": "2025-01-29T20:00:00+00:00",
+                "country": "UEFA Champions League",
+                "league": "UEFA Champions League",
+                "match": "Simulcast",
                 "links": [
-                    "https://thedaddy.to/embed/stream-36.php"
+                    "https://thedaddy.to/embed/stream-559.php",
+                    "https://thedaddy.to/embed/stream-426.php",
+                    "https://thedaddy.to/embed/stream-121.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://zekonew.iosplayer.ru/zeko/premium36/mono.m3u8?token=none",
-                    "m3u8_1": "https://zekonew.iosplayer.ru/zeko/premium36/mono.m3u8?token=none",
-                    "m3u8_2": "https://zekonew.iosplayer.ru/zeko/premium36/mono.m3u8?token=none"
+                    "m3u8_url": "https://ddy6new.iosplayer.ru/ddy6/premium559/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddy6new.iosplayer.ru/ddy6/premium426/mono.m3u8?token=none",
+                    "m3u8_2": "https://windnew.iosplayer.ru/wind/premium121/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -31,7 +33,544 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2025-01/nba-canada--91c66f7e-19c4-4368-8db7-8608567569a5.png?h=920929c4&itok=Lc0if7Y6"
+                "thumb": "https://bloximages.newyork1.vip.townnews.com/thepress.net/content/tncms/assets/v3/editorial/6/71/6711a410-3131-52aa-8507-c9d2d5edfd6b/67994bcce352c.image.jpg?resize=400%2C225"
+            },
+            {
+                "id": "f7856737-a77f-40df-b63d-a12acf836f7f",
+                "time": "2025-01-29T20:00:00+00:00",
+                "country": "UEFA Champions League",
+                "league": "UEFA Champions League",
+                "match": "Juventus vs Benfica",
+                "links": [
+                    "https://thedaddy.to/embed/stream-290.php",
+                    "https://thedaddy.to/embed/stream-2.php",
+                    "https://thedaddy.to/embed/stream-461.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddy6new.iosplayer.ru/ddy6/premium290/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2new.iosplayer.ru/ddh2/premium2/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddy6new.iosplayer.ru/ddy6/premium461/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://cdn.vox-cdn.com/thumbor/JR4iymTZWj6X55vsRyxxUQsEMbE=/0x0:5315x3543/1200x800/filters:focal(2012x1174:2862x2024)/cdn.vox-cdn.com/uploads/chorus_image/image/73873952/2194653080.0.jpg"
+            },
+            {
+                "id": "e3f3b03e-8754-4c1a-95e1-6b67e6901f62",
+                "time": "2025-01-29T20:00:00+00:00",
+                "country": "UEFA Champions League",
+                "league": "UEFA Champions League",
+                "match": "Young Boys vs Crvena Zvezda",
+                "links": [
+                    "https://thedaddy.to/embed/stream-4.php",
+                    "https://thedaddy.to/embed/stream-5.php",
+                    "https://thedaddy.to/embed/stream-195.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium4/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2new.iosplayer.ru/ddh2/premium5/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh2new.iosplayer.ru/ddh2/premium4/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://news.22bet.com/wp-content/uploads/2025/01/Young-Boys-vs-FK-Crvena-Zvezda.jpg"
+            },
+            {
+                "id": "d0b3709f-ad9b-48bd-a5bb-84a023f83bb1",
+                "time": "2025-01-29T20:00:00+00:00",
+                "country": "UEFA Champions League",
+                "league": "UEFA Champions League",
+                "match": "Stuttgart vs PSG",
+                "links": [
+                    "https://thedaddy.to/embed/stream-7.php",
+                    "https://thedaddy.to/embed/stream-3.php",
+                    "https://thedaddy.to/embed/stream-463.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium7/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2new.iosplayer.ru/ddh2/premium3/mono.m3u8?token=none",
+                    "m3u8_2": "https://windnew.iosplayer.ru/wind/premium463/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://img.vavel.com/goncalo-ramos-1738090566012.jpeg"
+            },
+            {
+                "id": "ec1c1c31-9366-4c46-b2d3-59e563dca718",
+                "time": "2025-01-29T20:00:00+00:00",
+                "country": "UEFA Champions League",
+                "league": "UEFA Champions League",
+                "match": "Sporting CP vs Bologna",
+                "links": [
+                    "https://thedaddy.to/embed/stream-49.php",
+                    "https://thedaddy.to/embed/stream-13.php",
+                    "https://thedaddy.to/embed/stream-68.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://windnew.iosplayer.ru/wind/premium49/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2new.iosplayer.ru/ddh2/premium13/mono.m3u8?token=none",
+                    "m3u8_2": "https://windnew.iosplayer.ru/wind/premium68/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://editorial.uefa.com//resources/0295-1ce6d7a2f74f-88ffef27e931-1000/format/portrait1/sporting_clube_de_portugal_v_manchester_city_-_uefa_champions_league_2024_25_league_phase_md4.jpeg?imwidth=158"
+            },
+            {
+                "id": "c7d36d48-66c8-4431-98e3-b68d93a152b9",
+                "time": "2025-01-29T20:00:00+00:00",
+                "country": "UEFA Champions League",
+                "league": "UEFA Champions League",
+                "match": "Sturm Graz vs RB Leipzig",
+                "links": [
+                    "https://thedaddy.to/embed/stream-69.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddy6new.iosplayer.ru/ddy6/premium69/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddy6new.iosplayer.ru/ddy6/premium69/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddy6new.iosplayer.ru/ddy6/premium69/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://sports.ladbrokes.com/news/cdn/img/zZ7y5f4NRuDHCboUHR1LMPA93JJjVIi3mc1Mz6vn.jpg?w=1920&fm=webp&q=75"
+            },
+            {
+                "id": "e72f5ae7-a220-49c6-8714-77904790885b",
+                "time": "2025-01-29T20:00:00+00:00",
+                "country": "UEFA Champions League",
+                "league": "UEFA Champions League",
+                "match": "PSV vs Liverpool",
+                "links": [
+                    "https://thedaddy.to/embed/stream-33.php",
+                    "https://thedaddy.to/embed/stream-398.php",
+                    "https://thedaddy.to/embed/stream-458.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium33/mono.m3u8?token=none",
+                    "m3u8_1": "https://zekonew.iosplayer.ru/zeko/premium398/mono.m3u8?token=none",
+                    "m3u8_2": "https://windnew.iosplayer.ru/wind/premium458/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://cdn.vox-cdn.com/thumbor/oytL-iD5Wy9DsjVZX_C6Izxsga4=/0x0:3000x2038/1200x800/filters:focal(1212x790:1692x1270)/cdn.vox-cdn.com/uploads/chorus_image/image/73873441/83078375.0.jpg"
+            },
+            {
+                "id": "a0f6dcd4-bbe2-4b76-ab15-172114e0f337",
+                "time": "2025-01-29T20:00:00+00:00",
+                "country": "UEFA Champions League",
+                "league": "UEFA Champions League",
+                "match": "Manchester City vs Club Brugge",
+                "links": [
+                    "https://thedaddy.to/embed/stream-32.php",
+                    "https://thedaddy.to/embed/stream-365.php",
+                    "https://thedaddy.to/embed/stream-15.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium32/mono.m3u8?token=none",
+                    "m3u8_1": "https://zekonew.iosplayer.ru/zeko/premium365/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh2new.iosplayer.ru/ddh2/premium15/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1546,h_869,x_53,y_31/c_fill,w_912,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01jjq2x8yad9268jfe8v.jpg"
+            },
+            {
+                "id": "85d4cc72-cd7f-4a40-9c95-9160cd7fbe92",
+                "time": "2025-01-29T20:00:00+00:00",
+                "country": "UEFA Champions League",
+                "league": "UEFA Champions League",
+                "match": "Lille vs Feyenoord",
+                "links": [
+                    "https://thedaddy.to/embed/stream-86.php",
+                    "https://thedaddy.to/embed/stream-393.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://dokko1new.iosplayer.ru/dokko1/premium86/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddy6new.iosplayer.ru/ddy6/premium393/mono.m3u8?token=none",
+                    "m3u8_2": "https://dokko1new.iosplayer.ru/dokko1/premium86/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://i.ytimg.com/vi/FePqxWSeNgw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCI2LjFNnHGrBfU2NgIXShaKditRA"
+            },
+            {
+                "id": "7b3e80b0-0b1b-49ae-8702-50b28f8c5f30",
+                "time": "2025-01-29T20:00:00+00:00",
+                "country": "UEFA Champions League",
+                "league": "UEFA Champions League",
+                "match": "Internazionale vs Monaco",
+                "links": [
+                    "https://thedaddy.to/embed/stream-8.php",
+                    "https://thedaddy.to/embed/stream-192.php",
+                    "https://thedaddy.to/embed/stream-560.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium8/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2new.iosplayer.ru/ddh2/premium8/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh2new.iosplayer.ru/ddh2/premium8/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://i.ytimg.com/vi/GJxECGZ8aSw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAsvMnGUu-mU_6VVGSHPW0cYafbSw"
+            },
+            {
+                "id": "4e9a502b-a635-4e60-8745-fecd86fd107d",
+                "time": "2025-01-29T20:00:00+00:00",
+                "country": "UEFA Champions League",
+                "league": "UEFA Champions League",
+                "match": "Girona vs Arsenal",
+                "links": [
+                    "https://thedaddy.to/embed/stream-106.php",
+                    "https://thedaddy.to/embed/stream-885.php",
+                    "https://thedaddy.to/embed/stream-916.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddy6new.iosplayer.ru/ddy6/premium106/mono.m3u8?token=none",
+                    "m3u8_1": "https://windnew.iosplayer.ru/wind/premium885/mono.m3u8?token=none",
+                    "m3u8_2": "https://windnew.iosplayer.ru/wind/premium916/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://i.ytimg.com/vi/-sZ3-INMFdw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLANcsbJLltIQEj-M8bNwQHDsPJVcw"
+            },
+            {
+                "id": "b75a928b-e0cb-4f97-92aa-8e40c4cb5e8b",
+                "time": "2025-01-29T20:00:00+00:00",
+                "country": "UEFA Champions League",
+                "league": "UEFA Champions League",
+                "match": "Salzburg vs Atl\u00e9tico Madrid",
+                "links": [
+                    "https://thedaddy.to/embed/stream-107.php",
+                    "https://thedaddy.to/embed/stream-19.php",
+                    "https://thedaddy.to/embed/stream-421.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddy6new.iosplayer.ru/ddy6/premium107/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2new.iosplayer.ru/ddh2/premium19/mono.m3u8?token=none",
+                    "m3u8_2": "https://zekonew.iosplayer.ru/zeko/premium421/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://i.ytimg.com/vi/KHKvYzLlDT8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAhs4GSF44fNcKfYd53gUyj5C2UHw"
+            },
+            {
+                "id": "ab9b4f86-f928-418e-8bcf-0d1927e1a8c9",
+                "time": "2025-01-29T20:00:00+00:00",
+                "country": "UEFA Champions League",
+                "league": "UEFA Champions League",
+                "match": "Bayern M\u00fcnchen vs Slovan Bratislava",
+                "links": [
+                    "https://thedaddy.to/embed/stream-9.php",
+                    "https://thedaddy.to/embed/stream-20.php",
+                    "https://thedaddy.to/embed/stream-180.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium9/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2new.iosplayer.ru/ddh2/premium20/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh2new.iosplayer.ru/ddh2/premium9/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://cdn.vox-cdn.com/thumbor/NRzzRM7eE-d7WrgrachzSl36fWc=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/73873844/2196395522.0.jpg"
+            },
+            {
+                "id": "2c8b14a3-bfa9-4eab-bf37-882c7b480bcc",
+                "time": "2025-01-29T20:00:00+00:00",
+                "country": "UEFA Champions League",
+                "league": "UEFA Champions League",
+                "match": "Dinamo Zagreb vs Milan",
+                "links": [
+                    "https://thedaddy.to/embed/stream-109.php",
+                    "https://thedaddy.to/embed/stream-21.php",
+                    "https://thedaddy.to/embed/stream-433.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddy6new.iosplayer.ru/ddy6/premium109/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2new.iosplayer.ru/ddh2/premium21/mono.m3u8?token=none",
+                    "m3u8_2": "https://zekonew.iosplayer.ru/zeko/premium433/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://icdn.sempremilan.com/wp-content/uploads/2025/01/dinamo-zagreb-v-ac-milan-group-e-uefa-champions-league-3.jpg"
+            },
+            {
+                "id": "5db511f9-3369-423f-92eb-c4b1947d7328",
+                "time": "2025-01-29T20:00:00+00:00",
+                "country": "UEFA Champions League",
+                "league": "UEFA Champions League",
+                "match": "Brest vs Real Madrid",
+                "links": [
+                    "https://thedaddy.to/embed/stream-10.php",
+                    "https://thedaddy.to/embed/stream-22.php",
+                    "https://thedaddy.to/embed/stream-456.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium10/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2new.iosplayer.ru/ddh2/premium22/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh2new.iosplayer.ru/ddh2/premium10/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://i.ytimg.com/vi/aWDToo66lWQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDvPjR6REVrAhO-HTQdRq13jsu4vQ"
+            },
+            {
+                "id": "615078ae-5567-449c-9640-15be2ccfba67",
+                "time": "2025-01-29T20:00:00+00:00",
+                "country": "UEFA Champions League",
+                "league": "UEFA Champions League",
+                "match": "Borussia Dortmund vs Shakhtar Donetsk",
+                "links": [
+                    "https://thedaddy.to/embed/stream-24.php",
+                    "https://thedaddy.to/embed/stream-151.php",
+                    "https://thedaddy.to/embed/stream-911.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium24/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddy6new.iosplayer.ru/ddy6/premium151/mono.m3u8?token=none",
+                    "m3u8_2": "https://windnew.iosplayer.ru/wind/premium911/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://s43693.pcdn.co/wp-content/uploads/2025/01/borussia-dortmund-vs-shakhtar-donetsk-predictions-betting-tips-uefa-champions-league-wednesday-january-29-2025.png"
+            },
+            {
+                "id": "9fde4b3f-ed44-40c2-91db-03013ccbf2e0",
+                "time": "2025-01-29T20:00:00+00:00",
+                "country": "UEFA Champions League",
+                "league": "UEFA Champions League",
+                "match": "Bayer Leverkusen vs Sparta Praha",
+                "links": [
+                    "https://thedaddy.to/embed/stream-152.php",
+                    "https://thedaddy.to/embed/stream-182.php",
+                    "https://thedaddy.to/embed/stream-368.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://dokko1new.iosplayer.ru/dokko1/premium368/mono.m3u8?token=none",
+                    "m3u8_1": "https://dokko1new.iosplayer.ru/dokko1/premium368/mono.m3u8?token=none",
+                    "m3u8_2": "https://dokko1new.iosplayer.ru/dokko1/premium368/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://www.elfutbolero.us/_next/image?url=https%3A%2F%2Fwww.elfutbolero.us%2Fimage%2Felfutbolerous%2Fbayer-leverkusen-match-photo-atbayer04fussball-1738095332-hq.webp&w=3840&q=75"
+            },
+            {
+                "id": "18c0eefe-4af5-413b-8ee2-4da851d8ac1b",
+                "time": "2025-01-29T20:00:00+00:00",
+                "country": "UEFA Champions League",
+                "league": "UEFA Champions League",
+                "match": "Barcelona vs Atalanta",
+                "links": [
+                    "https://thedaddy.to/embed/stream-11.php",
+                    "https://thedaddy.to/embed/stream-435.php",
+                    "https://thedaddy.to/embed/stream-25.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium11/mono.m3u8?token=none",
+                    "m3u8_1": "https://zekonew.iosplayer.ru/zeko/premium435/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh2new.iosplayer.ru/ddh2/premium25/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://i.ytimg.com/vi/lge5RIWV-70/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDT_txFXR196sGE5kGl1S2igr2Zfg"
+            },
+            {
+                "id": "ebe21707-ac45-4692-85c1-edd5538f7b62",
+                "time": "2025-01-29T20:00:00+00:00",
+                "country": "UEFA Champions League",
+                "league": "UEFA Champions League",
+                "match": "Aston Villa vs Celtic",
+                "links": [
+                    "https://thedaddy.to/embed/stream-31.php",
+                    "https://thedaddy.to/embed/stream-183.php",
+                    "https://thedaddy.to/embed/stream-154.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium31/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddy6new.iosplayer.ru/ddy6/premium154/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh2new.iosplayer.ru/ddh2/premium31/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://theanalyst.com/wp-content/uploads/2025/01/aston-villa-vs-celtic-opta-prediction-1024x1024.png"
             }
         ]
     }
