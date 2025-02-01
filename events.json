@@ -1,12 +1,12 @@
 [
     {
-        "id": "399c49b2-105c-4ec5-8046-df8480984056",
+        "id": "321e5d5e-0af4-47ee-97ed-03f1293b38a8",
         "competition": "England - Championship",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/All_England_Open_logo.png/170px-All_England_Open_logo.png",
-        "priority": 100,
+        "thumbnail": "https://i2-prod.chroniclelive.co.uk/incoming/article11450315.ece/ALTERNATES/s615/EFL.jpg",
+        "priority": 10,
         "matches": [
             {
-                "id": "494ca6e4-b7d5-4b2c-aa31-96b4e96d075a",
+                "id": "1ff71f2c-bace-46a0-8b09-3cbc5e0a8e12",
                 "time": "2025-02-01T12:30:00+00:00",
                 "country": "England - Championship",
                 "league": "England - Championship",
@@ -14,27 +14,27 @@
                 "links": [
                     "https://thedaddy.to/embed/stream-107.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://ddy6new.iosplayer.ru/ddy6/premium107/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddy6new.iosplayer.ru/ddy6/premium107/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddy6new.iosplayer.ru/ddy6/premium107/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
                     "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
                     "referer2": "https://cookiewebplay.xyz/",
                     "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
                     "referer3": "https://cookiewebplay.xyz/",
                     "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Bristol_City_crest.svg/185px-Bristol_City_crest.svg.png"
+                "thumb": "https://i2-prod.bristolpost.co.uk/incoming/article9908364.ece/ALTERNATES/s1200/0_Bristol-City-Oxford.jpg"
             },
             {
-                "id": "aa4557c0-896d-4d10-9b67-a968e7871a9a",
+                "id": "39c8c946-af2e-48a8-8c36-cdf729994903",
                 "time": "2025-02-01T12:30:00+00:00",
                 "country": "England - Championship",
                 "league": "England - Championship",
@@ -43,27 +43,27 @@
                     "https://thedaddy.to/embed/stream-36.php",
                     "https://thedaddy.to/embed/stream-910.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://zekonew.iosplayer.ru/zeko/premium36/mono.m3u8?token=none",
+                    "m3u8_1": "https://zekonew.iosplayer.ru/zeko/premium910/mono.m3u8?token=none",
+                    "m3u8_2": "https://zekonew.iosplayer.ru/zeko/premium36/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
                     "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
                     "referer2": "https://cookiewebplay.xyz/",
                     "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
                     "referer3": "https://cookiewebplay.xyz/",
                     "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Kit_left_arm_watford2425h.png"
+                "thumb": "https://assets.goal.com/images/v3/getty-2195928765/crop/MM5DGMZVGY5DCOBYHA5G433XMU5DAORRG42Q====/GettyImages-2195928765.jpg?auto=webp&format=pjpg&width=3840&quality=60"
             },
             {
-                "id": "5c1f9307-6b3a-41e5-9bdf-3ba15ce3ba76",
+                "id": "13c59011-6cd7-4ed3-b52b-f3da4d8b45e4",
                 "time": "2025-02-01T12:30:00+00:00",
                 "country": "England - Championship",
                 "league": "England - Championship",
@@ -71,27 +71,27 @@
                 "links": [
                     "https://thedaddy.to/embed/stream-108.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://ddy6new.iosplayer.ru/ddy6/premium108/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddy6new.iosplayer.ru/ddy6/premium108/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddy6new.iosplayer.ru/ddy6/premium108/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
                     "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
                     "referer2": "https://cookiewebplay.xyz/",
                     "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
                     "referer3": "https://cookiewebplay.xyz/",
                     "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Burton_Albion_FC_logo.svg/160px-Burton_Albion_FC_logo.svg.png"
+                "thumb": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=664708402575833&get_thumbnail=1"
             },
             {
-                "id": "f14bc5a8-19af-4d56-938f-48b0b1073b9d",
+                "id": "4a176477-a7b8-40ca-9f17-acfb5fa6c6ad",
                 "time": "2025-02-01T12:30:00+00:00",
                 "country": "England - Championship",
                 "league": "England - Championship",
@@ -99,7 +99,7 @@
                 "links": [
                     "https://thedaddy.to/embed/stream-161.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
                     "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
                     "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
@@ -108,18 +108,18 @@
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
                     "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
                     "referer2": "https://cookiewebplay.xyz/",
                     "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
                     "referer3": "https://cookiewebplay.xyz/",
                     "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png"
+                "thumb": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1187552320043799"
             },
             {
-                "id": "2776d44d-6b68-4696-8ac1-bb89e1f07acf",
+                "id": "bd6119f0-dec8-40af-b23f-44fe4265c2a7",
                 "time": "2025-02-01T15:00:00+00:00",
                 "country": "England - Championship",
                 "league": "England - Championship",
@@ -127,7 +127,7 @@
                 "links": [
                     "https://thedaddy.to/embed/stream-184.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
                     "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
                     "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
@@ -136,18 +136,18 @@
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
                     "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
                     "referer2": "https://cookiewebplay.xyz/",
                     "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
                     "referer3": "https://cookiewebplay.xyz/",
                     "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/41/Kit_left_arm_om09rld.png"
+                "thumb": "https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Ficdn.sheffunitedway.co.uk%2Fwp-content%2Fuploads%2F2025%2F01%2Fderby-county-fc-v-west-bromwich-albion-fc-sky-bet-championship.jpg"
             },
             {
-                "id": "92b6483a-4f44-42f9-bcc9-b30866d04cce",
+                "id": "0c4fcad2-cce2-47f1-b17a-995fe7abcef7",
                 "time": "2025-02-01T15:00:00+00:00",
                 "country": "England - Championship",
                 "league": "England - Championship",
@@ -155,7 +155,7 @@
                 "links": [
                     "https://thedaddy.to/embed/stream-185.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
                     "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
                     "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
@@ -164,18 +164,18 @@
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
                     "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
                     "referer2": "https://cookiewebplay.xyz/",
                     "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
                     "referer3": "https://cookiewebplay.xyz/",
                     "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Jaden_Philogene_Aston_Villa.jpg/220px-Jaden_Philogene_Aston_Villa.jpg"
+                "thumb": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1206886574136803"
             },
             {
-                "id": "23232228-4028-4f7c-8db9-d8aeafcb91c2",
+                "id": "290f268f-3153-4c71-9244-e645b551476f",
                 "time": "2025-02-01T15:00:00+00:00",
                 "country": "England - Championship",
                 "league": "England - Championship",
@@ -184,27 +184,27 @@
                     "https://thedaddy.to/embed/stream-186.php",
                     "https://thedaddy.to/embed/stream-910.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://zekonew.iosplayer.ru/zeko/premium910/mono.m3u8?token=none",
+                    "m3u8_1": "https://zekonew.iosplayer.ru/zeko/premium910/mono.m3u8?token=none",
+                    "m3u8_2": "https://zekonew.iosplayer.ru/zeko/premium910/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
                     "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
                     "referer2": "https://cookiewebplay.xyz/",
                     "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
                     "referer3": "https://cookiewebplay.xyz/",
                     "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/36/Kit_left_arm_cardiff2425h.png"
+                "thumb": "https://images.squarespace-cdn.com/content/v1/66421c2b72b91678aefa2c1e/7273d2c9-74c8-40f2-9cf0-6f8c3625e119/Dan+James%2C+Leeds+United+%26+Perry+Ng%2C+Cardiff+City.jpg"
             },
             {
-                "id": "2eff1718-714d-48f2-9338-10b5d86b1df3",
+                "id": "a2a547ef-a732-4ba3-8417-d4ef48767ac2",
                 "time": "2025-02-01T15:00:00+00:00",
                 "country": "England - Championship",
                 "league": "England - Championship",
@@ -212,7 +212,7 @@
                 "links": [
                     "https://thedaddy.to/embed/stream-187.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
                     "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
                     "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
@@ -221,18 +221,18 @@
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
                     "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
                     "referer2": "https://cookiewebplay.xyz/",
                     "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
                     "referer3": "https://cookiewebplay.xyz/",
                     "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Kit_left_arm_qprhome10.png"
+                "thumb": "https://www.mediastorehouse.com/p/323/millwall-fc-npower-championship-victory-4566163.jpg.webp"
             },
             {
-                "id": "04660eac-89df-48c0-bc9f-e57b2cf5d5c2",
+                "id": "8e77e82b-5ab9-4f8b-b642-01eb22969646",
                 "time": "2025-02-01T15:00:00+00:00",
                 "country": "England - Championship",
                 "league": "England - Championship",
@@ -240,7 +240,7 @@
                 "links": [
                     "https://thedaddy.to/embed/stream-188.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
                     "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
                     "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
@@ -249,18 +249,18 @@
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
                     "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
                     "referer2": "https://cookiewebplay.xyz/",
                     "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
                     "referer3": "https://cookiewebplay.xyz/",
                     "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Kieran_Trippier_2018-07-14_1.jpg/220px-Kieran_Trippier_2018-07-14_1.jpg"
+                "thumb": "https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2025-01/Portsmouth%20vs.%20Burnley%20013025.jpeg?h=920929c4&itok=taBw667D"
             },
             {
-                "id": "fc449e55-1338-4ae7-951e-6719d610a86f",
+                "id": "d30797b4-4055-4cd1-9754-189072103df4",
                 "time": "2025-02-01T15:00:00+00:00",
                 "country": "England - Championship",
                 "league": "England - Championship",
@@ -268,7 +268,7 @@
                 "links": [
                     "https://thedaddy.to/embed/stream-189.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
                     "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
                     "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
@@ -277,18 +277,18 @@
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
                     "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
                     "referer2": "https://cookiewebplay.xyz/",
                     "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
                     "referer3": "https://cookiewebplay.xyz/",
                     "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png"
+                "thumb": "https://s43693.pcdn.co/wp-content/uploads/2025/01/sheffield-wednesday-vs-luton-town-predictions-betting-tips-efl-championship-saturday-february-1-2025.png"
             },
             {
-                "id": "2d17b8ae-e10d-4fb0-89ab-9e82d4ec2452",
+                "id": "bc1f9781-8bf9-4e0f-ba42-5fd9a6b29dd6",
                 "time": "2025-02-01T15:00:00+00:00",
                 "country": "England - Championship",
                 "league": "England - Championship",
@@ -298,27 +298,27 @@
                     "https://thedaddy.to/embed/stream-630.php",
                     "https://thedaddy.to/embed/stream-90.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://dokko1new.iosplayer.ru/dokko1/premium630/mono.m3u8?token=none",
+                    "m3u8_1": "https://zekonew.iosplayer.ru/zeko/premium90/mono.m3u8?token=none",
+                    "m3u8_2": "https://dokko1new.iosplayer.ru/dokko1/premium630/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
                     "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
                     "referer2": "https://cookiewebplay.xyz/",
                     "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
                     "referer3": "https://cookiewebplay.xyz/",
                     "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Kit_left_arm_coventry2425h.png"
+                "thumb": "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/26ed/live/f53ea940-dfd4-11ef-8899-07ba6c6a90c6.jpg"
             },
             {
-                "id": "57fd9c8a-fdf8-4066-be87-97d369b443ee",
+                "id": "7a0aab17-facf-4f1a-acfb-cccb9fa18ecc",
                 "time": "2025-02-01T12:30:00+00:00",
                 "country": "England - Championship",
                 "league": "England - Championship",
@@ -328,7 +328,43 @@
                     "https://thedaddy.to/embed/stream-38.php",
                     "https://thedaddy.to/embed/stream-74.php"
                 ],
-                "top": false,
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://zekonew.iosplayer.ru/zeko/premium35/mono.m3u8?token=none",
+                    "m3u8_1": "https://zekonew.iosplayer.ru/zeko/premium38/mono.m3u8?token=none",
+                    "m3u8_2": "https://dokko1new.iosplayer.ru/dokko1/premium74/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://i.ytimg.com/vi/At9vj1gbOuU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCA5D1e-KcfflF8TY3QktFsn2uv_Q"
+            }
+        ]
+    },
+    {
+        "id": "6d65b353-bea9-4ba2-b23f-962fc0752887",
+        "competition": "Scottish Premiership",
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/180b/live/c81a9400-de36-11ef-902e-cf9b84dc1357.jpg",
+        "priority": 100,
+        "matches": [
+            {
+                "id": "88cd5ae3-2f58-43e4-b48d-5872f77629cf",
+                "time": "2025-02-01T15:00:00+00:00",
+                "country": "Scottish Premiership",
+                "league": "Scottish Premiership",
+                "match": "Dundee vs Hearts",
+                "links": [
+                    "https://thedaddy.to/embed/stream-200.php"
+                ],
+                "top": true,
                 "m3u8_urls": {
                     "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
                     "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
@@ -337,26 +373,112 @@
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
                     "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
                     "referer2": "https://cookiewebplay.xyz/",
                     "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
                     "referer3": "https://cookiewebplay.xyz/",
                     "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Plymouth_Argyle_F.C._logo.svg/180px-Plymouth_Argyle_F.C._logo.svg.png"
+                "thumb": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/db6e/live/8b7f22e0-de36-11ef-902e-cf9b84dc1357.jpg"
+            },
+            {
+                "id": "74774f41-4099-45be-b4f8-d5d936b02f6b",
+                "time": "2025-02-01T15:00:00+00:00",
+                "country": "Scottish Premiership",
+                "league": "Scottish Premiership",
+                "match": "Hibernian vs Aberdeen",
+                "links": [
+                    "https://thedaddy.to/embed/stream-201.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/180b/live/c81a9400-de36-11ef-902e-cf9b84dc1357.jpg"
+            },
+            {
+                "id": "7a2f6b29-32ca-425f-9ca2-dd6b321fc1a1",
+                "time": "2025-02-01T15:00:00+00:00",
+                "country": "Scottish Premiership",
+                "league": "Scottish Premiership",
+                "match": "St. Mirren vs St. Johnstone",
+                "links": [
+                    "https://thedaddy.to/embed/stream-202.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/180b/live/c81a9400-de36-11ef-902e-cf9b84dc1357.jpg"
+            },
+            {
+                "id": "15f11a7d-2479-492e-baf6-394e24452850",
+                "time": "2025-02-01T17:45:00+00:00",
+                "country": "Scottish Premiership",
+                "league": "Scottish Premiership",
+                "match": "Kilmarnock vs Dundee United",
+                "links": [
+                    "https://thedaddy.to/embed/stream-203.php",
+                    "https://thedaddy.to/embed/stream-571.php",
+                    "https://thedaddy.to/embed/stream-624.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://dokko1new.iosplayer.ru/dokko1/premium571/mono.m3u8?token=none",
+                    "m3u8_1": "https://dokko1new.iosplayer.ru/dokko1/premium624/mono.m3u8?token=none",
+                    "m3u8_2": "https://dokko1new.iosplayer.ru/dokko1/premium571/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1008920487936476"
             }
         ]
     },
     {
-        "id": "b89e8fc6-2f78-43e5-ab6e-e1a4da8a2db6",
+        "id": "0468c5fc-d723-4a7d-a22d-f02f175b77e7",
         "competition": "Super Lig",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/S%C3%BCperLig-Logo_%282024%29.png/275px-S%C3%BCperLig-Logo_%282024%29.png",
-        "priority": 100,
+        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/0a9e8451b00c6d118ffac308b831a86a.jpg",
+        "priority": 17,
         "matches": [
             {
-                "id": "1ebf6704-0d41-4914-87e6-ffd571eb8ae7",
+                "id": "0766b585-f080-4f25-b97f-643c9f659941",
                 "time": "2025-02-01T10:30:00+00:00",
                 "country": "Super Lig",
                 "league": "Super Lig",
@@ -364,92 +486,35 @@
                 "links": [
                     "https://thedaddy.to/embed/stream-63.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://zekonew.iosplayer.ru/zeko/premium63/mono.m3u8?token=none",
+                    "m3u8_1": "https://zekonew.iosplayer.ru/zeko/premium63/mono.m3u8?token=none",
+                    "m3u8_2": "https://zekonew.iosplayer.ru/zeko/premium63/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
                     "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
                     "referer2": "https://cookiewebplay.xyz/",
                     "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
                     "referer3": "https://cookiewebplay.xyz/",
                     "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/S%C3%BCperLig-Logo_%282024%29.png/275px-S%C3%BCperLig-Logo_%282024%29.png"
-            },
-            {
-                "id": "97a88f23-dead-471f-98d2-f537aea0234c",
-                "time": "2025-02-01T13:00:00+00:00",
-                "country": "Super Lig",
-                "league": "Super Lig",
-                "match": "Kayserispor vs Trabzonspor",
-                "links": [
-                    "https://thedaddy.to/embed/stream-62.php",
-                    "https://thedaddy.to/embed/stream-104.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
-                },
-                "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/S%C3%BCperLig-Logo_%282024%29.png/275px-S%C3%BCperLig-Logo_%282024%29.png"
-            },
-            {
-                "id": "d6cea47f-20b9-4205-b9d7-8e3a004ed8a6",
-                "time": "2025-02-01T16:00:00+00:00",
-                "country": "Super Lig",
-                "league": "Super Lig",
-                "match": "\u0130stanbul Ba\u015fak\u015fehir vs Samsunspor",
-                "links": [
-                    "https://thedaddy.to/embed/stream-62.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
-                },
-                "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Kit_left_arm_ibfk2425h.png"
+                "thumb": "https://image.hurimg.com/i/hurriyet/75/0x0/679dc96fdc27d9ef3365129a.jpg"
             }
         ]
     },
     {
-        "id": "9319abb1-127a-42bf-bc72-9803771b5e1a",
+        "id": "a80ab72b-6fc2-4ee9-91e7-220d2a0d7b22",
         "competition": "England - Premier League",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/280px-Premier_League_Logo.svg.png",
-        "priority": 100,
+        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/74acf694395a7d85e015e41d9239fc72.jpg",
+        "priority": 4,
         "matches": [
             {
-                "id": "80c2e996-264c-46d3-b670-e665ed82a230",
+                "id": "c583990e-e230-4b27-b5f6-cae2e084eb7a",
                 "time": "2025-02-01T12:30:00+00:00",
                 "country": "England - Premier League",
                 "league": "England - Premier League",
@@ -459,1054 +524,24 @@
                     "https://thedaddy.to/embed/stream-31.php",
                     "https://thedaddy.to/embed/stream-343.php"
                 ],
-                "top": false,
+                "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium9/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2new.iosplayer.ru/ddh2/premium31/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh2new.iosplayer.ru/ddh2/premium343/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
                     "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
                     "referer2": "https://cookiewebplay.xyz/",
                     "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
                     "referer3": "https://cookiewebplay.xyz/",
                     "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nottingham_Forest_F.C._logo.svg/110px-Nottingham_Forest_F.C._logo.svg.png"
-            },
-            {
-                "id": "f08b1cd1-be90-4fc4-aabc-47ebb62a091f",
-                "time": "2025-02-01T15:00:00+00:00",
-                "country": "England - Premier League",
-                "league": "England - Premier League",
-                "match": "Simulcast",
-                "links": [
-                    "https://thedaddy.to/embed/stream-9.php",
-                    "https://thedaddy.to/embed/stream-638.php",
-                    "https://thedaddy.to/embed/stream-134.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
-                },
-                "thumb": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png"
-            },
-            {
-                "id": "f013c7cb-c321-4f9a-b01b-cf893907224f",
-                "time": "2025-02-01T15:00:00+00:00",
-                "country": "England - Premier League",
-                "league": "England - Premier League",
-                "match": "AFC Bournemouth vs Liverpool",
-                "links": [
-                    "https://thedaddy.to/embed/stream-25.php",
-                    "https://thedaddy.to/embed/stream-343.php",
-                    "https://thedaddy.to/embed/stream-845.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
-                },
-                "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Kit_left_arm_bournemouth2324h.png"
-            },
-            {
-                "id": "fd99c833-55f3-4a67-acb7-dd134c153b95",
-                "time": "2025-02-01T15:00:00+00:00",
-                "country": "England - Premier League",
-                "league": "England - Premier League",
-                "match": "Everton vs Leicester City",
-                "links": [
-                    "https://thedaddy.to/embed/stream-26.php",
-                    "https://thedaddy.to/embed/stream-591.php",
-                    "https://thedaddy.to/embed/stream-447.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
-                },
-                "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LCFC_lift_the_Premier_League_Trophy_%2826943755296%29_%28cropped%29.jpg/300px-LCFC_lift_the_Premier_League_Trophy_%2826943755296%29_%28cropped%29.jpg"
-            },
-            {
-                "id": "afbb11a4-30af-4bcc-986e-860ac9c3cd56",
-                "time": "2025-02-01T15:00:00+00:00",
-                "country": "England - Premier League",
-                "league": "England - Premier League",
-                "match": "Ipswich Town vs Southampton",
-                "links": [
-                    "https://thedaddy.to/embed/stream-27.php",
-                    "https://thedaddy.to/embed/stream-594.php",
-                    "https://thedaddy.to/embed/stream-448.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
-                },
-                "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Ipswich_Town.svg/156px-Ipswich_Town.svg.png"
-            },
-            {
-                "id": "27fc1d41-d779-4c8d-b73d-0b1a67a38c50",
-                "time": "2025-02-01T15:00:00+00:00",
-                "country": "England - Premier League",
-                "league": "England - Premier League",
-                "match": "Newcastle United vs Fulham",
-                "links": [
-                    "https://thedaddy.to/embed/stream-28.php",
-                    "https://thedaddy.to/embed/stream-590.php",
-                    "https://thedaddy.to/embed/stream-446.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
-                },
-                "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/280px-Premier_League_Logo.svg.png"
-            },
-            {
-                "id": "a87b4547-4e3f-44cb-aafc-5aebd724e7f0",
-                "time": "2025-02-01T17:30:00+00:00",
-                "country": "England - Premier League",
-                "league": "England - Premier League",
-                "match": "Wolverhampton Wanderers vs Aston Villa",
-                "links": [
-                    "https://thedaddy.to/embed/stream-9.php",
-                    "https://thedaddy.to/embed/stream-845.php",
-                    "https://thedaddy.to/embed/stream-53.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
-                },
-                "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Wolverhampton_Wanderers_FC_crest.svg/200px-Wolverhampton_Wanderers_FC_crest.svg.png"
-            }
-        ]
-    },
-    {
-        "id": "0e32ebb0-d96e-46a5-916d-e1a41446da68",
-        "competition": "Spain - La Liga",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/240px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png",
-        "priority": 100,
-        "matches": [
-            {
-                "id": "26e7d2b2-4eee-4f74-ad14-2ba5804228fe",
-                "time": "2025-02-01T13:00:00+00:00",
-                "country": "Spain - La Liga",
-                "league": "Spain - La Liga",
-                "match": "Getafe vs Sevilla",
-                "links": [
-                    "https://thedaddy.to/embed/stream-538.php",
-                    "https://thedaddy.to/embed/stream-276.php",
-                    "https://thedaddy.to/embed/stream-451.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
-                },
-                "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/185px-Getafe_logo.svg.png"
-            },
-            {
-                "id": "94b138e5-2ed9-4fbc-af78-1d613366fdcf",
-                "time": "2025-02-01T15:15:00+00:00",
-                "country": "Spain - La Liga",
-                "league": "Spain - La Liga",
-                "match": "Villarreal vs Real Valladolid",
-                "links": [
-                    "https://thedaddy.to/embed/stream-84.php",
-                    "https://thedaddy.to/embed/stream-276.php",
-                    "https://thedaddy.to/embed/stream-426.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
-                },
-                "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Real_Valladolid_CF_crest.svg/195px-Real_Valladolid_CF_crest.svg.png"
-            },
-            {
-                "id": "ebbeb8f1-04f4-41e3-b5e9-c5361ba58a69",
-                "time": "2025-02-01T17:30:00+00:00",
-                "country": "Spain - La Liga",
-                "league": "Spain - La Liga",
-                "match": "Atl\u00e9tico Madrid vs Mallorca",
-                "links": [
-                    "https://thedaddy.to/embed/stream-538.php",
-                    "https://thedaddy.to/embed/stream-6.php",
-                    "https://thedaddy.to/embed/stream-276.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
-                },
-                "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/165px-Real_Madrid_CF.svg.png"
-            }
-        ]
-    },
-    {
-        "id": "8db87cb3-ad9f-40ff-b863-4fa483b4c607",
-        "competition": "Saudi Arabia - Pro League",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Roshn_Saudi_League_Logo.svg/210px-Roshn_Saudi_League_Logo.svg.png",
-        "priority": 100,
-        "matches": [
-            {
-                "id": "c5f05d5a-a8a7-4ae3-ac88-49b0ea1bc8d1",
-                "time": "2025-02-01T13:25:00+00:00",
-                "country": "Saudi Arabia - Pro League",
-                "league": "Saudi Arabia - Pro League",
-                "match": "Al Khaleej vs Damac",
-                "links": [
-                    "https://thedaddy.to/embed/stream-2.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
-                },
-                "thumb": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png"
-            },
-            {
-                "id": "711f87f3-45ba-400c-9838-65c31459f9dd",
-                "time": "2025-02-01T15:00:00+00:00",
-                "country": "Saudi Arabia - Pro League",
-                "league": "Saudi Arabia - Pro League",
-                "match": "Al Fateh vs Al Quadisiya",
-                "links": [
-                    "https://thedaddy.to/embed/stream-105.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
-                },
-                "thumb": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png"
-            },
-            {
-                "id": "e350b2d0-ce52-45dc-80e1-eacbd0f4b48c",
-                "time": "2025-02-01T17:00:00+00:00",
-                "country": "Saudi Arabia - Pro League",
-                "league": "Saudi Arabia - Pro League",
-                "match": "Al Ittihad vs Al Kholood",
-                "links": [
-                    "https://thedaddy.to/embed/stream-2.php",
-                    "https://thedaddy.to/embed/stream-758.php",
-                    "https://thedaddy.to/embed/stream-626.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
-                },
-                "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Kit_left_arm_alnassr2425h.png"
-            }
-        ]
-    },
-    {
-        "id": "66995964-d882-4f83-9d4b-94d52c5ed46a",
-        "competition": "Italy - Serie A",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Serie_A_ENILIVE_logo.svg/140px-Serie_A_ENILIVE_logo.svg.png",
-        "priority": 100,
-        "matches": [
-            {
-                "id": "f3e76185-a043-41df-b6e2-276ed543e88d",
-                "time": "2025-02-01T14:00:00+00:00",
-                "country": "Italy - Serie A",
-                "league": "Italy - Serie A",
-                "match": "Monza vs Hellas Verona",
-                "links": [
-                    "https://thedaddy.to/embed/stream-55.php",
-                    "https://thedaddy.to/embed/stream-623.php",
-                    "https://thedaddy.to/embed/stream-434.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
-                },
-                "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Inter-Como_Serie_A_2024-2025.jpg/220px-Inter-Como_Serie_A_2024-2025.jpg"
-            },
-            {
-                "id": "e01a0c6a-57db-48b9-909b-137712ef83b0",
-                "time": "2025-02-01T14:00:00+00:00",
-                "country": "Italy - Serie A",
-                "league": "Italy - Serie A",
-                "match": "Udinese vs Venezia",
-                "links": [
-                    "https://thedaddy.to/embed/stream-877.php",
-                    "https://thedaddy.to/embed/stream-308.php",
-                    "https://thedaddy.to/embed/stream-427.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
-                },
-                "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/de/Kit_left_arm_udinese2425h.png"
-            },
-            {
-                "id": "b7df0d48-e322-408f-911f-b8719d8ec5b6",
-                "time": "2025-02-01T17:00:00+00:00",
-                "country": "Italy - Serie A",
-                "league": "Italy - Serie A",
-                "match": "Atalanta vs Torino",
-                "links": [
-                    "https://thedaddy.to/embed/stream-877.php",
-                    "https://thedaddy.to/embed/stream-910.php",
-                    "https://thedaddy.to/embed/stream-427.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
-                },
-                "thumb": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png"
-            },
-            {
-                "id": "2c304891-0546-4c27-b672-a30ef81c6953",
-                "time": "2025-02-01T19:45:00+00:00",
-                "country": "Italy - Serie A",
-                "league": "Italy - Serie A",
-                "match": "Bologna vs Como",
-                "links": [
-                    "https://thedaddy.to/embed/stream-109.php",
-                    "https://thedaddy.to/embed/stream-870.php",
-                    "https://thedaddy.to/embed/stream-910.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
-                },
-                "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Lens_-_Torino_FC_%2802-08-2023%29_23_%28cropped%29.jpg/220px-Lens_-_Torino_FC_%2802-08-2023%29_23_%28cropped%29.jpg"
-            }
-        ]
-    },
-    {
-        "id": "049ea8ef-9a31-4f77-bee4-aa695612aca7",
-        "competition": "Bundesliga",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/180px-Bundesliga_logo_%282017%29.svg.png",
-        "priority": 100,
-        "matches": [
-            {
-                "id": "333f437b-3367-424a-a823-80cd5af1a4fd",
-                "time": "2025-02-01T14:30:00+00:00",
-                "country": "Bundesliga",
-                "league": "Bundesliga",
-                "match": "Simulcast",
-                "links": [
-                    "https://thedaddy.to/embed/stream-558.php",
-                    "https://thedaddy.to/embed/stream-117.php",
-                    "https://thedaddy.to/embed/stream-556.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
-                },
-                "thumb": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png"
-            },
-            {
-                "id": "615c7f19-b938-411e-9df0-0e7c4d3c3626",
-                "time": "2025-02-01T14:30:00+00:00",
-                "country": "Bundesliga",
-                "league": "Bundesliga",
-                "match": "Stuttgart vs Borussia M'gladbach",
-                "links": [
-                    "https://thedaddy.to/embed/stream-6.php",
-                    "https://thedaddy.to/embed/stream-497.php",
-                    "https://thedaddy.to/embed/stream-635.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
-                },
-                "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Borussia_M%C3%B6nchengladbach_logo.svg/140px-Borussia_M%C3%B6nchengladbach_logo.svg.png"
-            },
-            {
-                "id": "6361474c-71e6-48c7-a393-d89410378eba",
-                "time": "2025-02-01T14:30:00+00:00",
-                "country": "Bundesliga",
-                "league": "Bundesliga",
-                "match": "Bayern M\u00fcnchen vs Holstein Kiel",
-                "links": [
-                    "https://thedaddy.to/embed/stream-4.php",
-                    "https://thedaddy.to/embed/stream-260.php",
-                    "https://thedaddy.to/embed/stream-458.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
-                },
-                "thumb": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png"
-            },
-            {
-                "id": "c8e5caf2-a677-45bd-a86d-d67b12b1e715",
-                "time": "2025-02-01T14:30:00+00:00",
-                "country": "Bundesliga",
-                "league": "Bundesliga",
-                "match": "Heidenheim vs Borussia Dortmund",
-                "links": [
-                    "https://thedaddy.to/embed/stream-7.php",
-                    "https://thedaddy.to/embed/stream-459.php",
-                    "https://thedaddy.to/embed/stream-496.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
-                },
-                "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Kit_left_arm_bvb2425h.png"
-            },
-            {
-                "id": "f00f5f1a-95f9-4e7e-b332-89396d6ac89c",
-                "time": "2025-02-01T14:30:00+00:00",
-                "country": "Bundesliga",
-                "league": "Bundesliga",
-                "match": "Bochum vs Freiburg",
-                "links": [
-                    "https://thedaddy.to/embed/stream-5.php",
-                    "https://thedaddy.to/embed/stream-498.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
-                },
-                "thumb": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png"
-            },
-            {
-                "id": "dcf96769-ac06-4878-91a6-de997c52646d",
-                "time": "2025-02-01T14:30:00+00:00",
-                "country": "Bundesliga",
-                "league": "Bundesliga",
-                "match": "St. Pauli vs Augsburg",
-                "links": [
-                    "https://thedaddy.to/embed/stream-23.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
-                },
-                "thumb": "https://upload.wikimedia.org/wikipedia/en/5/52/FC_St_Pauli_Rugby.gif"
-            },
-            {
-                "id": "87b6ff43-700e-4797-9a6c-1a07ea970bdc",
-                "time": "2025-02-01T17:30:00+00:00",
-                "country": "Bundesliga",
-                "league": "Bundesliga",
-                "match": "Union Berlin vs RB Leipzig",
-                "links": [
-                    "https://thedaddy.to/embed/stream-558.php",
-                    "https://thedaddy.to/embed/stream-556.php",
-                    "https://thedaddy.to/embed/stream-35.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
-                },
-                "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/FC_RB_Salzburg_gegen_LASK_%282023-04-16%29_21_%28cropped%29.jpg/220px-FC_RB_Salzburg_gegen_LASK_%282023-04-16%29_21_%28cropped%29.jpg"
-            }
-        ]
-    },
-    {
-        "id": "ca80c145-54a8-4ff5-9928-d537c2e6196e",
-        "competition": "Portugal - Primeira Liga",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Primeira_Liga_204_Logo.png/160px-Primeira_Liga_204_Logo.png",
-        "priority": 100,
-        "matches": [
-            {
-                "id": "a13d37b5-66b0-44d9-85ea-53db7d698d98",
-                "time": "2025-02-01T15:30:00+00:00",
-                "country": "Portugal - Primeira Liga",
-                "league": "Portugal - Primeira Liga",
-                "match": "Santa Clara vs Casa Pia",
-                "links": [
-                    "https://thedaddy.to/embed/stream-49.php",
-                    "https://thedaddy.to/embed/stream-597.php",
-                    "https://thedaddy.to/embed/stream-471.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
-                },
-                "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/S%C3%ADmbolo_da_Allianz_Cup.png/220px-S%C3%ADmbolo_da_Allianz_Cup.png"
-            },
-            {
-                "id": "ede77445-e608-4044-be0d-dc0fe8f06f66",
-                "time": "2025-02-01T15:30:00+00:00",
-                "country": "Portugal - Primeira Liga",
-                "league": "Portugal - Primeira Liga",
-                "match": "Nacional vs Arouca",
-                "links": [
-                    "https://thedaddy.to/embed/stream-74.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
-                },
-                "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/S%C3%ADmbolo_da_Allianz_Cup.png/220px-S%C3%ADmbolo_da_Allianz_Cup.png"
-            },
-            {
-                "id": "2b3738a8-613c-4d8a-bcda-6c8d6ed97b2c",
-                "time": "2025-02-01T18:00:00+00:00",
-                "country": "Portugal - Primeira Liga",
-                "league": "Portugal - Primeira Liga",
-                "match": "Gil Vicente vs Estoril",
-                "links": [
-                    "https://thedaddy.to/embed/stream-49.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
-                },
-                "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/S%C3%ADmbolo_da_Allianz_Cup.png/220px-S%C3%ADmbolo_da_Allianz_Cup.png"
-            },
-            {
-                "id": "60747fd5-2eb0-4195-9c66-05b259bb8409",
-                "time": "2025-02-01T20:30:00+00:00",
-                "country": "Portugal - Primeira Liga",
-                "league": "Portugal - Primeira Liga",
-                "match": "Vit\u00f3ria Guimar\u00e3es vs AVS",
-                "links": [
-                    "https://thedaddy.to/embed/stream-49.php",
-                    "https://thedaddy.to/embed/stream-104.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
-                },
-                "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/S%C3%ADmbolo_da_Allianz_Cup.png/220px-S%C3%ADmbolo_da_Allianz_Cup.png"
-            }
-        ]
-    },
-    {
-        "id": "9de34ea5-99f3-4416-88bd-df6067ff018d",
-        "competition": "France - Ligue 1",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ligue_1_2024_Logo.png/150px-Ligue_1_2024_Logo.png",
-        "priority": 100,
-        "matches": [
-            {
-                "id": "4c68266b-47fa-44a2-9d1f-f65d42b48cfe",
-                "time": "2025-02-01T16:00:00+00:00",
-                "country": "France - Ligue 1",
-                "league": "France - Ligue 1",
-                "match": "Brest vs PSG",
-                "links": [
-                    "https://thedaddy.to/embed/stream-116.php",
-                    "https://thedaddy.to/embed/stream-425.php",
-                    "https://thedaddy.to/embed/stream-372.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
-                },
-                "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Rabiot_asse_om_2425.png/220px-Rabiot_asse_om_2425.png"
-            },
-            {
-                "id": "56073ddc-cc0c-40ef-9f3e-242d17a45452",
-                "time": "2025-02-01T18:00:00+00:00",
-                "country": "France - Ligue 1",
-                "league": "France - Ligue 1",
-                "match": "Monaco vs Auxerre",
-                "links": [
-                    "https://thedaddy.to/embed/stream-108.php",
-                    "https://thedaddy.to/embed/stream-425.php",
-                    "https://thedaddy.to/embed/stream-372.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
-                },
-                "thumb": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png"
-            },
-            {
-                "id": "683f33fd-9dee-4580-9991-1e25958b6192",
-                "time": "2025-02-01T20:05:00+00:00",
-                "country": "France - Ligue 1",
-                "league": "France - Ligue 1",
-                "match": "Lille vs Saint-\u00c9tienne",
-                "links": [
-                    "https://thedaddy.to/embed/stream-108.php",
-                    "https://thedaddy.to/embed/stream-425.php",
-                    "https://thedaddy.to/embed/stream-372.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
-                },
-                "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/AS_Saint-%C3%89tienne_logo.svg/175px-AS_Saint-%C3%89tienne_logo.svg.png"
-            }
-        ]
-    },
-    {
-        "id": "203ce5f1-17be-4905-8ca1-301fd41af1fe",
-        "competition": "Netherlands - Eredivisie",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Eredivisie_nieuw_logo_2017-.svg/230px-Eredivisie_nieuw_logo_2017-.svg.png",
-        "priority": 100,
-        "matches": [
-            {
-                "id": "6466b13e-4f0d-4abc-87cd-5133438abf1e",
-                "time": "2025-02-01T17:45:00+00:00",
-                "country": "Netherlands - Eredivisie",
-                "league": "Netherlands - Eredivisie",
-                "match": "PEC Zwolle vs Utrecht",
-                "links": [
-                    "https://thedaddy.to/embed/stream-386.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
-                },
-                "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Kit_left_arm_utrecht2425h.png"
-            },
-            {
-                "id": "de806c38-ea60-4a2c-8706-17ce6072827d",
-                "time": "2025-02-01T19:00:00+00:00",
-                "country": "Netherlands - Eredivisie",
-                "league": "Netherlands - Eredivisie",
-                "match": "Heerenveen vs Fortuna Sittard",
-                "links": [
-                    "https://thedaddy.to/embed/stream-379.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
-                },
-                "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Eredivisie_nieuw_logo_2017-.svg/230px-Eredivisie_nieuw_logo_2017-.svg.png"
-            },
-            {
-                "id": "c47a5052-acc0-47e2-88e3-bb8e2473bb34",
-                "time": "2025-02-01T20:00:00+00:00",
-                "country": "Netherlands - Eredivisie",
-                "league": "Netherlands - Eredivisie",
-                "match": "NEC vs PSV",
-                "links": [
-                    "https://thedaddy.to/embed/stream-386.php",
-                    "https://thedaddy.to/embed/stream-410.php",
-                    "https://thedaddy.to/embed/stream-571.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": null,
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": null,
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": null
-                },
-                "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Eredivisie_nieuw_logo_2017-.svg/230px-Eredivisie_nieuw_logo_2017-.svg.png"
+                "thumb": "https://news.22bet.com/wp-content/uploads/2025/01/Nottingham-Forest-vs-Brighton.jpg"
             }
         ]
     }
