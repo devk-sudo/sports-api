@@ -1,52 +1,23 @@
 [
     {
-        "id": "321e5d5e-0af4-47ee-97ed-03f1293b38a8",
-        "competition": "England - Championship",
-        "thumbnail": "https://i2-prod.chroniclelive.co.uk/incoming/article11450315.ece/ALTERNATES/s615/EFL.jpg",
-        "priority": 10,
+        "id": "0603f0af-8487-46b4-966f-54d599fe4881",
+        "competition": "England - EFL Trophy",
+        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/ab25d6fac9bfd5adca70f85dda748b23.jpg",
+        "priority": 12,
         "matches": [
             {
-                "id": "1ff71f2c-bace-46a0-8b09-3cbc5e0a8e12",
-                "time": "2025-02-01T12:30:00+00:00",
-                "country": "England - Championship",
-                "league": "England - Championship",
-                "match": "Oxford United vs Bristol City",
+                "id": "18f74fc2-2509-46dc-871c-f0ad81308687",
+                "time": "2025-02-05T19:00:00+00:00",
+                "country": "England - EFL Trophy",
+                "league": "England - EFL Trophy",
+                "match": "Peterborough United vs Cheltenham Town",
                 "links": [
-                    "https://thedaddy.to/embed/stream-107.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddy6new.iosplayer.ru/ddy6/premium107/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddy6new.iosplayer.ru/ddy6/premium107/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddy6new.iosplayer.ru/ddy6/premium107/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://i2-prod.bristolpost.co.uk/incoming/article9908364.ece/ALTERNATES/s1200/0_Bristol-City-Oxford.jpg"
-            },
-            {
-                "id": "39c8c946-af2e-48a8-8c36-cdf729994903",
-                "time": "2025-02-01T12:30:00+00:00",
-                "country": "England - Championship",
-                "league": "England - Championship",
-                "match": "Watford vs Norwich City",
-                "links": [
-                    "https://thedaddy.to/embed/stream-36.php",
-                    "https://thedaddy.to/embed/stream-910.php"
+                    "https://thedaddy.to/embed/stream-36.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
                     "m3u8_url": "https://zekonew.iosplayer.ru/zeko/premium36/mono.m3u8?token=none",
-                    "m3u8_1": "https://zekonew.iosplayer.ru/zeko/premium910/mono.m3u8?token=none",
+                    "m3u8_1": "https://zekonew.iosplayer.ru/zeko/premium36/mono.m3u8?token=none",
                     "m3u8_2": "https://zekonew.iosplayer.ru/zeko/premium36/mono.m3u8?token=none"
                 },
                 "headers": {
@@ -60,22 +31,30 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://assets.goal.com/images/v3/getty-2195928765/crop/MM5DGMZVGY5DCOBYHA5G433XMU5DAORRG42Q====/GettyImages-2195928765.jpg?auto=webp&format=pjpg&width=3840&quality=60"
-            },
+                "thumb": "https://cdn.theposh.com/sites/default/files/2025-02/16x9_match_preview_v_cheltenham_town.jpg"
+            }
+        ]
+    },
+    {
+        "id": "cb9da19e-59b2-4290-911b-ea5060b798d1",
+        "competition": "England - Championship",
+        "thumbnail": "https://i2-prod.chroniclelive.co.uk/incoming/article11450315.ece/ALTERNATES/s615/EFL.jpg",
+        "priority": 10,
+        "matches": [
             {
-                "id": "13c59011-6cd7-4ed3-b52b-f3da4d8b45e4",
-                "time": "2025-02-01T12:30:00+00:00",
+                "id": "4b13e6f0-7c19-4a1a-a7ca-0fdf9affcd79",
+                "time": "2025-02-05T19:45:00+00:00",
                 "country": "England - Championship",
                 "league": "England - Championship",
-                "match": "Barnsley vs Burton Albion",
+                "match": "Coventry City vs Leeds United",
                 "links": [
-                    "https://thedaddy.to/embed/stream-108.php"
+                    "https://thedaddy.to/embed/stream-77.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://ddy6new.iosplayer.ru/ddy6/premium108/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddy6new.iosplayer.ru/ddy6/premium108/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddy6new.iosplayer.ru/ddy6/premium108/mono.m3u8?token=none"
+                    "m3u8_url": "https://windnew.iosplayer.ru/wind/premium77/mono.m3u8?token=none",
+                    "m3u8_1": "https://windnew.iosplayer.ru/wind/premium77/mono.m3u8?token=none",
+                    "m3u8_2": "https://windnew.iosplayer.ru/wind/premium77/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -88,22 +67,32 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=664708402575833&get_thumbnail=1"
-            },
+                "thumb": "https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/e12d/live/b78ed950-e2f2-11ef-a819-277e390a7a08.jpg"
+            }
+        ]
+    },
+    {
+        "id": "3395b4f1-a407-4824-8a6b-4cebc65e811c",
+        "competition": "Netherlands - KNVB Beker",
+        "thumbnail": "https://www.footballticketnet.com/theme/images/tournaments/Buy-Dutch-KNVB-Beker-Football-Tickets-FootballTicketNet.png",
+        "priority": 13,
+        "matches": [
             {
-                "id": "4a176477-a7b8-40ca-9f17-acfb5fa6c6ad",
-                "time": "2025-02-01T12:30:00+00:00",
-                "country": "England - Championship",
-                "league": "England - Championship",
-                "match": "Stevenage vs Exeter City",
+                "id": "dc2c863c-628c-4f41-8106-c1c37d6737ca",
+                "time": "2025-02-05T17:45:00+00:00",
+                "country": "Netherlands - KNVB Beker",
+                "league": "Netherlands - KNVB Beker",
+                "match": "PSV vs Feyenoord",
                 "links": [
-                    "https://thedaddy.to/embed/stream-161.php"
+                    "https://thedaddy.to/embed/stream-379.php",
+                    "https://thedaddy.to/embed/stream-597.php",
+                    "https://thedaddy.to/embed/stream-571.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://zekonew.iosplayer.ru/zeko/premium379/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2new.iosplayer.ru/ddh2/premium597/mono.m3u8?token=none",
+                    "m3u8_2": "https://dokko1new.iosplayer.ru/dokko1/premium571/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -116,213 +105,14 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1187552320043799"
+                "thumb": "https://sportcdns.live/news-2/1b7e7db09773aaf77b5483864918da79cf1b094447add36173ec78ca475a8830.png"
             },
             {
-                "id": "bd6119f0-dec8-40af-b23f-44fe4265c2a7",
-                "time": "2025-02-01T15:00:00+00:00",
-                "country": "England - Championship",
-                "league": "England - Championship",
-                "match": "Derby County vs Sheffield United",
-                "links": [
-                    "https://thedaddy.to/embed/stream-184.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Ficdn.sheffunitedway.co.uk%2Fwp-content%2Fuploads%2F2025%2F01%2Fderby-county-fc-v-west-bromwich-albion-fc-sky-bet-championship.jpg"
-            },
-            {
-                "id": "0c4fcad2-cce2-47f1-b17a-995fe7abcef7",
-                "time": "2025-02-01T15:00:00+00:00",
-                "country": "England - Championship",
-                "league": "England - Championship",
-                "match": "Hull City vs Stoke City",
-                "links": [
-                    "https://thedaddy.to/embed/stream-185.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1206886574136803"
-            },
-            {
-                "id": "290f268f-3153-4c71-9244-e645b551476f",
-                "time": "2025-02-01T15:00:00+00:00",
-                "country": "England - Championship",
-                "league": "England - Championship",
-                "match": "Leeds United vs Cardiff City",
-                "links": [
-                    "https://thedaddy.to/embed/stream-186.php",
-                    "https://thedaddy.to/embed/stream-910.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://zekonew.iosplayer.ru/zeko/premium910/mono.m3u8?token=none",
-                    "m3u8_1": "https://zekonew.iosplayer.ru/zeko/premium910/mono.m3u8?token=none",
-                    "m3u8_2": "https://zekonew.iosplayer.ru/zeko/premium910/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://images.squarespace-cdn.com/content/v1/66421c2b72b91678aefa2c1e/7273d2c9-74c8-40f2-9cf0-6f8c3625e119/Dan+James%2C+Leeds+United+%26+Perry+Ng%2C+Cardiff+City.jpg"
-            },
-            {
-                "id": "a2a547ef-a732-4ba3-8417-d4ef48767ac2",
-                "time": "2025-02-01T15:00:00+00:00",
-                "country": "England - Championship",
-                "league": "England - Championship",
-                "match": "Millwall vs Queens Park Rangers",
-                "links": [
-                    "https://thedaddy.to/embed/stream-187.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://www.mediastorehouse.com/p/323/millwall-fc-npower-championship-victory-4566163.jpg.webp"
-            },
-            {
-                "id": "8e77e82b-5ab9-4f8b-b642-01eb22969646",
-                "time": "2025-02-01T15:00:00+00:00",
-                "country": "England - Championship",
-                "league": "England - Championship",
-                "match": "Portsmouth vs Burnley",
-                "links": [
-                    "https://thedaddy.to/embed/stream-188.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2025-01/Portsmouth%20vs.%20Burnley%20013025.jpeg?h=920929c4&itok=taBw667D"
-            },
-            {
-                "id": "d30797b4-4055-4cd1-9754-189072103df4",
-                "time": "2025-02-01T15:00:00+00:00",
-                "country": "England - Championship",
-                "league": "England - Championship",
-                "match": "Sheffield Wednesday vs Luton Town",
-                "links": [
-                    "https://thedaddy.to/embed/stream-189.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://s43693.pcdn.co/wp-content/uploads/2025/01/sheffield-wednesday-vs-luton-town-predictions-betting-tips-efl-championship-saturday-february-1-2025.png"
-            },
-            {
-                "id": "bc1f9781-8bf9-4e0f-ba42-5fd9a6b29dd6",
-                "time": "2025-02-01T15:00:00+00:00",
-                "country": "England - Championship",
-                "league": "England - Championship",
-                "match": "Swansea City vs Coventry City",
-                "links": [
-                    "https://thedaddy.to/embed/stream-190.php",
-                    "https://thedaddy.to/embed/stream-630.php",
-                    "https://thedaddy.to/embed/stream-90.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dokko1new.iosplayer.ru/dokko1/premium630/mono.m3u8?token=none",
-                    "m3u8_1": "https://zekonew.iosplayer.ru/zeko/premium90/mono.m3u8?token=none",
-                    "m3u8_2": "https://dokko1new.iosplayer.ru/dokko1/premium630/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/26ed/live/f53ea940-dfd4-11ef-8899-07ba6c6a90c6.jpg"
-            },
-            {
-                "id": "7a0aab17-facf-4f1a-acfb-cccb9fa18ecc",
-                "time": "2025-02-01T12:30:00+00:00",
-                "country": "England - Championship",
-                "league": "England - Championship",
-                "match": "Plymouth Argyle vs West Bromwich Albion",
+                "id": "572ce95b-7443-4124-aca6-f73ea57e21ef",
+                "time": "2025-02-05T20:00:00+00:00",
+                "country": "Netherlands - KNVB Beker",
+                "league": "Netherlands - KNVB Beker",
+                "match": "Go Ahead Eagles vs VV Noordwijk",
                 "links": [
                     "https://thedaddy.to/embed/stream-35.php",
                     "https://thedaddy.to/embed/stream-38.php",
@@ -345,30 +135,70 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://i.ytimg.com/vi/At9vj1gbOuU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCA5D1e-KcfflF8TY3QktFsn2uv_Q"
+                "thumb": "https://img.sofascore.com/api/v1/event/13354792/share-image/16x9"
             }
         ]
     },
     {
-        "id": "6d65b353-bea9-4ba2-b23f-962fc0752887",
-        "competition": "Scottish Premiership",
-        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/180b/live/c81a9400-de36-11ef-902e-cf9b84dc1357.jpg",
+        "id": "37a5f202-e49b-4fc5-bb4c-4cfee9b5ec84",
+        "competition": "Germany - DFB Pokal",
+        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/04f5efd516180c8fab20d3f95958a5fb.jpg",
+        "priority": 5,
+        "matches": [
+            {
+                "id": "e906c437-33c5-4e78-b2ab-510681443171",
+                "time": "2025-02-05T19:45:00+00:00",
+                "country": "Germany - DFB Pokal",
+                "league": "Germany - DFB Pokal",
+                "match": "Bayer Leverkusen vs K\u00f6ln",
+                "links": [
+                    "https://thedaddy.to/embed/stream-45.php",
+                    "https://thedaddy.to/embed/stream-6.php",
+                    "https://thedaddy.to/embed/stream-556.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://windnew.iosplayer.ru/wind/premium45/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2new.iosplayer.ru/ddh2/premium6/mono.m3u8?token=none",
+                    "m3u8_2": "https://dokko1new.iosplayer.ru/dokko1/premium556/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://bulinews.com/i/640/7575.jpg"
+            }
+        ]
+    },
+    {
+        "id": "c6042af7-fdb1-4d6e-a8d5-a0283489cc15",
+        "competition": "Coppa Italia",
+        "thumbnail": "https://i.ytimg.com/vi/_9CCAJk6lPs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLArZivYhVPgHf1x3Rk5nliGhqkAfA",
         "priority": 100,
         "matches": [
             {
-                "id": "88cd5ae3-2f58-43e4-b48d-5872f77629cf",
-                "time": "2025-02-01T15:00:00+00:00",
-                "country": "Scottish Premiership",
-                "league": "Scottish Premiership",
-                "match": "Dundee vs Hearts",
+                "id": "8713d1ea-6753-4b6b-b5bb-3ae4232f95d8",
+                "time": "2025-02-05T20:00:00+00:00",
+                "country": "Coppa Italia",
+                "league": "Coppa Italia",
+                "match": "Milan vs Roma",
                 "links": [
-                    "https://thedaddy.to/embed/stream-200.php"
+                    "https://thedaddy.to/embed/stream-8.php",
+                    "https://thedaddy.to/embed/stream-451.php",
+                    "https://thedaddy.to/embed/stream-771.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium8/mono.m3u8?token=none",
+                    "m3u8_1": "https://windnew.iosplayer.ru/wind/premium451/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddy6new.iosplayer.ru/ddy6/premium771/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -381,154 +211,32 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/db6e/live/8b7f22e0-de36-11ef-902e-cf9b84dc1357.jpg"
-            },
-            {
-                "id": "74774f41-4099-45be-b4f8-d5d936b02f6b",
-                "time": "2025-02-01T15:00:00+00:00",
-                "country": "Scottish Premiership",
-                "league": "Scottish Premiership",
-                "match": "Hibernian vs Aberdeen",
-                "links": [
-                    "https://thedaddy.to/embed/stream-201.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/180b/live/c81a9400-de36-11ef-902e-cf9b84dc1357.jpg"
-            },
-            {
-                "id": "7a2f6b29-32ca-425f-9ca2-dd6b321fc1a1",
-                "time": "2025-02-01T15:00:00+00:00",
-                "country": "Scottish Premiership",
-                "league": "Scottish Premiership",
-                "match": "St. Mirren vs St. Johnstone",
-                "links": [
-                    "https://thedaddy.to/embed/stream-202.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/180b/live/c81a9400-de36-11ef-902e-cf9b84dc1357.jpg"
-            },
-            {
-                "id": "15f11a7d-2479-492e-baf6-394e24452850",
-                "time": "2025-02-01T17:45:00+00:00",
-                "country": "Scottish Premiership",
-                "league": "Scottish Premiership",
-                "match": "Kilmarnock vs Dundee United",
-                "links": [
-                    "https://thedaddy.to/embed/stream-203.php",
-                    "https://thedaddy.to/embed/stream-571.php",
-                    "https://thedaddy.to/embed/stream-624.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dokko1new.iosplayer.ru/dokko1/premium571/mono.m3u8?token=none",
-                    "m3u8_1": "https://dokko1new.iosplayer.ru/dokko1/premium624/mono.m3u8?token=none",
-                    "m3u8_2": "https://dokko1new.iosplayer.ru/dokko1/premium571/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1008920487936476"
+                "thumb": "https://icdn.sempremilan.com/wp-content/uploads/2025/02/MilanRoma30.jpg"
             }
         ]
     },
     {
-        "id": "0468c5fc-d723-4a7d-a22d-f02f175b77e7",
-        "competition": "Super Lig",
-        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/0a9e8451b00c6d118ffac308b831a86a.jpg",
-        "priority": 17,
-        "matches": [
-            {
-                "id": "0766b585-f080-4f25-b97f-643c9f659941",
-                "time": "2025-02-01T10:30:00+00:00",
-                "country": "Super Lig",
-                "league": "Super Lig",
-                "match": "Hatayspor vs Antalyaspor",
-                "links": [
-                    "https://thedaddy.to/embed/stream-63.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://zekonew.iosplayer.ru/zeko/premium63/mono.m3u8?token=none",
-                    "m3u8_1": "https://zekonew.iosplayer.ru/zeko/premium63/mono.m3u8?token=none",
-                    "m3u8_2": "https://zekonew.iosplayer.ru/zeko/premium63/mono.m3u8?token=none"
-                },
-                "headers": {
-                    "referer": "https://cookiewebplay.xyz/",
-                    "origin": "https://cookiewebplay.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://cookiewebplay.xyz/",
-                    "origin2": "https://cookiewebplay.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://cookiewebplay.xyz/",
-                    "origin3": "https://cookiewebplay.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://image.hurimg.com/i/hurriyet/75/0x0/679dc96fdc27d9ef3365129a.jpg"
-            }
-        ]
-    },
-    {
-        "id": "a80ab72b-6fc2-4ee9-91e7-220d2a0d7b22",
-        "competition": "England - Premier League",
-        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/74acf694395a7d85e015e41d9239fc72.jpg",
+        "id": "1e4bd36c-d729-49b1-9e0b-1da3bc1fb84f",
+        "competition": "Spain - Copa del Rey",
+        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/a6e133bb50775565390f15d7b5fd5e35.jpg",
         "priority": 4,
         "matches": [
             {
-                "id": "c583990e-e230-4b27-b5f6-cae2e084eb7a",
-                "time": "2025-02-01T12:30:00+00:00",
-                "country": "England - Premier League",
-                "league": "England - Premier League",
-                "match": "Nottingham Forest vs Brighton &amp; Hove Albion",
+                "id": "2f552ad3-d910-4644-94af-b608b2278604",
+                "time": "2025-02-05T20:00:00+00:00",
+                "country": "Spain - Copa del Rey",
+                "league": "Spain - Copa del Rey",
+                "match": "Legan\u00e9s vs Real Madrid",
                 "links": [
                     "https://thedaddy.to/embed/stream-9.php",
-                    "https://thedaddy.to/embed/stream-31.php",
-                    "https://thedaddy.to/embed/stream-343.php"
+                    "https://thedaddy.to/embed/stream-571.php",
+                    "https://thedaddy.to/embed/stream-49.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
                     "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium9/mono.m3u8?token=none",
-                    "m3u8_1": "https://ddh2new.iosplayer.ru/ddh2/premium31/mono.m3u8?token=none",
-                    "m3u8_2": "https://ddh2new.iosplayer.ru/ddh2/premium343/mono.m3u8?token=none"
+                    "m3u8_1": "https://dokko1new.iosplayer.ru/dokko1/premium571/mono.m3u8?token=none",
+                    "m3u8_2": "https://windnew.iosplayer.ru/wind/premium49/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -541,7 +249,45 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://news.22bet.com/wp-content/uploads/2025/01/Nottingham-Forest-vs-Brighton.jpg"
+                "thumb": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3500,h_1968,x_0,y_78/c_fill,w_912,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01jk94mz0d2dcj9wk2ek.jpg"
+            }
+        ]
+    },
+    {
+        "id": "09f25988-1bbd-43fe-ae79-3e894db434a1",
+        "competition": "England - League Cup",
+        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/712c292ab7fcdbc07f9a203ecbfe3ecd.jpg",
+        "priority": 3,
+        "matches": [
+            {
+                "id": "720e5bec-eb5b-4f8d-87ab-a8744e16b8ce",
+                "time": "2025-02-05T20:00:00+00:00",
+                "country": "England - League Cup",
+                "league": "England - League Cup",
+                "match": "Newcastle United vs Arsenal",
+                "links": [
+                    "https://thedaddy.to/embed/stream-35.php",
+                    "https://thedaddy.to/embed/stream-38.php",
+                    "https://thedaddy.to/embed/stream-74.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://zekonew.iosplayer.ru/zeko/premium35/mono.m3u8?token=none",
+                    "m3u8_1": "https://zekonew.iosplayer.ru/zeko/premium38/mono.m3u8?token=none",
+                    "m3u8_2": "https://dokko1new.iosplayer.ru/dokko1/premium74/mono.m3u8?token=none"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://c.files.bbci.co.uk/e3a4/live/22b2b880-e30e-11ef-a470-4fd3f77f90af.png"
             }
         ]
     }
