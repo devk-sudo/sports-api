@@ -1,12 +1,12 @@
 [
     {
-        "id": "065554db-90f9-4d52-8037-1b74f63a41a8",
+        "id": "b436259a-628e-45f5-aa46-4adb6634fa6f",
         "competition": "England - FA Cup",
         "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/b1843b112d7631ef87f5bad920282ed5.jpg",
         "priority": 3,
         "matches": [
             {
-                "id": "37626ca3-e500-4e16-a8b8-38d6791cc06c",
+                "id": "4a6a9165-580d-4176-a5f4-0d3528c0a73d",
                 "time": "2025-02-08T12:15:00+00:00",
                 "country": "England - FA Cup",
                 "league": "England - FA Cup",
@@ -36,7 +36,7 @@
                 "thumb": "https://images.squarespace-cdn.com/content/v1/66421c2b72b91678aefa2c1e/8b6150b0-fc2b-4932-9751-f22fc2124de6/Ethan+Ampadu%2C+Leeds+United+%26+Mihailo+Ivanovic%2C+Millwall.jpg"
             },
             {
-                "id": "82f3ae31-5be6-4bda-be3a-1435fea7ebe5",
+                "id": "54359e46-6d67-4e4b-b49d-5bdb1e30e3aa",
                 "time": "2025-02-08T12:15:00+00:00",
                 "country": "England - FA Cup",
                 "league": "England - FA Cup",
@@ -66,7 +66,7 @@
                 "thumb": "https://cdn.vox-cdn.com/thumbor/mwA1yXx4xtEvohdf3VVsBB7ErHk=/0x0:3998x2665/1200x800/filters:focal(1680x1014:2318x1652)/cdn.vox-cdn.com/uploads/chorus_image/image/73893283/2192900967.0.jpg"
             },
             {
-                "id": "32305974-477a-446d-b758-38030e93c365",
+                "id": "14830ce2-0616-485a-8d40-6eff9cee4959",
                 "time": "2025-02-08T15:00:00+00:00",
                 "country": "England - FA Cup",
                 "league": "England - FA Cup",
@@ -78,9 +78,9 @@
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://dokko1new.iosplayer.ru/dokko1/premium594/mono.m3u8?token=none",
+                    "m3u8_1": "https://windnew.iosplayer.ru/wind/premium420/mono.m3u8?token=none",
+                    "m3u8_2": "https://dokko1new.iosplayer.ru/dokko1/premium594/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -96,7 +96,7 @@
                 "thumb": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/6d93/live/cd1eff40-e24b-11ef-92f7-95f549ee11cf.jpg"
             },
             {
-                "id": "fdae1a02-892c-4b59-a32e-390795bcadd3",
+                "id": "c156783e-cbc8-4cc9-8cdd-733454453f37",
                 "time": "2025-02-08T15:00:00+00:00",
                 "country": "England - FA Cup",
                 "league": "England - FA Cup",
@@ -108,9 +108,9 @@
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://dokko1new.iosplayer.ru/dokko1/premium589/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddy6new.iosplayer.ru/ddy6/premium771/mono.m3u8?token=none",
+                    "m3u8_2": "https://dokko1new.iosplayer.ru/dokko1/premium589/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -126,7 +126,7 @@
                 "thumb": "https://cdn.vox-cdn.com/thumbor/JWZ_1QA45nMfnMf6yjWVsTYrsvc=/0x0:2559x1608/1200x800/filters:focal(1956x591:2364x999)/cdn.vox-cdn.com/uploads/chorus_image/image/73894113/2168758081.0.jpg"
             },
             {
-                "id": "05719c1f-0cb8-49af-a248-8fd99c977213",
+                "id": "20b4950e-4d26-41d3-99d9-70316d90ce50",
                 "time": "2025-02-08T15:00:00+00:00",
                 "country": "England - FA Cup",
                 "league": "England - FA Cup",
@@ -138,9 +138,9 @@
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://ddy6new.iosplayer.ru/ddy6/premium418/mono.m3u8?token=none",
+                    "m3u8_1": "https://windnew.iosplayer.ru/wind/premium916/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddy6new.iosplayer.ru/ddy6/premium418/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -156,7 +156,7 @@
                 "thumb": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/1749/live/62ab08f0-e24d-11ef-92f7-95f549ee11cf.jpg"
             },
             {
-                "id": "5cf2f3c8-19b9-4eab-9fa2-7021b0fd0197",
+                "id": "9d2b7480-89ab-42af-a433-a5aac8de5d15",
                 "time": "2025-02-08T15:00:00+00:00",
                 "country": "England - FA Cup",
                 "league": "England - FA Cup",
@@ -168,9 +168,9 @@
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium25/mono.m3u8?token=none",
+                    "m3u8_1": "https://windnew.iosplayer.ru/wind/premium77/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh2new.iosplayer.ru/ddh2/premium25/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -186,7 +186,7 @@
                 "thumb": "https://i.ytimg.com/vi/vcatAfW5w_g/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBoJMfgBY1C3VedkE1B-GB94vHCjg"
             },
             {
-                "id": "c7efceef-f130-46fa-98f1-033b10540185",
+                "id": "f03f402d-f219-4356-80a8-9062f68db91d",
                 "time": "2025-02-08T15:00:00+00:00",
                 "country": "England - FA Cup",
                 "league": "England - FA Cup",
@@ -198,9 +198,9 @@
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://dokko1new.iosplayer.ru/dokko1/premium587/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2new.iosplayer.ru/ddh2/premium26/mono.m3u8?token=none",
+                    "m3u8_2": "https://dokko1new.iosplayer.ru/dokko1/premium587/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -216,7 +216,7 @@
                 "thumb": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b85bd48-d00b-4567-8546-294522bb303b_6000x3377.jpeg"
             },
             {
-                "id": "f094e014-5fa6-4ccd-8213-20deb69a7096",
+                "id": "6f1cf537-44c8-420d-8f43-e1ac441fe662",
                 "time": "2025-02-08T15:00:00+00:00",
                 "country": "England - FA Cup",
                 "league": "England - FA Cup",
@@ -228,9 +228,9 @@
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://dokko1new.iosplayer.ru/dokko1/premium590/mono.m3u8?token=none",
+                    "m3u8_1": "https://windnew.iosplayer.ru/wind/premium406/mono.m3u8?token=none",
+                    "m3u8_2": "https://dokko1new.iosplayer.ru/dokko1/premium590/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -246,7 +246,7 @@
                 "thumb": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3562631671388421032"
             },
             {
-                "id": "555213c0-c2df-4190-a54a-41d50ce697c3",
+                "id": "4b93e16c-0e47-4b8b-affb-66e79a3c4634",
                 "time": "2025-02-08T17:45:00+00:00",
                 "country": "England - FA Cup",
                 "league": "England - FA Cup",
@@ -258,9 +258,9 @@
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://ddy6new.iosplayer.ru/ddy6/premium356/mono.m3u8?token=none",
+                    "m3u8_1": "https://dokko1new.iosplayer.ru/dokko1/premium592/mono.m3u8?token=none",
+                    "m3u8_2": "https://windnew.iosplayer.ru/wind/premium410/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -276,7 +276,7 @@
                 "thumb": "https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/6e03/live/a4520030-e570-11ef-8b8c-73fc0bbdc30b.jpg"
             },
             {
-                "id": "ca416746-3bf6-4c48-97c5-e4e0eab75924",
+                "id": "c8041866-bc91-40f4-b94d-804b9e818608",
                 "time": "2025-02-08T20:00:00+00:00",
                 "country": "England - FA Cup",
                 "league": "England - FA Cup",
@@ -288,9 +288,9 @@
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://ddy6new.iosplayer.ru/ddy6/premium353/mono.m3u8?token=none",
+                    "m3u8_1": "https://dokko1new.iosplayer.ru/dokko1/premium590/mono.m3u8?token=none",
+                    "m3u8_2": "https://windnew.iosplayer.ru/wind/premium410/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -308,13 +308,13 @@
         ]
     },
     {
-        "id": "52a0f731-067a-439d-b7be-961132704a6a",
+        "id": "cb962285-d7f8-4d58-836e-6757ddc3cbf6",
         "competition": "Spain - La Liga",
         "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/c25779614560b527f15f7fc64f42d33f.jpg",
         "priority": 5,
         "matches": [
             {
-                "id": "43da6204-cdf8-415a-bfe9-fe10de49a672",
+                "id": "9f252cd6-0346-41e5-af28-be31bd19a45f",
                 "time": "2025-02-08T13:00:00+00:00",
                 "country": "Spain - La Liga",
                 "league": "Spain - La Liga",
@@ -344,7 +344,7 @@
                 "thumb": "https://cdn.dataskrive.com/api/asset/sid7GNZ.jpg"
             },
             {
-                "id": "beee0226-3479-4d34-873c-5211b1e8ff60",
+                "id": "d041ee27-9c72-48d5-9718-12da70c1f37e",
                 "time": "2025-02-08T17:30:00+00:00",
                 "country": "Spain - La Liga",
                 "league": "Spain - La Liga",
@@ -356,9 +356,9 @@
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://dokko1new.iosplayer.ru/dokko1/premium538/mono.m3u8?token=none",
+                    "m3u8_1": "https://dokko1new.iosplayer.ru/dokko1/premium530/mono.m3u8?token=none",
+                    "m3u8_2": "https://zekonew.iosplayer.ru/zeko/premium114/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -374,7 +374,7 @@
                 "thumb": "https://www.bangbet.com/news/wp-content/uploads/2025/02/DALL%C2%B7E-2025-02-07-12.55.50-A-bold-and-dynamic-digital-poster-for-Las-Palmas-vs.-Villarreal_-La-Liga-Clash-%E2%80%93-Prediction-Betting-Tips-Match-Preview.-The-poster-features-vibra.webp"
             },
             {
-                "id": "1bd1ece5-4af9-4ce2-adbd-fc3e34e58640",
+                "id": "f6daaf27-48bb-40c7-bcef-2990ec19d0a2",
                 "time": "2025-02-08T20:00:00+00:00",
                 "country": "Spain - La Liga",
                 "league": "Spain - La Liga",
@@ -386,9 +386,9 @@
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://windnew.iosplayer.ru/wind/premium84/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2new.iosplayer.ru/ddh2/premium12/mono.m3u8?token=none",
+                    "m3u8_2": "https://windnew.iosplayer.ru/wind/premium276/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -406,13 +406,13 @@
         ]
     },
     {
-        "id": "e4b24b45-9082-48d2-83d0-f615a4e36911",
+        "id": "18eec46e-27b5-4996-abd4-07ecce5431dd",
         "competition": "Bundesliga",
         "thumbnail": "https://d11p0alxbet5ud.cloudfront.net/Pictures/2000x2000fit/9/8/9/1316989_bundesligaimage_330319.jpg",
         "priority": 6,
         "matches": [
             {
-                "id": "70bc6b4c-2be6-4f53-9792-092a90947640",
+                "id": "4c4f5c4c-6e24-4cdf-8fa4-ed7be6a9e58f",
                 "time": "2025-02-08T14:30:00+00:00",
                 "country": "Bundesliga",
                 "league": "Bundesliga",
@@ -442,7 +442,7 @@
                 "thumb": "https://s.yimg.com/uu/api/res/1.2/XmDN6BOV01wfVUJvr65TDw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/e1fece45-d1d7-4a35-8a90-f8952d189923/main/1280x720/9s88ms/match/image.jpg"
             },
             {
-                "id": "34099026-fc75-4f2d-97d3-32b6ddc1c0d1",
+                "id": "06a68a67-e13f-4189-a272-24b4e433f181",
                 "time": "2025-02-08T14:30:00+00:00",
                 "country": "Bundesliga",
                 "league": "Bundesliga",
@@ -472,7 +472,7 @@
                 "thumb": "https://www.getfootballnewsgermany.com/assets/borussia-dortmund-v-vfl-wolfsburg-bundesliga-9-scaled.jpg"
             },
             {
-                "id": "89322ae0-ac37-4feb-9f01-ffe50b4ed207",
+                "id": "3b9e2cce-d341-47b9-b9f3-b34bf9ccd26b",
                 "time": "2025-02-08T14:30:00+00:00",
                 "country": "Bundesliga",
                 "league": "Bundesliga",
@@ -502,7 +502,7 @@
                 "thumb": "https://i.ytimg.com/vi/Nt8pLoG0kHM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCNV15Syny6D4DVpJIZWlSRmLi5ww"
             },
             {
-                "id": "ddfd1083-8d7d-4dab-855e-0627932f5b9f",
+                "id": "f1882846-9893-46fb-8435-ddf14ac3c0f7",
                 "time": "2025-02-08T14:30:00+00:00",
                 "country": "Bundesliga",
                 "league": "Bundesliga",
@@ -532,7 +532,7 @@
                 "thumb": "https://bulinews.com/i/640/7613.jpg"
             },
             {
-                "id": "6990c497-6c64-4cde-b30c-905bc5c80f0e",
+                "id": "eaa4a25e-85e9-491b-9ef0-0044b213cee9",
                 "time": "2025-02-08T14:30:00+00:00",
                 "country": "Bundesliga",
                 "league": "Bundesliga",
@@ -562,7 +562,7 @@
                 "thumb": "https://i.ytimg.com/vi/Yso48nxdodM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDzdyGTMGzBh1sQxt__Fp0xYT1ZBg"
             },
             {
-                "id": "546b2988-05de-4a88-a916-e6a1c4f6a371",
+                "id": "5177165e-de00-4d16-840e-18a649b120cf",
                 "time": "2025-02-08T14:30:00+00:00",
                 "country": "Bundesliga",
                 "league": "Bundesliga",
@@ -574,9 +574,9 @@
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium5/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddy6new.iosplayer.ru/ddy6/premium497/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh2new.iosplayer.ru/ddh2/premium5/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -592,7 +592,7 @@
                 "thumb": "https://bulinews.com/i/640/7615.jpg"
             },
             {
-                "id": "20ef9e1c-eefd-41d2-a573-13b486648614",
+                "id": "e6099b54-7c62-4899-841f-fbca18cb2621",
                 "time": "2025-02-08T17:30:00+00:00",
                 "country": "Bundesliga",
                 "league": "Bundesliga",
@@ -604,9 +604,9 @@
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://ddy6new.iosplayer.ru/ddy6/premium558/mono.m3u8?token=none",
+                    "m3u8_1": "https://zekonew.iosplayer.ru/zeko/premium36/mono.m3u8?token=none",
+                    "m3u8_2": "https://dokko1new.iosplayer.ru/dokko1/premium556/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -624,13 +624,13 @@
         ]
     },
     {
-        "id": "8af4d268-d708-459e-92b2-6797bec4cef0",
+        "id": "15781e88-48ce-488b-9961-8fbc10ea6686",
         "competition": "France - Ligue 1",
         "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/8725b8ac7f3c28e5cb15a95d8446b86e.jpg",
         "priority": 7,
         "matches": [
             {
-                "id": "82041194-cd45-4b3e-81b8-7515711c518f",
+                "id": "7567ca2e-cc29-415c-b184-fdac4e03210e",
                 "time": "2025-02-08T16:00:00+00:00",
                 "country": "France - Ligue 1",
                 "league": "France - Ligue 1",
@@ -642,9 +642,9 @@
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://zekonew.iosplayer.ru/zeko/premium116/mono.m3u8?token=none",
+                    "m3u8_1": "https://zekonew.iosplayer.ru/zeko/premium425/mono.m3u8?token=none",
+                    "m3u8_2": "https://zekonew.iosplayer.ru/zeko/premium372/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -660,7 +660,7 @@
                 "thumb": "https://cdn.dataskrive.com/api/asset/Y3S7xaL.jpg"
             },
             {
-                "id": "f3fe5a19-c2f7-43fa-a1fe-ffacf78e42c4",
+                "id": "f1dfb322-f495-4ef0-8660-cb407be08c4a",
                 "time": "2025-02-08T18:00:00+00:00",
                 "country": "France - Ligue 1",
                 "league": "France - Ligue 1",
@@ -672,9 +672,9 @@
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://windnew.iosplayer.ru/wind/premium68/mono.m3u8?token=none",
+                    "m3u8_1": "https://zekonew.iosplayer.ru/zeko/premium425/mono.m3u8?token=none",
+                    "m3u8_2": "https://zekonew.iosplayer.ru/zeko/premium372/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -690,7 +690,7 @@
                 "thumb": "https://www.thestatszone.com/imager/93976/1730375485_b0464c6958.jpg"
             },
             {
-                "id": "295a7d91-c1ba-42c6-9f59-93e1bd4782ac",
+                "id": "9fe704e0-1c6c-43e0-83de-52ff25d0235a",
                 "time": "2025-02-08T20:05:00+00:00",
                 "country": "France - Ligue 1",
                 "league": "France - Ligue 1",
@@ -702,9 +702,9 @@
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://windnew.iosplayer.ru/wind/premium68/mono.m3u8?token=none",
+                    "m3u8_1": "https://zekonew.iosplayer.ru/zeko/premium425/mono.m3u8?token=none",
+                    "m3u8_2": "https://zekonew.iosplayer.ru/zeko/premium372/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -722,13 +722,13 @@
         ]
     },
     {
-        "id": "6ac2f961-59b0-4377-9e04-1e954a002abb",
+        "id": "2b24fabe-6e3f-4f66-b2c7-a37dc2fdd546",
         "competition": "Italy - Serie A",
         "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/de91df625c075b3e0b8e0a0d16d1b5c5.jpg",
         "priority": 8,
         "matches": [
             {
-                "id": "9d54a73d-2104-4b7f-8c6c-1f561aab7f01",
+                "id": "0e52f038-3dda-4de9-9ac6-387636d20a20",
                 "time": "2025-02-08T14:00:00+00:00",
                 "country": "Italy - Serie A",
                 "league": "Italy - Serie A",
@@ -758,7 +758,7 @@
                 "thumb": "https://news.22bet.com/wp-content/uploads/2025/02/Verona-vs-Atalanta.jpg"
             },
             {
-                "id": "8fe6aa0c-e504-4a05-86a9-20fc06d3cb17",
+                "id": "59d406e6-1f7e-4425-a691-e3355b584f0d",
                 "time": "2025-02-08T17:00:00+00:00",
                 "country": "Italy - Serie A",
                 "league": "Italy - Serie A",
@@ -770,9 +770,9 @@
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium877/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddy6new.iosplayer.ru/ddy6/premium427/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddy6new.iosplayer.ru/ddy6/premium454/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -788,7 +788,7 @@
                 "thumb": "https://sportcdns.live/news-2/f3ca83b2a4f57634874c4d0b215bdf6a47db1e47f2213e19eb2e2fcd6cd1862f.jpeg"
             },
             {
-                "id": "eb563366-b695-4c1e-8ce9-57eebecfeb6f",
+                "id": "6a057a6c-b3bd-4277-9d52-da339563828e",
                 "time": "2025-02-08T19:45:00+00:00",
                 "country": "Italy - Serie A",
                 "league": "Italy - Serie A",
@@ -800,9 +800,9 @@
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium22/mono.m3u8?token=none",
+                    "m3u8_1": "https://windnew.iosplayer.ru/wind/premium870/mono.m3u8?token=none",
+                    "m3u8_2": "https://zekonew.iosplayer.ru/zeko/premium910/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -820,13 +820,13 @@
         ]
     },
     {
-        "id": "e1425793-33ca-4e72-9934-07fafef7b902",
+        "id": "5d4a0a4c-2fb1-45a9-9cb6-2cd6343823d6",
         "competition": "England - Championship",
         "thumbnail": "https://i2-prod.chroniclelive.co.uk/incoming/article11450315.ece/ALTERNATES/s615/EFL.jpg",
         "priority": 10,
         "matches": [
             {
-                "id": "fadb0237-f99b-4933-ae9d-0e537bdaf0c3",
+                "id": "97b87fe2-02e7-4985-ac75-9925aa211f97",
                 "time": "2025-02-08T12:30:00+00:00",
                 "country": "England - Championship",
                 "league": "England - Championship",
@@ -855,7 +855,7 @@
                 "thumb": "https://pbs.twimg.com/amplify_video_thumb/1887796657170886658/img/N4tNk7imKF1OYnUB?format=jpg&name=large"
             },
             {
-                "id": "52a9bc90-8bc1-43aa-b667-033a62d94b0a",
+                "id": "4ed9d572-f435-4b4b-9797-e4d07e50ae88",
                 "time": "2025-02-08T15:00:00+00:00",
                 "country": "England - Championship",
                 "league": "England - Championship",
@@ -884,7 +884,7 @@
                 "thumb": "https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/3719/live/74235070-e53a-11ef-a319-fb4e7360c4ec.png"
             },
             {
-                "id": "72a1f58a-42aa-438a-af70-e54c1447ddce",
+                "id": "9f765373-8ad9-4206-aad3-537bf600ff0f",
                 "time": "2025-02-08T15:00:00+00:00",
                 "country": "England - Championship",
                 "league": "England - Championship",
@@ -914,7 +914,7 @@
                 "thumb": "https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Ficdn.sheffunitedway.co.uk%2Fwp-content%2Fuploads%2F2024%2F09%2F20240929_115411.jpg"
             },
             {
-                "id": "d9f7db6a-c932-4f61-a9f2-01b60aeca73e",
+                "id": "91286308-9eb7-406f-a826-a978dec1a062",
                 "time": "2025-02-08T12:30:00+00:00",
                 "country": "England - Championship",
                 "league": "England - Championship",
@@ -946,13 +946,13 @@
         ]
     },
     {
-        "id": "85a15385-a81e-4102-a014-db05018f267e",
+        "id": "829d174a-a1f0-4ff0-8dda-74078a7e2760",
         "competition": "Saudi Arabia - Pro League",
         "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/9f666aad4665ccc5a1c5b007ccae9f90.jpg",
         "priority": 11,
         "matches": [
             {
-                "id": "d9715d86-75e5-4ace-9969-97bc8d266625",
+                "id": "1f4b34d8-7f29-4810-b98a-ee5fc027f888",
                 "time": "2025-02-08T13:55:00+00:00",
                 "country": "Saudi Arabia - Pro League",
                 "league": "Saudi Arabia - Pro League",
@@ -980,7 +980,7 @@
                 "thumb": "https://i0.wp.com/nobartv.co.id/wp-content/uploads/2025/02/www.nobartv.co.id-prediksi-al-kholood-vs-al-riyadh-di-liga-arab-saudi-sabtu-82-2025.jpg?resize=780%2C470&ssl=1"
             },
             {
-                "id": "71dd297f-7510-49be-8418-8e3488beb728",
+                "id": "b465ccec-af14-4640-962f-28b645c567f1",
                 "time": "2025-02-08T15:40:00+00:00",
                 "country": "Saudi Arabia - Pro League",
                 "league": "Saudi Arabia - Pro League",
@@ -990,9 +990,9 @@
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium12/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2new.iosplayer.ru/ddh2/premium12/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh2new.iosplayer.ru/ddh2/premium12/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -1008,7 +1008,7 @@
                 "thumb": "https://assets.khelnow.com/news/uploads/2025/02/Al-Okhdood-v-Al-Ettifaq.jpg"
             },
             {
-                "id": "ee42d6ea-3a37-4cc0-8167-efc6c32ce531",
+                "id": "d9a57018-4c41-4dca-890d-ef1252d2089e",
                 "time": "2025-02-08T17:00:00+00:00",
                 "country": "Saudi Arabia - Pro League",
                 "league": "Saudi Arabia - Pro League",
@@ -1020,9 +1020,9 @@
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://ddh2new.iosplayer.ru/ddh2/premium19/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddy6new.iosplayer.ru/ddy6/premium756/mono.m3u8?token=none",
+                    "m3u8_2": "https://windnew.iosplayer.ru/wind/premium463/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -1040,13 +1040,13 @@
         ]
     },
     {
-        "id": "baee2321-d5df-4279-949b-a4a50ac04401",
+        "id": "5def8ed8-abe4-4fb6-bf0b-a6fc8439ec86",
         "competition": "Netherlands - Eredivisie",
         "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/8add846e89499cacd03ebd6fed96f67c.jpg",
         "priority": 13,
         "matches": [
             {
-                "id": "7e440633-5150-4dd7-8f4a-94a737ca704e",
+                "id": "674bf80a-aeda-4b33-9dc3-d11a2413d6c9",
                 "time": "2025-02-08T15:30:00+00:00",
                 "country": "Netherlands - Eredivisie",
                 "league": "Netherlands - Eredivisie",
@@ -1056,9 +1056,9 @@
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://windnew.iosplayer.ru/wind/premium888/mono.m3u8?token=none",
+                    "m3u8_1": "https://windnew.iosplayer.ru/wind/premium888/mono.m3u8?token=none",
+                    "m3u8_2": "https://windnew.iosplayer.ru/wind/premium888/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -1074,7 +1074,7 @@
                 "thumb": "https://footballwhispers.com/app/uploads/2024/10/Heracles-vs-Go-Ahead-Eagles-prediction.jpg"
             },
             {
-                "id": "ad3d7141-b9b4-4a42-a670-1b1e4d64c6b7",
+                "id": "b696305b-7d00-4e7e-b82d-59f72aa46a01",
                 "time": "2025-02-08T17:45:00+00:00",
                 "country": "Netherlands - Eredivisie",
                 "league": "Netherlands - Eredivisie",
@@ -1086,9 +1086,9 @@
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://zekonew.iosplayer.ru/zeko/premium386/mono.m3u8?token=none",
+                    "m3u8_1": "https://dokko1new.iosplayer.ru/dokko1/premium571/mono.m3u8?token=none",
+                    "m3u8_2": "https://windnew.iosplayer.ru/wind/premium124/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -1104,7 +1104,7 @@
                 "thumb": "https://mena-img-cdn-lb.aws.playco.com/474w/dutchleague/08022025DLPSVEINDHOVENVSWILLEMIILIVEY2025M/08022025DLPSVEINDHOVENVSWILLEMIILIVEY2025M-474x677-PST.jpg"
             },
             {
-                "id": "3efee0b3-34ad-496b-88a0-ec95dc3ae7ae",
+                "id": "191bee21-6da1-4baa-b518-c7372703549e",
                 "time": "2025-02-08T19:00:00+00:00",
                 "country": "Netherlands - Eredivisie",
                 "league": "Netherlands - Eredivisie",
@@ -1114,9 +1114,9 @@
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://zekonew.iosplayer.ru/zeko/premium379/mono.m3u8?token=none",
+                    "m3u8_1": "https://zekonew.iosplayer.ru/zeko/premium379/mono.m3u8?token=none",
+                    "m3u8_2": "https://zekonew.iosplayer.ru/zeko/premium379/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -1132,7 +1132,7 @@
                 "thumb": "https://pbs.twimg.com/media/GjNO4LlXcAArbFW?format=jpg&name=large"
             },
             {
-                "id": "ec2a9d6f-dd1d-42e2-8f0c-e2830e693e8d",
+                "id": "d77e6f78-9cea-4c08-befd-e4edd3377071",
                 "time": "2025-02-08T20:00:00+00:00",
                 "country": "Netherlands - Eredivisie",
                 "league": "Netherlands - Eredivisie",
@@ -1144,9 +1144,9 @@
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://zekonew.iosplayer.ru/zeko/premium386/mono.m3u8?token=none",
+                    "m3u8_1": "https://windnew.iosplayer.ru/wind/premium161/mono.m3u8?token=none",
+                    "m3u8_2": "https://dokko1new.iosplayer.ru/dokko1/premium571/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -1164,13 +1164,13 @@
         ]
     },
     {
-        "id": "220722bf-c99d-45d4-961c-8930434ee5c7",
+        "id": "80940a2c-11bb-418f-930f-01e770deed91",
         "competition": "Super Lig",
         "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/0a9e8451b00c6d118ffac308b831a86a.jpg",
         "priority": 17,
         "matches": [
             {
-                "id": "bc7ec5e5-21c5-4f52-a865-dd0bb4e36d53",
+                "id": "4d490e16-5da3-4c74-9d12-65029d753f8e",
                 "time": "2025-02-08T13:00:00+00:00",
                 "country": "Super Lig",
                 "league": "Super Lig",
@@ -1198,7 +1198,7 @@
                 "thumb": "https://i.turkiyetoday.com/wp-content/uploads/2024/08/AA-20240810-35372913-35372911-KASIMPASA_TUMOSAN_KONYASPOR-1600x1067.jpg"
             },
             {
-                "id": "791857a3-a65d-44da-9d80-3f888caed142",
+                "id": "98cf541b-3aaa-407b-86b1-fd71b7b8908d",
                 "time": "2025-02-08T16:00:00+00:00",
                 "country": "Super Lig",
                 "league": "Super Lig",
@@ -1210,9 +1210,9 @@
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://zekonew.iosplayer.ru/zeko/premium62/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddy6new.iosplayer.ru/ddy6/premium290/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddy6new.iosplayer.ru/ddy6/premium499/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -1230,13 +1230,13 @@
         ]
     },
     {
-        "id": "8f87a52a-2cb6-4770-87f5-3fd072039927",
+        "id": "efd88220-df7e-4399-89c0-9dfa27423159",
         "competition": "Portugal - Primeira Liga",
         "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/09e634516b77d5354f4cfdd292416acd.jpg",
         "priority": 21,
         "matches": [
             {
-                "id": "ccbeb093-920b-421a-921a-818788569524",
+                "id": "bcaf97fc-e482-4c97-9711-1ae6dbedc72c",
                 "time": "2025-02-08T15:30:00+00:00",
                 "country": "Portugal - Primeira Liga",
                 "league": "Portugal - Primeira Liga",
@@ -1247,9 +1247,9 @@
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://windnew.iosplayer.ru/wind/premium49/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2new.iosplayer.ru/ddh2/premium597/mono.m3u8?token=none",
+                    "m3u8_2": "https://windnew.iosplayer.ru/wind/premium49/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -1265,7 +1265,7 @@
                 "thumb": "https://as00.epimg.net/img/comunes/directos/futbol/04/6155_1689.jpg"
             },
             {
-                "id": "6b41ee06-d8a2-4e23-b5fc-0b5fe9acacb6",
+                "id": "7a0c031d-c79a-4039-81c4-943a8d90adbe",
                 "time": "2025-02-08T18:00:00+00:00",
                 "country": "Portugal - Primeira Liga",
                 "league": "Portugal - Primeira Liga",
@@ -1277,9 +1277,9 @@
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://dokko1new.iosplayer.ru/dokko1/premium380/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddh2new.iosplayer.ru/ddh2/premium597/mono.m3u8?token=none",
+                    "m3u8_2": "https://ddh2new.iosplayer.ru/ddh2/premium10/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -1295,7 +1295,7 @@
                 "thumb": "https://ng-sportingnews.com/s3/files/styles/crop_style_16_9_desktop/s3/2025-02/Benfica-Moreirense-02072025.png?h=57feb837&itok=T-Y-q3_A"
             },
             {
-                "id": "0f4ab835-d217-4bcf-abcc-525d810cdef2",
+                "id": "35cb236f-004b-40f2-90b2-a6ccab874eab",
                 "time": "2025-02-08T20:30:00+00:00",
                 "country": "Portugal - Primeira Liga",
                 "league": "Portugal - Primeira Liga",
@@ -1307,9 +1307,9 @@
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://windnew.iosplayer.ru/wind/premium49/mono.m3u8?token=none",
+                    "m3u8_1": "https://dokko1new.iosplayer.ru/dokko1/premium623/mono.m3u8?token=none",
+                    "m3u8_2": "https://windnew.iosplayer.ru/wind/premium453/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
