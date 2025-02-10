@@ -1,12 +1,12 @@
 [
     {
-        "id": "888b248a-c384-409d-b65e-9ebaa3d48d80",
+        "id": "12360c21-cb46-431c-9000-2efbf03f5c95",
         "competition": "England - FA Cup",
         "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/b1843b112d7631ef87f5bad920282ed5.jpg",
         "priority": 3,
         "matches": [
             {
-                "id": "c1cfcedc-615f-44f9-8773-fe8759a6da93",
+                "id": "ddda12d7-2b98-4e5e-90b3-5769342bfdfe",
                 "time": "2025-02-10T19:45:00+00:00",
                 "country": "England - FA Cup",
                 "league": "England - FA Cup",
@@ -18,9 +18,9 @@
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://dokko1new.iosplayer.ru/dokko1/premium591/mono.m3u8?token=none",
+                    "m3u8_1": "https://windnew.iosplayer.ru/wind/premium406/mono.m3u8?token=none",
+                    "m3u8_2": "https://windnew.iosplayer.ru/wind/premium408/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -38,13 +38,13 @@
         ]
     },
     {
-        "id": "01bb6567-6c0c-49ac-bf19-91489d583500",
+        "id": "3796a6e0-59ad-4249-9990-5dd5dc4736a8",
         "competition": "Spain - La Liga",
         "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/c25779614560b527f15f7fc64f42d33f.jpg",
         "priority": 5,
         "matches": [
             {
-                "id": "07140fb1-7697-47b4-b65c-9732bdf038f8",
+                "id": "2ea96262-122c-4b0c-8a57-ca02132d3c3e",
                 "time": "2025-02-10T20:00:00+00:00",
                 "country": "Spain - La Liga",
                 "league": "Spain - La Liga",
@@ -56,9 +56,9 @@
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://windnew.iosplayer.ru/wind/premium84/mono.m3u8?token=none",
+                    "m3u8_1": "https://windnew.iosplayer.ru/wind/premium276/mono.m3u8?token=none",
+                    "m3u8_2": "https://windnew.iosplayer.ru/wind/premium451/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -76,13 +76,13 @@
         ]
     },
     {
-        "id": "90685da6-332b-4f6b-9758-510f664bf36b",
+        "id": "f1db6b5c-40cd-4084-9ea9-77af1caac0a5",
         "competition": "Italy - Serie A",
         "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/de91df625c075b3e0b8e0a0d16d1b5c5.jpg",
         "priority": 8,
         "matches": [
             {
-                "id": "6c28fb1e-e7d1-4db6-9e83-4a3ff7c9a883",
+                "id": "0a73924f-1752-44f3-846e-6eb4bc29b9a0",
                 "time": "2025-02-10T19:45:00+00:00",
                 "country": "Italy - Serie A",
                 "league": "Italy - Serie A",
@@ -114,13 +114,13 @@
         ]
     },
     {
-        "id": "edbc12c8-e2be-4e3b-bfb9-16e8b50842e2",
+        "id": "77e3ae2a-8048-448e-b396-a3c38ed9b12a",
         "competition": "Super Lig",
         "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/0a9e8451b00c6d118ffac308b831a86a.jpg",
         "priority": 17,
         "matches": [
             {
-                "id": "e1c03d2e-ef18-478d-b4b2-e89f06c67c5a",
+                "id": "ab92f21d-f4df-4e83-9f34-c435649b6645",
                 "time": "2025-02-10T17:00:00+00:00",
                 "country": "Super Lig",
                 "league": "Super Lig",
@@ -132,9 +132,9 @@
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://zekonew.iosplayer.ru/zeko/premium62/mono.m3u8?token=none",
+                    "m3u8_1": "https://ddy6new.iosplayer.ru/ddy6/premium138/mono.m3u8?token=none",
+                    "m3u8_2": "https://zekonew.iosplayer.ru/zeko/premium62/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -150,7 +150,7 @@
                 "thumb": "https://betting.bc.game/wp-content/uploads/2025/02/trabzonspor-vs-eyupspor-prediction-600x400.webp"
             },
             {
-                "id": "232ea681-9bf0-4c70-a749-6385db7ac4b5",
+                "id": "3adc8db7-76c0-4a18-904b-9ec7b2965fd4",
                 "time": "2025-02-10T17:00:00+00:00",
                 "country": "Super Lig",
                 "league": "Super Lig",
@@ -161,9 +161,9 @@
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://zekonew.iosplayer.ru/zeko/premium63/mono.m3u8?token=none",
+                    "m3u8_1": "https://windnew.iosplayer.ru/wind/premium103/mono.m3u8?token=none",
+                    "m3u8_2": "https://zekonew.iosplayer.ru/zeko/premium63/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
@@ -181,13 +181,13 @@
         ]
     },
     {
-        "id": "1eee9a45-5556-4407-9da8-110d81b9e4bf",
+        "id": "fa8bdf0c-749a-44d7-bcfc-e1284b360953",
         "competition": "Portugal - Primeira Liga",
         "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/09e634516b77d5354f4cfdd292416acd.jpg",
         "priority": 21,
         "matches": [
             {
-                "id": "94b2f610-8411-47a2-bf1a-333728d69ac5",
+                "id": "8386bfed-c390-4899-83f3-b307638e11e9",
                 "time": "2025-02-10T20:15:00+00:00",
                 "country": "Portugal - Primeira Liga",
                 "league": "Portugal - Primeira Liga",
@@ -199,9 +199,9 @@
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                    "m3u8_url": "https://windnew.iosplayer.ru/wind/premium49/mono.m3u8?token=none",
+                    "m3u8_1": "https://dokko1new.iosplayer.ru/dokko1/premium630/mono.m3u8?token=none",
+                    "m3u8_2": "https://windnew.iosplayer.ru/wind/premium103/mono.m3u8?token=none"
                 },
                 "headers": {
                     "referer": "https://cookiewebplay.xyz/",
