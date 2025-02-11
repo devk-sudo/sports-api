@@ -1,12 +1,12 @@
 [
     {
-        "id": "a7e5089c-2979-485b-9a0b-f8792e259e98",
+        "id": "5dadb87b-db7a-4b17-94e0-b531a0fd6da7",
         "competition": "UEFA Champions League",
         "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/2bebb389e6e3eec1aff94832b6626df5.jpg",
         "priority": 1,
         "matches": [
             {
-                "id": "17ccf302-c0db-4f83-a8a8-967107be9263",
+                "id": "a5ca3f60-4406-4dfe-914f-eba13c046d57",
                 "time": "2025-02-11T17:45:00+00:00",
                 "country": "UEFA Champions League",
                 "league": "UEFA Champions League",
@@ -36,7 +36,7 @@
                 "thumb": "https://s.yimg.com/ny/api/res/1.2/qanBiDkvMBDSHEx2xkGP8g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQ2NQ--/https://s.yimg.com/os/creatr-uploaded-images/2025-02/6ada41b0-e259-11ef-b5d7-04160c855bac"
             },
             {
-                "id": "40588c42-1ced-412e-82b6-986ba7f506a7",
+                "id": "c0cf997e-d15f-4a6e-9981-c16e4dea9bfe",
                 "time": "2025-02-11T20:00:00+00:00",
                 "country": "UEFA Champions League",
                 "league": "UEFA Champions League",
@@ -66,7 +66,7 @@
                 "thumb": "https://theoleballcoach.com/wp-content/uploads/2025/02/image-7.png"
             },
             {
-                "id": "d801d926-61ae-420d-ba64-c26a7cf2ff75",
+                "id": "62b52c1c-9598-4e6f-952c-3ffce403ac56",
                 "time": "2025-02-11T20:00:00+00:00",
                 "country": "UEFA Champions League",
                 "league": "UEFA Champions League",
@@ -93,10 +93,10 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://img.vavel.com/juventus-psv-1739224258726.jpg"
+                "thumb": "https://cdn.vox-cdn.com/thumbor/jYWdx2hGIQG6bHMNGrJ3TMAOb68=/0x71:3564x2376/1200x800/filters:focal(1431x624:2001x1194)/cdn.vox-cdn.com/uploads/chorus_image/image/73899261/2172648314.0.jpg"
             },
             {
-                "id": "773d8767-1f40-40a6-8f69-41699099f441",
+                "id": "00af4290-a4df-4606-8854-8d40e72cadc5",
                 "time": "2025-02-11T20:00:00+00:00",
                 "country": "UEFA Champions League",
                 "league": "UEFA Champions League",
@@ -124,17 +124,47 @@
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
                 "thumb": "https://assets.bundesliga.com/contender/2025/1/kovac_bvb.jpg?crop=142px,0px,1566px,1252px&fit=540,540"
+            },
+            {
+                "id": "bb4b8333-e35e-4374-bdfe-46694db8e56a",
+                "time": "2025-02-11T20:00:00+00:00",
+                "country": "UEFA Champions League",
+                "league": "UEFA Champions League",
+                "match": "Manchester City vs Real Madrid",
+                "links": [
+                    "https://thedaddy.to/embed/stream-435.php",
+                    "https://thedaddy.to/embed/stream-426.php",
+                    "https://thedaddy.to/embed/stream-455.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                },
+                "thumb": "https://i.ytimg.com/vi/uAs4bhN2k9A/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB6ZlVssHbcZiik1NjldNu4ikX0uA"
             }
         ]
     },
     {
-        "id": "bec9734b-0bae-41a3-a5ce-2f40773dcf7f",
+        "id": "0f985b80-f511-41fc-a84c-aa7211e046f4",
         "competition": "England - FA Cup",
         "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/b1843b112d7631ef87f5bad920282ed5.jpg",
         "priority": 3,
         "matches": [
             {
-                "id": "04acea52-a449-4a25-b9d5-0d359cdc216a",
+                "id": "828686dd-9b5d-4922-b886-6ae5bc405044",
                 "time": "2025-02-11T20:00:00+00:00",
                 "country": "England - FA Cup",
                 "league": "England - FA Cup",
@@ -166,13 +196,13 @@
         ]
     },
     {
-        "id": "96e76d7c-40e9-408f-922d-2e21db186aa6",
+        "id": "21dc0c20-8413-4281-a097-81a09a3873a1",
         "competition": "England - Championship",
         "thumbnail": "https://i2-prod.chroniclelive.co.uk/incoming/article11450315.ece/ALTERNATES/s615/EFL.jpg",
         "priority": 10,
         "matches": [
             {
-                "id": "2f9d73ba-2e8f-4c81-8286-d775e23c3d30",
+                "id": "6f34694e-e1c3-4769-9032-8106d9a89bf4",
                 "time": "2025-02-11T19:45:00+00:00",
                 "country": "England - Championship",
                 "league": "England - Championship",
@@ -200,7 +230,7 @@
                 "thumb": "https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/d978/live/b50d3eb0-e7ac-11ef-bd1b-d536627785f2.png"
             },
             {
-                "id": "d9ede56c-7697-4d00-9d1c-f9d80321c1eb",
+                "id": "ae45f411-48e5-49e1-9af9-fde0721ef36f",
                 "time": "2025-02-11T19:45:00+00:00",
                 "country": "England - Championship",
                 "league": "England - Championship",
@@ -228,7 +258,7 @@
                 "thumb": "https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/3c29/live/15ff9200-e7a7-11ef-a819-277e390a7a08.png"
             },
             {
-                "id": "a55e550c-dcce-454d-806a-5d602b4b6316",
+                "id": "02a63c17-6301-4fcf-9762-f1318cf48815",
                 "time": "2025-02-11T19:45:00+00:00",
                 "country": "England - Championship",
                 "league": "England - Championship",
@@ -256,7 +286,7 @@
                 "thumb": "https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/43d0/live/05fcd010-e7c6-11ef-a319-fb4e7360c4ec.png"
             },
             {
-                "id": "2ef75c82-455f-43e7-ad19-92d7feba43ff",
+                "id": "35eec1b6-af06-45a5-b787-b4093c880993",
                 "time": "2025-02-11T19:45:00+00:00",
                 "country": "England - Championship",
                 "league": "England - Championship",
@@ -284,7 +314,7 @@
                 "thumb": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/9629/live/c0cd0850-e7a4-11ef-a319-fb4e7360c4ec.png.webp"
             },
             {
-                "id": "72556b1b-8eb0-4f6e-9765-1f2d127e43a8",
+                "id": "c226d9e8-1f7d-4552-9ae4-351ea0380e0d",
                 "time": "2025-02-11T20:00:00+00:00",
                 "country": "England - Championship",
                 "league": "England - Championship",
@@ -311,18 +341,18 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5e39/live/c0c42320-e7ae-11ef-a319-fb4e7360c4ec.png"
+                "thumb": "https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/5e39/live/c0c42320-e7ae-11ef-a319-fb4e7360c4ec.png"
             }
         ]
     },
     {
-        "id": "2e733660-258e-438e-90ca-b1afaf226a40",
+        "id": "d055551d-560e-4643-b488-f5ab3290143a",
         "competition": "AFC Champions League Elite",
         "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/990dd499916247af758ebd4d6c550305.jpg",
         "priority": 11,
         "matches": [
             {
-                "id": "4073aa54-aaae-46ea-a3cf-ed45b77b741b",
+                "id": "09204092-1380-40f1-9851-783f991dcda5",
                 "time": "2025-02-11T08:00:00+00:00",
                 "country": "AFC Champions League Elite",
                 "league": "AFC Champions League Elite",
@@ -349,10 +379,10 @@
                     "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
                 },
-                "thumb": "https://i.ytimg.com/vi/N2sa1lOxPBM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAj2XL68_X2dBizTopgVLnbsSnVeQ"
+                "thumb": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3565319336090829311"
             },
             {
-                "id": "0a7e7d0d-476a-4d94-a08c-f3533bda625f",
+                "id": "85f9124c-229f-4c3c-8db9-a23e4271fcac",
                 "time": "2025-02-11T10:00:00+00:00",
                 "country": "AFC Champions League Elite",
                 "league": "AFC Champions League Elite",
@@ -382,7 +412,7 @@
                 "thumb": "https://assets.the-afc.com/2024-25_ACL_Elite/Matches/League_Stage/East/MD7/Vissel_Kobe_JPN_v_Shanghai_Port_FC_CHN/Match/Vissel-Kobe-v-Shanghai-Port-PREVIEW.jpg"
             },
             {
-                "id": "3ba5ff9a-fe74-429d-8fd2-2811f54dca77",
+                "id": "0bafc428-c1c8-4b52-a1dd-bad105b67c7d",
                 "time": "2025-02-11T10:00:00+00:00",
                 "country": "AFC Champions League Elite",
                 "league": "AFC Champions League Elite",
@@ -411,7 +441,7 @@
                 "thumb": "https://statico.sportskeeda.com/editor/2025/02/4c255-17391563761501-1920.jpg?w=640"
             },
             {
-                "id": "e45e0e37-72bb-4492-b76f-2ebd9dfb7316",
+                "id": "68834a34-e302-4ca2-91e1-efa34a6b4790",
                 "time": "2025-02-11T12:00:00+00:00",
                 "country": "AFC Champions League Elite",
                 "league": "AFC Champions League Elite",
@@ -443,13 +473,13 @@
         ]
     },
     {
-        "id": "76d28b94-47ef-4ac9-9bf4-00b8a1630a9c",
+        "id": "78d19770-16e8-419b-ac29-88cd861b38b9",
         "competition": "Club Friendly",
         "thumbnail": "https://cdn.footystats.org/img/competitions/international-club-friendlies-1.png",
         "priority": 16,
         "matches": [
             {
-                "id": "7a4beba2-ccac-4cc7-b38c-a9694c17de64",
+                "id": "71984e97-0a74-46c2-a997-89931987b70f",
                 "time": "2025-02-11T03:30:00+00:00",
                 "country": "Club Friendly",
                 "league": "Club Friendly",
