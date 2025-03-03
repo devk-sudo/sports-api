@@ -1,1128 +1,253 @@
 [
     {
-        "id": "ae589078-a896-40a5-b339-80bf9512b1e1",
-        "competition": "Major League Soccer",
-        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/90ecf4926a4183fe714bd54a3eccf034.jpg",
-        "priority": 14,
-        "matches": [
-            {
-                "id": "be8e8bc2-fcff-4955-85a1-4caf09166416",
-                "time": "2025-03-02T00:00:00+00:00",
-                "country": "Major League Soccer",
-                "league": "Major League Soccer",
-                "match": "Houston Dynamo vs Inter Miami",
-                "links": [
-                    "https://daddylive.mp/embed/stream-59.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://windnew.koskoros.ru/wind/premium59/mono.m3u8",
-                    "m3u8_1": "https://windnew.koskoros.ru/wind/premium59/mono.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
-                    "user_agent2": "",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
-                    "user_agent3": ""
-                },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907966/event_banners/d157b38a-81b3-454b-816b-17771dc166ba.png"
-            },
-            {
-                "id": "8a4f5be2-cbe4-4345-a351-37948cef5454",
-                "time": "2025-03-02T22:00:00+00:00",
-                "country": "Major League Soccer",
-                "league": "Major League Soccer",
-                "match": "Vancouver Whitecaps vs LA Galaxy",
-                "links": [
-                    "https://daddylive.mp/embed/stream-114.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://zekonew.koskoros.ru/zeko/premium114/mono.m3u8",
-                    "m3u8_1": "https://zekonew.koskoros.ru/zeko/premium114/mono.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
-                    "user_agent2": "",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
-                    "user_agent3": ""
-                },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907966/event_banners/c83a6405-5be0-4417-8b7f-1a171a4b5581.png"
-            }
-        ]
-    },
-    {
-        "id": "4f613da1-3807-4a95-95b0-836107240dd2",
-        "competition": "Super Lig",
-        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/0a9e8451b00c6d118ffac308b831a86a.jpg",
+        "id": "09a84aea-eba0-41be-ad4c-79f54f8c9867",
+        "competition": "Turkey - Super Lig",
+        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/a72fbfe06370a6e44ae5e048d0920b7e.jpg",
         "priority": 17,
         "matches": [
             {
-                "id": "b0b26942-8347-4282-900e-29157a5e3c7e",
-                "time": "2025-03-02T10:30:00+00:00",
-                "country": "Super Lig",
-                "league": "Super Lig",
-                "match": "Rizespor vs Alanyaspor",
+                "id": "d3f3d7fb-0d91-4468-af57-3e72f4edaa66",
+                "time": "2025-03-03T13:00:00+00:00",
+                "country": "Turkey - Super Lig",
+                "league": "Turkey - Super Lig",
+                "match": "Gaziantep FK vs Eyüpspor",
                 "links": [
-                    "https://daddylive.mp/embed/stream-62.php"
+                    "https://daddylive.mp/embed/stream-63.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://zekonew.koskoros.ru/zeko/premium62/mono.m3u8",
-                    "m3u8_1": "https://zekonew.koskoros.ru/zeko/premium62/mono.m3u8",
+                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
                     "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
                 },
                 "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
                     "user_agent2": "",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": ""
                 },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907967/event_banners/91ce4548-15bc-4848-8544-a6ce5e9530a2.png"
+                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740976750/event_banners/9805f930-b20c-4c81-ab30-ce84deae0c5c.png"
             },
             {
-                "id": "48122c06-648c-4625-8748-d8ab99684dd7",
-                "time": "2025-03-02T13:00:00+00:00",
-                "country": "Super Lig",
-                "league": "Super Lig",
-                "match": "Kas\u0131mpa\u015fa vs Galatasaray",
+                "id": "b0d40bf4-c599-4200-a2f8-08b550fdc29b",
+                "time": "2025-03-03T13:00:00+00:00",
+                "country": "Turkey - Super Lig",
+                "league": "Turkey - Super Lig",
+                "match": "Konyaspor vs Trabzonspor",
                 "links": [
                     "https://daddylive.mp/embed/stream-62.php",
-                    "https://daddylive.mp/embed/stream-118.php",
-                    "https://daddylive.mp/embed/stream-102.php"
+                    "https://daddylive.mp/embed/stream-138.php",
+                    "https://daddylive.mp/embed/stream-494.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://zekonew.koskoros.ru/zeko/premium62/mono.m3u8",
-                    "m3u8_1": "https://zekonew.koskoros.ru/zeko/premium62/mono.m3u8",
-                    "m3u8_2": "https://zekonew.koskoros.ru/zeko/premium118/mono.m3u8"
+                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
                 },
                 "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": ""
                 },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907968/event_banners/e3c81de7-442a-4daa-a4d0-aec89c69bbe2.png"
+                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740976751/event_banners/8e51f466-c8aa-4e27-bb97-35c25ee1e5c7.png"
             },
             {
-                "id": "db04df48-ec5f-4f53-9686-e5dec566ae32",
-                "time": "2025-03-02T17:30:00+00:00",
-                "country": "Super Lig",
-                "league": "Super Lig",
-                "match": "Fenerbah\u00e7e vs Antalyaspor",
+                "id": "57d927cf-2ce7-4d3b-bd49-cd44ffdc2602",
+                "time": "2025-03-03T17:30:00+00:00",
+                "country": "Turkey - Super Lig",
+                "league": "Turkey - Super Lig",
+                "match": "Göztepe vs Samsunspor",
                 "links": [
                     "https://daddylive.mp/embed/stream-62.php",
-                    "https://daddylive.mp/embed/stream-425.php",
-                    "https://daddylive.mp/embed/stream-372.php"
+                    "https://daddylive.mp/embed/stream-453.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://zekonew.koskoros.ru/zeko/premium62/mono.m3u8",
-                    "m3u8_1": "https://zekonew.koskoros.ru/zeko/premium62/mono.m3u8",
-                    "m3u8_2": "https://zekonew.koskoros.ru/zeko/premium425/mono.m3u8"
-                },
-                "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907969/event_banners/b5cdefba-67b6-4a32-8333-65eb68b482a1.png"
-            }
-        ]
-    },
-    {
-        "id": "b2a36c48-f642-45fb-ac34-88a392b8c9a6",
-        "competition": "Netherlands - Eredivisie",
-        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/8add846e89499cacd03ebd6fed96f67c.jpg",
-        "priority": 13,
-        "matches": [
-            {
-                "id": "0fc715b5-25d6-4a45-8c12-de5e36d4c221",
-                "time": "2025-03-02T11:15:00+00:00",
-                "country": "Netherlands - Eredivisie",
-                "league": "Netherlands - Eredivisie",
-                "match": "Heerenveen vs AZ",
-                "links": [
-                    "https://daddylive.mp/embed/stream-386.php",
-                    "https://daddylive.mp/embed/stream-410.php",
-                    "https://daddylive.mp/embed/stream-571.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://zekonew.koskoros.ru/zeko/premium386/mono.m3u8",
-                    "m3u8_1": "https://zekonew.koskoros.ru/zeko/premium386/mono.m3u8",
-                    "m3u8_2": "https://windnew.koskoros.ru/wind/premium410/mono.m3u8"
-                },
-                "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907969/event_banners/4b10da38-f3fb-4d9e-a17b-c331c00ccd24.png"
-            },
-            {
-                "id": "c00cc210-6aab-4cee-b425-516c34fa7202",
-                "time": "2025-03-02T13:30:00+00:00",
-                "country": "Netherlands - Eredivisie",
-                "league": "Netherlands - Eredivisie",
-                "match": "Almere City vs Ajax",
-                "links": [
-                    "https://daddylive.mp/embed/stream-379.php",
-                    "https://daddylive.mp/embed/stream-169.php",
-                    "https://daddylive.mp/embed/stream-530.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://windnew.koskoros.ru/wind/premium169/mono.m3u8",
-                    "m3u8_1": "https://windnew.koskoros.ru/wind/premium169/mono.m3u8",
-                    "m3u8_2": "https://dokko1new.koskoros.ru/dokko1/premium530/mono.m3u8"
-                },
-                "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
-                    "user_agent3": ""
-                },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907970/event_banners/58e00e6d-833f-4caf-abac-9d62271c0347.png"
-            },
-            {
-                "id": "d0a21939-aba6-4946-bc63-ed3de3107cb9",
-                "time": "2025-03-02T13:30:00+00:00",
-                "country": "Netherlands - Eredivisie",
-                "league": "Netherlands - Eredivisie",
-                "match": "Heracles vs PEC Zwolle",
-                "links": [
-                    "https://daddylive.mp/embed/stream-888.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://windnew.koskoros.ru/wind/premium888/mono.m3u8",
-                    "m3u8_1": "https://windnew.koskoros.ru/wind/premium888/mono.m3u8",
+                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
                     "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
                 },
                 "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
                     "user_agent2": "",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": ""
                 },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907970/event_banners/8967ca1f-fc45-48fa-8001-a3c61dc4e18a.png"
+                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740976752/event_banners/95a71610-ed41-4f67-a847-59de206baecf.png"
             },
             {
-                "id": "16196da9-2279-45c1-a02f-8bf91e07d53b",
-                "time": "2025-03-02T15:45:00+00:00",
-                "country": "Netherlands - Eredivisie",
-                "league": "Netherlands - Eredivisie",
-                "match": "Sparta Rotterdam vs Willem II",
+                "id": "c3979d29-0093-44a1-b3e4-461aff7ee9e2",
+                "time": "2025-03-03T17:30:00+00:00",
+                "country": "Turkey - Super Lig",
+                "league": "Turkey - Super Lig",
+                "match": "İstanbul Başakşehir vs Sivasspor",
                 "links": [
-                    "https://daddylive.mp/embed/stream-386.php"
+                    "https://daddylive.mp/embed/stream-63.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://zekonew.koskoros.ru/zeko/premium386/mono.m3u8",
-                    "m3u8_1": "https://zekonew.koskoros.ru/zeko/premium386/mono.m3u8",
+                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
                     "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
                 },
                 "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
                     "user_agent2": "",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": ""
                 },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907971/event_banners/269d8546-8a85-4b88-9020-0c3e6794b1fc.png"
+                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740976753/event_banners/41bcdd97-1c5f-4a11-846f-e5e27ce31881.png"
             }
         ]
     },
     {
-        "id": "779871a7-6238-44c7-8532-677359846769",
-        "competition": "Italy - Serie A",
-        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/de91df625c075b3e0b8e0a0d16d1b5c5.jpg",
-        "priority": 8,
-        "matches": [
-            {
-                "id": "4b53a82d-e957-48b4-a708-bd49a52d9125",
-                "time": "2025-03-02T11:30:00+00:00",
-                "country": "Italy - Serie A",
-                "league": "Italy - Serie A",
-                "match": "Monza vs Torino",
-                "links": [
-                    "https://daddylive.mp/embed/stream-877.php",
-                    "https://daddylive.mp/embed/stream-910.php",
-                    "https://daddylive.mp/embed/stream-427.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://nfsnew.koskoros.ru/nfs/premium877/mono.m3u8",
-                    "m3u8_1": "https://nfsnew.koskoros.ru/nfs/premium877/mono.m3u8",
-                    "m3u8_2": "https://ddy6new.koskoros.ru/ddy6/premium427/mono.m3u8"
-                },
-                "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
-                    "user_agent3": ""
-                },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907972/event_banners/e5f3ff73-fd66-4f1f-be68-1efd3ea82ea0.png"
-            },
-            {
-                "id": "a26f57b9-8b6c-496a-8261-68438c65c79d",
-                "time": "2025-03-02T14:00:00+00:00",
-                "country": "Italy - Serie A",
-                "league": "Italy - Serie A",
-                "match": "Bologna vs Cagliari",
-                "links": [
-                    "https://daddylive.mp/embed/stream-877.php",
-                    "https://daddylive.mp/embed/stream-910.php",
-                    "https://daddylive.mp/embed/stream-454.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://nfsnew.koskoros.ru/nfs/premium877/mono.m3u8",
-                    "m3u8_1": "https://nfsnew.koskoros.ru/nfs/premium877/mono.m3u8",
-                    "m3u8_2": "https://zekonew.koskoros.ru/zeko/premium910/mono.m3u8"
-                },
-                "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907972/event_banners/3ec53d8e-8387-48db-b22f-a0d3cfeb2c91.png"
-            },
-            {
-                "id": "df36812e-687f-4bfd-8020-221b48c3237a",
-                "time": "2025-03-02T14:00:00+00:00",
-                "country": "Italy - Serie A",
-                "league": "Italy - Serie A",
-                "match": "Genoa vs Empoli",
-                "links": [
-                    "https://daddylive.mp/embed/stream-68.php",
-                    "https://daddylive.mp/embed/stream-428.php",
-                    "https://daddylive.mp/embed/stream-586.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://windnew.koskoros.ru/wind/premium68/mono.m3u8",
-                    "m3u8_1": "https://windnew.koskoros.ru/wind/premium68/mono.m3u8",
-                    "m3u8_2": "https://ddy6new.koskoros.ru/ddy6/premium428/mono.m3u8"
-                },
-                "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
-                    "user_agent3": ""
-                },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907973/event_banners/ff2b4b1a-5260-4dd4-9f88-38d7237b6e57.png"
-            },
-            {
-                "id": "73dd372a-abfc-452c-88e2-41f6230b81cb",
-                "time": "2025-03-02T17:00:00+00:00",
-                "country": "Italy - Serie A",
-                "league": "Italy - Serie A",
-                "match": "Roma vs Como",
-                "links": [
-                    "https://daddylive.mp/embed/stream-3.php",
-                    "https://daddylive.mp/embed/stream-870.php",
-                    "https://daddylive.mp/embed/stream-910.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://nfsnew.koskoros.ru/nfs/premium3/mono.m3u8",
-                    "m3u8_1": "https://nfsnew.koskoros.ru/nfs/premium3/mono.m3u8",
-                    "m3u8_2": "https://windnew.koskoros.ru/wind/premium870/mono.m3u8"
-                },
-                "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907974/event_banners/5f978deb-b98f-4c6e-bbea-7c7316ae3a48.png"
-            },
-            {
-                "id": "09bfe61b-9bf5-4540-a402-451d7dbc7c04",
-                "time": "2025-03-02T19:45:00+00:00",
-                "country": "Italy - Serie A",
-                "league": "Italy - Serie A",
-                "match": "Milan vs Lazio",
-                "links": [
-                    "https://daddylive.mp/embed/stream-31.php",
-                    "https://daddylive.mp/embed/stream-877.php",
-                    "https://daddylive.mp/embed/stream-427.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://nfsnew.koskoros.ru/nfs/premium31/mono.m3u8",
-                    "m3u8_1": "https://nfsnew.koskoros.ru/nfs/premium31/mono.m3u8",
-                    "m3u8_2": "https://nfsnew.koskoros.ru/nfs/premium877/mono.m3u8"
-                },
-                "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907974/event_banners/6f884df2-2b2a-42f2-b0a2-e0528e67027b.png"
-            }
-        ]
-    },
-    {
-        "id": "f34b422e-c850-4992-8403-ca1979edeaf8",
-        "competition": "England - Women's Super League",
-        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/7a055b616f23e11eb7bb3e3d8c37741f.jpg",
-        "priority": 22,
-        "matches": [
-            {
-                "id": "36caa81a-78b4-4db4-b89a-119178dd4587",
-                "time": "2025-03-02T12:30:00+00:00",
-                "country": "England - Women's Super League",
-                "league": "England - Women's Super League",
-                "match": "Manchester United vs Leicester City WFC",
-                "links": [
-                    "https://daddylive.mp/embed/stream-106.php",
-                    "https://daddylive.mp/embed/stream-4.php",
-                    "https://daddylive.mp/embed/stream-393.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddy6new.koskoros.ru/ddy6/premium106/mono.m3u8",
-                    "m3u8_1": "https://ddy6new.koskoros.ru/ddy6/premium106/mono.m3u8",
-                    "m3u8_2": "https://nfsnew.koskoros.ru/nfs/premium4/mono.m3u8"
-                },
-                "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907975/event_banners/ece45c1e-851a-4a34-849a-552377703a0d.png"
-            },
-            {
-                "id": "436f1417-2669-42be-828b-048f447c9d38",
-                "time": "2025-03-02T15:00:00+00:00",
-                "country": "England - Women's Super League",
-                "league": "England - Women's Super League",
-                "match": "Brighton &amp; Hove Albion vs Chelsea FC",
-                "links": [
-                    "https://daddylive.mp/embed/stream-35.php",
-                    "https://daddylive.mp/embed/stream-38.php",
-                    "https://daddylive.mp/embed/stream-130.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://zekonew.koskoros.ru/zeko/premium35/mono.m3u8",
-                    "m3u8_1": "https://zekonew.koskoros.ru/zeko/premium35/mono.m3u8",
-                    "m3u8_2": "https://zekonew.koskoros.ru/zeko/premium38/mono.m3u8"
-                },
-                "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907976/event_banners/c86ed4b6-17d5-4405-98a4-6e851a1d770d.png"
-            },
-            {
-                "id": "727eab35-10bd-4d5a-bfb1-0e36658ddc00",
-                "time": "2025-03-02T17:30:00+00:00",
-                "country": "England - Women's Super League",
-                "league": "England - Women's Super League",
-                "match": "Arsenal vs West Ham United",
-                "links": [
-                    "https://daddylive.mp/embed/stream-35.php",
-                    "https://daddylive.mp/embed/stream-38.php",
-                    "https://daddylive.mp/embed/stream-130.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://zekonew.koskoros.ru/zeko/premium35/mono.m3u8",
-                    "m3u8_1": "https://zekonew.koskoros.ru/zeko/premium35/mono.m3u8",
-                    "m3u8_2": "https://zekonew.koskoros.ru/zeko/premium38/mono.m3u8"
-                },
-                "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907976/event_banners/be209c3b-c378-45ca-b106-f2c79a7bcc27.png"
-            }
-        ]
-    },
-    {
-        "id": "09a39961-8b49-48f1-8a20-fe699928c259",
-        "competition": "Scottish Premiership",
-        "thumbnail": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png",
-        "priority": 100,
-        "matches": [
-            {
-                "id": "216dc758-d5a5-49b1-94e9-361b4d4d8d12",
-                "time": "2025-03-02T12:30:00+00:00",
-                "country": "Scottish Premiership",
-                "league": "Scottish Premiership",
-                "match": "Hibernian vs Hearts",
-                "links": [
-                    "https://daddylive.mp/embed/stream-35.php",
-                    "https://daddylive.mp/embed/stream-308.php",
-                    "https://daddylive.mp/embed/stream-38.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://zekonew.koskoros.ru/zeko/premium35/mono.m3u8",
-                    "m3u8_1": "https://zekonew.koskoros.ru/zeko/premium35/mono.m3u8",
-                    "m3u8_2": "https://zekonew.koskoros.ru/zeko/premium308/mono.m3u8"
-                },
-                "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907977/event_banners/229af205-e4bd-4354-ac77-fc8d842cd18a.png"
-            },
-            {
-                "id": "c0323d11-efd5-486e-8102-00b34adbeb47",
-                "time": "2025-03-02T15:00:00+00:00",
-                "country": "Scottish Premiership",
-                "league": "Scottish Premiership",
-                "match": "Aberdeen vs Dundee United",
-                "links": [
-                    "https://daddylive.mp/embed/stream-451.php",
-                    "https://daddylive.mp/embed/stream-624.php",
-                    "https://daddylive.mp/embed/stream-771.php"
-                ],
-                "top": false,
-                "m3u8_urls": {
-                    "m3u8_url": "https://windnew.koskoros.ru/wind/premium451/mono.m3u8",
-                    "m3u8_1": "https://windnew.koskoros.ru/wind/premium451/mono.m3u8",
-                    "m3u8_2": "https://dokko1new.koskoros.ru/dokko1/premium624/mono.m3u8"
-                },
-                "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907978/event_banners/6ace76cb-2ae5-4f44-905b-d762d727e221.png"
-            }
-        ]
-    },
-    {
-        "id": "9303dd11-ce55-4e28-b1e2-87c08e21a2a4",
-        "competition": "Spain - La Liga",
-        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/c25779614560b527f15f7fc64f42d33f.jpg",
-        "priority": 5,
-        "matches": [
-            {
-                "id": "853a8060-05ad-4d6f-9677-3fffa880c572",
-                "time": "2025-03-02T13:00:00+00:00",
-                "country": "Spain - La Liga",
-                "league": "Spain - La Liga",
-                "match": "Legan\u00e9s vs Getafe",
-                "links": [
-                    "https://daddylive.mp/embed/stream-11.php",
-                    "https://daddylive.mp/embed/stream-276.php",
-                    "https://daddylive.mp/embed/stream-550.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://nfsnew.koskoros.ru/nfs/premium11/mono.m3u8",
-                    "m3u8_1": "https://nfsnew.koskoros.ru/nfs/premium11/mono.m3u8",
-                    "m3u8_2": "https://windnew.koskoros.ru/wind/premium276/mono.m3u8"
-                },
-                "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907978/event_banners/638b72d0-80e0-4d71-ad1a-b6c466a597f5.png"
-            },
-            {
-                "id": "527477b6-1f00-4f46-aa69-05bcb9dc87f1",
-                "time": "2025-03-02T15:15:00+00:00",
-                "country": "Spain - La Liga",
-                "league": "Spain - La Liga",
-                "match": "Barcelona vs Real Sociedad",
-                "links": [
-                    "https://daddylive.mp/embed/stream-84.php",
-                    "https://daddylive.mp/embed/stream-11.php",
-                    "https://daddylive.mp/embed/stream-276.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://windnew.koskoros.ru/wind/premium84/mono.m3u8",
-                    "m3u8_1": "https://windnew.koskoros.ru/wind/premium84/mono.m3u8",
-                    "m3u8_2": "https://nfsnew.koskoros.ru/nfs/premium11/mono.m3u8"
-                },
-                "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907979/event_banners/395a6223-3970-4676-8f9b-8dc6c9b775f1.png"
-            },
-            {
-                "id": "42380fd6-74ab-4f26-b6a0-19e80276b59e",
-                "time": "2025-03-02T17:30:00+00:00",
-                "country": "Spain - La Liga",
-                "league": "Spain - La Liga",
-                "match": "Mallorca vs Deportivo Alav\u00e9s",
-                "links": [
-                    "https://daddylive.mp/embed/stream-11.php",
-                    "https://daddylive.mp/embed/stream-84.php",
-                    "https://daddylive.mp/embed/stream-276.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://nfsnew.koskoros.ru/nfs/premium11/mono.m3u8",
-                    "m3u8_1": "https://nfsnew.koskoros.ru/nfs/premium11/mono.m3u8",
-                    "m3u8_2": "https://windnew.koskoros.ru/wind/premium84/mono.m3u8"
-                },
-                "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907979/event_banners/d6aec6c9-c45d-497a-8ab2-1b459b3deeb4.png"
-            },
-            {
-                "id": "80fcc470-7cdb-432f-a8a1-86db00faded2",
-                "time": "2025-03-02T20:00:00+00:00",
-                "country": "Spain - La Liga",
-                "league": "Spain - La Liga",
-                "match": "Osasuna vs Valencia",
-                "links": [
-                    "https://daddylive.mp/embed/stream-84.php",
-                    "https://daddylive.mp/embed/stream-276.php",
-                    "https://daddylive.mp/embed/stream-799.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://windnew.koskoros.ru/wind/premium84/mono.m3u8",
-                    "m3u8_1": "https://windnew.koskoros.ru/wind/premium84/mono.m3u8",
-                    "m3u8_2": "https://windnew.koskoros.ru/wind/premium276/mono.m3u8"
-                },
-                "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907980/event_banners/5fd4f03c-5198-4753-92fd-60613b714bf5.png"
-            }
-        ]
-    },
-    {
-        "id": "2fff4db2-5da9-4989-a076-bd7a9d08923a",
+        "id": "92b60778-89e4-484c-bdb2-4a2d50ef0bb0",
         "competition": "England - FA Cup",
         "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/b1843b112d7631ef87f5bad920282ed5.jpg",
         "priority": 3,
         "matches": [
             {
-                "id": "b627ee8d-360d-40de-b46d-e25c78c9982c",
-                "time": "2025-03-02T13:45:00+00:00",
+                "id": "ec83621b-2d0c-4d7e-a162-4cb9257ca495",
+                "time": "2025-03-03T19:30:00+00:00",
                 "country": "England - FA Cup",
                 "league": "England - FA Cup",
-                "match": "Newcastle United vs Brighton &amp; Hove Albion",
+                "match": "Nottingham Forest vs Ipswich Town",
                 "links": [
-                    "https://daddylive.mp/embed/stream-350.php",
-                    "https://daddylive.mp/embed/stream-406.php",
-                    "https://daddylive.mp/embed/stream-408.php"
+                    "https://daddylive.mp/embed/stream-353.php",
+                    "https://daddylive.mp/embed/stream-590.php",
+                    "https://daddylive.mp/embed/stream-11.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://dokko1new.koskoros.ru/dokko1/premium350/mono.m3u8",
-                    "m3u8_1": "https://dokko1new.koskoros.ru/dokko1/premium350/mono.m3u8",
-                    "m3u8_2": "https://windnew.koskoros.ru/wind/premium406/mono.m3u8"
-                },
-                "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907981/event_banners/00b04b24-57dc-42fa-9d40-102510721255.png"
-            }
-        ]
-    },
-    {
-        "id": "b24f1dc9-3487-4fa3-a982-47872bb63994",
-        "competition": "France - Ligue 1",
-        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/8725b8ac7f3c28e5cb15a95d8446b86e.jpg",
-        "priority": 7,
-        "matches": [
-            {
-                "id": "38b7749a-e6a3-43fa-953f-8365393f7b2c",
-                "time": "2025-03-02T14:00:00+00:00",
-                "country": "France - Ligue 1",
-                "league": "France - Ligue 1",
-                "match": "Olympique Lyonnais vs Brest",
-                "links": [
-                    "https://daddylive.mp/embed/stream-59.php",
-                    "https://daddylive.mp/embed/stream-425.php",
-                    "https://daddylive.mp/embed/stream-372.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://windnew.koskoros.ru/wind/premium59/mono.m3u8",
-                    "m3u8_1": "https://windnew.koskoros.ru/wind/premium59/mono.m3u8",
-                    "m3u8_2": "https://zekonew.koskoros.ru/zeko/premium425/mono.m3u8"
-                },
-                "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907981/event_banners/db0927a7-f334-4ac5-9218-754e4d762dea.png"
-            },
-            {
-                "id": "92025611-4414-42bd-a33b-8f2a21297e94",
-                "time": "2025-03-02T16:15:00+00:00",
-                "country": "France - Ligue 1",
-                "league": "France - Ligue 1",
-                "match": "Simulcast",
-                "links": [
-                    "https://daddylive.mp/embed/stream-59.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://windnew.koskoros.ru/wind/premium59/mono.m3u8",
-                    "m3u8_1": "https://windnew.koskoros.ru/wind/premium59/mono.m3u8",
+                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
                     "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
                 },
                 "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
                     "user_agent2": "",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": ""
                 },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907982/event_banners/327cdd7f-cacb-4d8d-bd31-44d3f420cc48.png"
-            },
-            {
-                "id": "aeb9b100-90b9-4cd0-ad1a-dca5db351b0d",
-                "time": "2025-03-02T16:15:00+00:00",
-                "country": "France - Ligue 1",
-                "league": "France - Ligue 1",
-                "match": "Montpellier vs Rennes",
-                "links": [
-                    "https://daddylive.mp/embed/stream-86.php",
-                    "https://daddylive.mp/embed/stream-94.php",
-                    "https://daddylive.mp/embed/stream-90.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://dokko1new.koskoros.ru/dokko1/premium86/mono.m3u8",
-                    "m3u8_1": "https://dokko1new.koskoros.ru/dokko1/premium86/mono.m3u8",
-                    "m3u8_2": "https://dokko1new.koskoros.ru/dokko1/premium94/mono.m3u8"
-                },
-                "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907983/event_banners/ab64f71e-0c68-44d5-8180-55760ba82ae4.png"
-            },
-            {
-                "id": "aae6c914-4c0f-46e9-a68b-6f54a751031e",
-                "time": "2025-03-02T16:15:00+00:00",
-                "country": "France - Ligue 1",
-                "league": "France - Ligue 1",
-                "match": "Auxerre vs Strasbourg",
-                "links": [
-                    "https://daddylive.mp/embed/stream-105.php",
-                    "https://daddylive.mp/embed/stream-425.php",
-                    "https://daddylive.mp/embed/stream-372.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://zekonew.koskoros.ru/zeko/premium425/mono.m3u8",
-                    "m3u8_1": "https://zekonew.koskoros.ru/zeko/premium425/mono.m3u8",
-                    "m3u8_2": "https://zekonew.koskoros.ru/zeko/premium372/mono.m3u8"
-                },
-                "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
-                    "user_agent3": ""
-                },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907983/event_banners/c671822c-0c29-4be3-9772-36a2150652eb.png"
-            },
-            {
-                "id": "b1b3baf1-8c06-4b9d-9a00-e7bc60b76e95",
-                "time": "2025-03-02T16:15:00+00:00",
-                "country": "France - Ligue 1",
-                "league": "France - Ligue 1",
-                "match": "Angers SCO vs Toulouse",
-                "links": [
-                    "https://daddylive.mp/embed/stream-106.php",
-                    "https://daddylive.mp/embed/stream-92.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddy6new.koskoros.ru/ddy6/premium106/mono.m3u8",
-                    "m3u8_1": "https://ddy6new.koskoros.ru/ddy6/premium106/mono.m3u8",
-                    "m3u8_2": "https://dokko1new.koskoros.ru/dokko1/premium92/mono.m3u8"
-                },
-                "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
-                    "user_agent3": ""
-                },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907984/event_banners/b2a2418e-812d-49e6-bcca-5f768af5aa47.png"
-            },
-            {
-                "id": "ce61c9a8-7471-4ddd-a367-439668fc8068",
-                "time": "2025-03-02T19:45:00+00:00",
-                "country": "France - Ligue 1",
-                "league": "France - Ligue 1",
-                "match": "Olympique Marseille vs Nantes",
-                "links": [
-                    "https://daddylive.mp/embed/stream-59.php",
-                    "https://daddylive.mp/embed/stream-425.php",
-                    "https://daddylive.mp/embed/stream-372.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://windnew.koskoros.ru/wind/premium59/mono.m3u8",
-                    "m3u8_1": "https://windnew.koskoros.ru/wind/premium59/mono.m3u8",
-                    "m3u8_2": "https://zekonew.koskoros.ru/zeko/premium425/mono.m3u8"
-                },
-                "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907985/event_banners/c20be50a-e2ca-4301-b267-a5bebb01bfad.png"
+                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740976754/event_banners/b4b15aec-eca3-4ec1-b623-0e9a0419c231.png"
             }
         ]
     },
     {
-        "id": "3931c26e-1915-4eb4-894e-c78dfeb35df4",
-        "competition": "Bundesliga",
-        "thumbnail": "https://d11p0alxbet5ud.cloudfront.net/Pictures/2000x2000fit/9/8/9/1316989_bundesligaimage_330319.jpg",
-        "priority": 6,
+        "id": "d975820c-055e-4f0b-8db8-ca8ab592c453",
+        "competition": "Italy - Serie A",
+        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/de91df625c075b3e0b8e0a0d16d1b5c5.jpg",
+        "priority": 8,
         "matches": [
             {
-                "id": "71aaa36b-484c-4254-b293-7f8b35608de1",
-                "time": "2025-03-02T14:30:00+00:00",
-                "country": "Bundesliga",
-                "league": "Bundesliga",
-                "match": "Union Berlin vs Holstein Kiel",
+                "id": "be45f871-f897-4c24-9904-5d0ff6c6d408",
+                "time": "2025-03-03T19:45:00+00:00",
+                "country": "Italy - Serie A",
+                "league": "Italy - Serie A",
+                "match": "Juventus vs Hellas Verona",
                 "links": [
-                    "https://daddylive.mp/embed/stream-427.php",
-                    "https://daddylive.mp/embed/stream-449.php",
-                    "https://daddylive.mp/embed/stream-22.php"
+                    "https://daddylive.mp/embed/stream-8.php",
+                    "https://daddylive.mp/embed/stream-461.php",
+                    "https://daddylive.mp/embed/stream-870.php"
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://ddy6new.koskoros.ru/ddy6/premium427/mono.m3u8",
-                    "m3u8_1": "https://ddy6new.koskoros.ru/ddy6/premium427/mono.m3u8",
-                    "m3u8_2": "https://ddy6new.koskoros.ru/ddy6/premium449/mono.m3u8"
+                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
                 },
                 "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": ""
                 },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907985/event_banners/d9b536b2-bd9c-4135-8c3c-4ce3c40ec2c2.png"
-            },
-            {
-                "id": "e27e08dc-3627-4f17-8bcc-e6311e441822",
-                "time": "2025-03-02T16:30:00+00:00",
-                "country": "Bundesliga",
-                "league": "Bundesliga",
-                "match": "Augsburg vs Freiburg",
-                "links": [
-                    "https://daddylive.mp/embed/stream-426.php",
-                    "https://daddylive.mp/embed/stream-168.php",
-                    "https://daddylive.mp/embed/stream-456.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddy6new.koskoros.ru/ddy6/premium426/mono.m3u8",
-                    "m3u8_1": "https://ddy6new.koskoros.ru/ddy6/premium426/mono.m3u8",
-                    "m3u8_2": "https://windnew.koskoros.ru/wind/premium168/mono.m3u8"
-                },
-                "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907986/event_banners/524a204d-fce3-4d69-a2b8-f7a4897ad713.png"
+                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740976755/event_banners/247faa0c-e4c7-4630-bdbe-addb4ffb5c54.png"
             }
         ]
     },
     {
-        "id": "9919839f-1d5b-496e-a3b1-6d955a331b6d",
+        "id": "5a5636c2-f929-47b1-95ff-e31ea4908195",
+        "competition": "Spain - La Liga",
+        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/c25779614560b527f15f7fc64f42d33f.jpg",
+        "priority": 5,
+        "matches": [
+            {
+                "id": "2248619f-4253-4689-9522-fdb72d16825a",
+                "time": "2025-03-03T20:00:00+00:00",
+                "country": "Spain - La Liga",
+                "league": "Spain - La Liga",
+                "match": "Villarreal vs Espanyol",
+                "links": [
+                    "https://daddylive.mp/embed/stream-84.php",
+                    "https://daddylive.mp/embed/stream-276.php",
+                    "https://daddylive.mp/embed/stream-451.php"
+                ],
+                "top": true,
+                "m3u8_urls": {
+                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+                },
+                "headers": {
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
+                    "user_agent2": "",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
+                    "user_agent3": ""
+                },
+                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740976756/event_banners/151bd43a-478e-48ee-899a-00974f44bbaf.png"
+            }
+        ]
+    },
+    {
+        "id": "2bf3d77d-605e-4cf1-b749-d98818d82e7e",
         "competition": "Portugal - Primeira Liga",
         "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/09e634516b77d5354f4cfdd292416acd.jpg",
         "priority": 21,
         "matches": [
             {
-                "id": "00eb0794-7e1c-47ae-8e01-8be64ad0bb1f",
-                "time": "2025-03-02T15:30:00+00:00",
+                "id": "79204f10-0516-479a-bfb1-1d0fda2ac397",
+                "time": "2025-03-03T20:15:00+00:00",
                 "country": "Portugal - Primeira Liga",
                 "league": "Portugal - Primeira Liga",
-                "match": "Moreirense vs Estrela",
-                "links": [
-                    "https://daddylive.mp/embed/stream-289.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://ddy6new.koskoros.ru/ddy6/premium289/mono.m3u8",
-                    "m3u8_1": "https://ddy6new.koskoros.ru/ddy6/premium289/mono.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
-                    "user_agent2": "",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
-                    "user_agent3": ""
-                },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907986/event_banners/120634fa-d582-45db-8cb2-476ad1c6cb40.png"
-            },
-            {
-                "id": "d35c0e6d-608a-446c-a777-4cb4b9846574",
-                "time": "2025-03-02T15:30:00+00:00",
-                "country": "Portugal - Primeira Liga",
-                "league": "Portugal - Primeira Liga",
-                "match": "Boavista vs Santa Clara",
-                "links": [
-                    "https://daddylive.mp/embed/stream-49.php",
-                    "https://daddylive.mp/embed/stream-597.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://windnew.koskoros.ru/wind/premium49/mono.m3u8",
-                    "m3u8_1": "https://windnew.koskoros.ru/wind/premium49/mono.m3u8",
-                    "m3u8_2": "https://zekonew.koskoros.ru/zeko/premium597/mono.m3u8"
-                },
-                "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
-                    "user_agent3": ""
-                },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907987/event_banners/80aa29ce-0718-409b-9d65-68b9303f9236.png"
-            },
-            {
-                "id": "d9b79f68-d040-431d-a7bc-d18afb2c4718",
-                "time": "2025-03-02T18:00:00+00:00",
-                "country": "Portugal - Primeira Liga",
-                "league": "Portugal - Primeira Liga",
-                "match": "Farense vs AVS",
-                "links": [
-                    "https://daddylive.mp/embed/stream-49.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://windnew.koskoros.ru/wind/premium49/mono.m3u8",
-                    "m3u8_1": "https://windnew.koskoros.ru/wind/premium49/mono.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
-                    "user_agent2": "",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
-                    "user_agent3": ""
-                },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907988/event_banners/f6e30fcd-c626-4ba3-a3bc-f3fbd2e3c3cb.png"
-            },
-            {
-                "id": "b0209b2f-d441-408c-b959-5afc3f912b88",
-                "time": "2025-03-02T20:30:00+00:00",
-                "country": "Portugal - Primeira Liga",
-                "league": "Portugal - Primeira Liga",
-                "match": "Rio Ave vs Sporting Braga",
+                "match": "Sporting CP vs Estoril",
                 "links": [
                     "https://daddylive.mp/embed/stream-49.php",
                     "https://daddylive.mp/embed/stream-597.php",
@@ -1130,86 +255,22 @@
                 ],
                 "top": true,
                 "m3u8_urls": {
-                    "m3u8_url": "https://windnew.koskoros.ru/wind/premium49/mono.m3u8",
-                    "m3u8_1": "https://windnew.koskoros.ru/wind/premium49/mono.m3u8",
-                    "m3u8_2": "https://zekonew.koskoros.ru/zeko/premium597/mono.m3u8"
-                },
-                "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
-                    "user_agent2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
-                    "user_agent3": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
-                },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907988/event_banners/c41c8199-b029-4368-8387-3e636fcfef4a.png"
-            }
-        ]
-    },
-    {
-        "id": "97698127-9d1d-4cfc-aa9a-3c7a51e95e62",
-        "competition": "Saudi Arabia - Pro League",
-        "thumbnail": "https://storage.googleapis.com/football-utv.appspot.com/competition_logos/9f666aad4665ccc5a1c5b007ccae9f90.jpg",
-        "priority": 11,
-        "matches": [
-            {
-                "id": "fec74485-0127-41fa-817e-0e095609637d",
-                "time": "2025-03-02T19:00:00+00:00",
-                "country": "Saudi Arabia - Pro League",
-                "league": "Saudi Arabia - Pro League",
-                "match": "Al Raed vs Al Ittifaq",
-                "links": [
-                    "https://daddylive.mp/embed/stream-8.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://nfsnew.koskoros.ru/nfs/premium8/mono.m3u8",
-                    "m3u8_1": "https://nfsnew.koskoros.ru/nfs/premium8/mono.m3u8",
+                    "m3u8_url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+                    "m3u8_1": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
                     "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
                 },
                 "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
+                    "referer": "https://cookiewebplay.xyz/",
+                    "origin": "https://cookiewebplay.xyz",
+                    "user_agent": "",
+                    "referer2": "https://cookiewebplay.xyz/",
+                    "origin2": "https://cookiewebplay.xyz",
                     "user_agent2": "",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
+                    "referer3": "https://cookiewebplay.xyz/",
+                    "origin3": "https://cookiewebplay.xyz",
                     "user_agent3": ""
                 },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907989/event_banners/09f357c4-16ff-4cd5-af95-0610d566c22d.png"
-            },
-            {
-                "id": "4bc8e953-f92c-4726-9e60-bbdb2ef8bc55",
-                "time": "2025-03-02T19:00:00+00:00",
-                "country": "Saudi Arabia - Pro League",
-                "league": "Saudi Arabia - Pro League",
-                "match": "Al Quadisiya vs Al Riyadh",
-                "links": [
-                    "https://daddylive.mp/embed/stream-25.php"
-                ],
-                "top": true,
-                "m3u8_urls": {
-                    "m3u8_url": "https://nfsnew.koskoros.ru/nfs/premium25/mono.m3u8",
-                    "m3u8_1": "https://nfsnew.koskoros.ru/nfs/premium25/mono.m3u8",
-                    "m3u8_2": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-                },
-                "headers": {
-                    "referer": "https://quest4play.xyz/",
-                    "origin": "https://quest4play.xyz",
-                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
-                    "referer2": "https://quest4play.xyz/",
-                    "origin2": "https://quest4play.xyz",
-                    "user_agent2": "",
-                    "referer3": "https://quest4play.xyz/",
-                    "origin3": "https://quest4play.xyz",
-                    "user_agent3": ""
-                },
-                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740907989/event_banners/3ae6b85d-5cb7-4d7e-b8af-e4b57ac1fbd3.png"
+                "thumb": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740976757/event_banners/d3bdc48e-cbf4-42f6-8d92-92c731d2df62.png"
             }
         ]
     }
